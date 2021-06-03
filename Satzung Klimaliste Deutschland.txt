@@ -68,6 +68,8 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
        · die Bund-Länder-Kammer
        · der Bundesvorstand
 (1a) Mitglieder der Organe der Bundespartei müssen Mitglieder der Klimaliste sein.
+(1b) Vertreter:innen, die von den Ländern in Organe zu entsenden sind, werden von den Landesverbänden für zwei Jahr gewählt. Die Anzahl Delegierte:r pro Landesverband nach dem Verfahren von Sainte-Lague auf die Landesverbände verteilt. Als Mitgliedszahl ist die Mitgliedszahl zum letzten 01.01, 01.04, 01.07 oder 01.10. zum Zeitpunkt der Einladung maßgeblich. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins.
+(1a) Um die Delegierten zu ermitteln, übersenden die Landesverbände das Wahlergebnis nach Wahlordnung an den Bundesparteivorstand. Bei Änderungen der Anzahl Delegierter, die auf ein Land entfallen, rücken so gemäß Wahlordnung weitere Personen nach oder verlieren ihren Platz. Die Quotierung wird innerhalb der Delegiertenplätze eines Landesverbandes durchgeführt. Wenn keine aktuelle Liste mit Delegierten vorliegt, oder die Wahlperiode ohne Nachwahl abgelaufen ist, bleiben die Sitze dieses Landes vakant.
 (2) Jedes Organ der Bundespartei gibt sich jeweils eine Geschäftsordnung. Bei Widersprüchen der Geschäftsordnung mit dem Gesetz oder der Satzung gelten Gesetz bzw. Satzung vorrangig. Die Wirksamkeit der übrigen Geschäftsordnung bleibt unberührt.
 (3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen durch einfache Mehrheit, d.h. ein Antrag ist angenommen, wenn mehr Ja- als Nein-Stimmen abgegeben werden.
 (3a) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde.  Die jeweilige Geschäftsordnung kann ein Quorum und weitere Bedingungen bestimmen.
@@ -88,27 +90,24 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
 (1) Die Bund-Länder-Kammer ist nach dem Bundesparteitag das zweithöchste beschlussfassende Gremium. Sie beschließt bis zum nächsten Zusammentreten des Bundesparteitages die grundlegenden politischen und finanziellen Angelegenheiten. Sie organisiert und fördert auch die Prozesse der Meinungs- und Programmfindung innerhalb der Partei. Ferner befasst sie sich mit allen Angelegenheiten, die der Bundesparteitag an sie delegiert.
 Der Bund-Länder-Kammer gehören an:
 1. die Mitglieder des Bundesvorstandes, davon sind drei vom Bundesvorstande ausgewählte Mitglieder mit Stimmrecht versehen,
-2. 51 weitere, stimmberechtigte Delegierte, die von den Landesverbänden für zwei Jahr gewählt werden und nach dem Verfahren von Sainte-Lague auf die Landesverbände verteilt werden. Als Mitgliedszahl ist die Mitgliedszahl zum letzten 01.01, 01.04, 01.07 oder 01.10. maßgeblich. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins.
-(1a) Um die Delegierten zu ermitteln, übersenden die Landesverbände das Wahlergebnis nach Wahlordnung an den Bundesparteivorstand. Bei Änderungen der Anzahl Delegierter, die auf ein Land entfallen, rücken so gemäß Wahlordnung weitere Personen nach oder verlieren ihren Platz. Die Quotierung wird innerhalb der Delegiertenplätze eines Landesverbandes durchgeführt. Wenn keine aktuelle Liste mit Delegierten vorliegt, oder die Wahlperiode ohne Nachwahl abgelaufen ist, bleiben die Sitze dieses Landes vakant.
+2. 51 weitere, stimmberechtigte Delegierte, die von den Ländern gewählt werden.
 (2) Die Bund-Länder-Kammer tagt mindestens einmal alle drei Monate. Er wird vom Bundesvorstand mit einer Ladungsfrist von mindestens sieben Tagen einberufen. Zu einer weiteren Sitzung tritt die Bund-Länder-Kammer zusammen, wenn ein Fünftel der Mitglieder der Bund-Länder-Kammer oder der Bundesvorstand dies verlangen. Antragsberechtigt sind der Bundesvorstand, die Landesvorstände und jede Arbeitsgemeinschaft auf Bundesebene.
 (3) Zur Förderung der Basisdemokratie erhalten bei jeder ordentlichen Sitzung zehn vom Bundesparteivorstand zufällig und mit gleicher Wahrscheinlichkeit ausgewählte Mitglieder der Klimaliste, die kein Parteiamt innehaben, die Möglichkeit, mit Rederecht an einer Sitzung der Bund-Länder-Kammer teilzunehmen. Mindestens zwei der zehn eingeladenen Mitglieder:innen sollen Ortsgruppen der neuen Bundesländer angehören. 
  
 *§ 11 Der Bundesparteitag
-(1) Der Bundesparteitag ist die Mitgliederversammlung der Bundespartei.
+(1) Der Bundesparteitag ist die Mitgliederversammlung der Bundespartei. Wenn die Mitgliederzahl der Bundespartei 600 übersteigt, wird statt einer Mitgliederversammlung eine Vertretendenversammlung (Delegiertenparteitag) abgehalten. 
+(2) Im Falle einer Vertreter:innenversammlung werden 299 Vertreter:innen von den Ländern gewählt. Außerdem sind die Mitglieder des Bundesvorstandes berechtigt, am Landesparteitag mit Rede- und Antragsrecht teilzunehmen. Sie dürfen nicht Delegierte:r eines Landesverbandes sein.
 (2) Der Bundesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt durch Beschluss des Bundesparteivorstandes oder wenn 5 % der Parteimitglieder dies in Textform beim Bundesparteivorstand beantragen. Der Parteivorstand lädt jedes Mitglied in Textform mindestens vier Wochen vorher ein. Die Einladung muss Angaben zum Tagungsort (ggf. virtuell), Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, enthalten. Spätestens zwei Wochen vor dem Bundesparteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
-(3) Anträge können durch jedes Mitglied und jedes Organ der Bundespartei oder seiner Untergliederungen bis zum siebten Tag vor dem Zusammentreten des Bundesparteitages gestellt werden. Anträge von Mitgliedern müssen bis zum Zusammentreten des Bundesparteitages von mindestens zehn anderen Mitgliedern des Bundesparteitages unterstützt werden, um durch den Bundesparteitag behandelt zu werden.
-(4) Wenn die Mitgliederzahl der Bundespartei 600 übersteigt, muss statt einer Mitgliederversammlung eine Vertretendenversammlung (Delegiertenparteitag) abgehalten werden. 
-(5) Im Falle einer Vertreter:innenversammlung werden die Vertreter:innen der Länder in ihren Parteitagen jeweils für das nächste Kalenderjahr in geheimer Wahl gewählt. Insgesamt besteht der Bundesparteitag im Regelfall aus 299 Delegierten. Die Delegierten werden gemäß der Zahl der Mitglieder, die am 01. Juli beim Bundesvorstand gemeldet sind ermittelt und für das folgende Jahr nach dem Verfahren von Sainte-Laguë auf die Landesverbände verteilt. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins. Darüber hinaus sind die Mitglieder des Bundesvorstandes berechtigt, am Landesparteitag mit Rede(- und Antrags)recht teilzunehmen. 
-3b Mitglieder des Bundesparteivorstandes dürfen nicht Delegierte sein.
+(3) Anträge können durch jedes Mitglied und jedes Organ der Bundespartei oder seiner Untergliederungen bis zum siebten Tag vor dem Zusammentreten des Bundesparteitages gestellt werden. Anträge, die nicht von einem Organ der Bundespartei gestellt werden, müssen bis zum Zusammentreten des Bundesparteitages von mindestens zehn (anderen) Mitgliedern des Bundesparteitages unterstützt werden, um durch den Bundesparteitag behandelt zu werden.
 (6) Im Falle einer Mitgliederversammlung ist eine Stimmrechtsübertragung ausgeschlossen. 
 (7) Die Aufgaben des Bundesparteitages sind insbesondere
-(a) Beschlüsse über die Grundlinien der Politik der Klimaliste Deutschland, über das Programm und die Ausrichtung der Bundespartei
-	(b) Beschlüsse über diese Satzung und ihre dazugehörigen Ordnungen
-	(c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Parteien
-	(d) die Wahl des Bundesparteivorstandes
-(e) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Bundesparteivorstandes und der Bund-Länder-Kammer.
-	(f) Entscheidung entsprechend ob die Teilnahme der Bundespartei an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt
-	(g) Wahl des Parteischiedsgerichtes und der beiden Rechnungsprüfer
+  (a) Beschlüsse über die Grundlinien der Politik der Klimaliste Deutschland, über das Programm und die Ausrichtung der Bundespartei
+  (b) Beschlüsse über diese Satzung und ihre dazugehörigen Ordnungen
+  (c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Parteien
+  (d) die Wahl des Bundesparteivorstandes
+  (e) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Bundesparteivorstandes und der Bund-Länder-Kammer.
+  (f) Entscheidung entsprechend ob die Teilnahme der Bundespartei an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt
+  (g) Wahl des Parteischiedsgerichtes und der beiden Rechnungsprüfer:innen
  
 *§ 13 Urabstimmung
 (1) Über grundlegende Fragen des Programmes, der Satzung und des Grundkonsenses sowie über Antritte zu öffentlichen Wahlen kann eine Urabstimmung aller Mitglieder erfolgen.
