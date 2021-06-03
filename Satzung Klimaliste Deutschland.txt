@@ -106,7 +106,7 @@ Der Bund-Länder-Kammer gehören an:
   (c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Parteien
   (d) die Wahl des Bundesparteivorstandes
   (e) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Bundesparteivorstandes und der Bund-Länder-Kammer.
-  (f) Entscheidung entsprechend ob die Teilnahme der Bundespartei an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt
+  (f) Entscheidung ob die Teilnahme an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt
   (g) Wahl des Parteischiedsgerichtes und der beiden Rechnungsprüfer:innen
  
 *§ 13 Urabstimmung
@@ -114,11 +114,10 @@ Der Bund-Länder-Kammer gehören an:
 Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur Urabstimmung.
 (2) Die Urabstimmung findet statt
 	(a) auf Antrag von 5 % der Mitglieder,
-	(b) von 60 Gebietsgliederungen aus 3 Landesverbänden,
+	(b) von 60 Gebietsgliederungen,
 	(c) auf Antrag von 4 Landesverbänden,
-	(d) nach Beschluss des Bundesparteitags oder.
-	(e) nach Beschluss des Bundesvorstandes
-(3) Der Bundesparteivorstand führt die Urabstimmung durch. Sie muss binnen sechs Wochen nach Eingang des Antrages oder Beschlusses beim Vorstandes abgeschlossen sein.
+	(d) nach Beschluss eines Organs der Bundespartei.
+(3) Der Bundesparteivorstand führt die Urabstimmung durch. Sie muss binnen sechs Wochen nach Eingang des Antrages oder Beschlusses beim Vorstand abgeschlossen sein.
 (4) Die Kosten der Urabstimmung trägt die Bundespartei.
 (5) Ein einmal abgestimmter Inhalt kann erst nach Ablauf von zwei Jahren nach Bekanntgabe des Ergebnisses der Urabstimmung erneut Inhalt eines Urabstimmungsverfahrens sein.
  
@@ -132,27 +131,21 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
 *§ 15 Auflösung, Aufnahme anderer Parteien und Verschmelzung
 (1) Die Verschmelzung oder Auflösung der Bundespartei kann nur durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der anwesenden Stimmberechtigten beschlossen werden.
-(2) Ein Bundesparteitagsbeschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter allen Parteimitgliedern der Klimaliste Deutschland mit einer 2/3 Mehrheit bestätigt werden.
+(2) Ein Bundesparteitagsbeschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter allen Parteimitgliedern der Klimaliste Deutschland mit einer 2/3-Mehrheit bestätigt werden.
 (3) Über einen Antrag auf Auflösung oder Verschmelzung kann der Bundesparteitag nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesparteivorstand in Textform eingegangen ist.
  
  
 *§ 16 Schiedsgerichtsordnung, Finanzordnung und Weitere Satzungsdokumente
 (1) Auf Bundes- und Landeseben sind Schiedsgerichte einzurichten. Zusammensetzung, Zuständigkeit und Verfahren regeln die Schiedsgerichtsordnungen der Bundes- und Landesebene. Eine Schiedsgerichtsordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 (2) Die Bundesebene und jede Gebietsgliederungsebene der Klimaliste Deutschland ist bezüglich der Aufbringung, Verwendung und Verwaltung von finanziellen Mitteln an die jeweils eigene Finanzordnung gebunden. Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
-(3) Neben dieser Satzung sind auch die Wahlordnung (WO), die Schiedsgerichtsordnung der Klimaliste Deutschland (SchO DE) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Deutschland und haben daher Satzungsrang.
+(3) Neben dieser Satzung sind auch die Wahlordnung (WO), die Schiedsgerichtsordnung der Klimaliste Deutschland (SchODE) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Deutschland und haben daher Satzungsrang.
  
  
  
 *§ 19 Änderung der Satzung
 (1) Die Bundessatzung kann durch 2/3-Mehrheit der Mitglieder des Bundesparteitages der Klimaliste Deutschland geändert werden.
-(2) Soweit diese Satzung nichts Anderes bestimmt, erhalten Änderungen der Satzung
-einschließlich ihrer Bestandteile ihre Gültigkeit mit der Verabschiedung auf dem Bundesparteitag.
-(3) Änderungen der Satzung einschließlich ihrer Bestandteile müssen spätestens einen Monate nach der beschlossenen Änderung in der aktualisierten Fassung vorliegen.
-(4) In begründeten Ausnahmefällen kann der Bundesparteivorstand die Kommunikation und
-Veröffentlichung der geänderten Satzungsdokumente um einen weiteren Monat nach dem Beschluss über Satzungsänderungen verschieben.
-Aktualisierte Fassungen müssen allen Mitgliedern offengelegt und im Online-Auftritt veröffentlicht werden.
-(5) Verantwortlich für die Umsetzung ist der Bundesparteivorstand.
- 
+(2) Soweit diese Satzung nichts Anderes bestimmt, erhalten Änderungen der Satzung einschließlich ihrer Bestandteile ihre Gültigkeit mit Verabschiedung.
+(3) Die geänderte Satzung einschließlich ihrer Bestandteile muss der Bundesparteivorstand spätestens ein Monat nach der beschlossenen Änderung veröffentlichen.
  
 *§ 20 Salvatorische Klausel
 Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam oder nichtig sein, wird dadurch die Wirksamkeit der übrigen Satzung nicht berührt.
