@@ -55,16 +55,13 @@ Gebietsgliederungen können ergänzende Unvereinbarkeitsrichtlinien beschließen
  
  
 *§ 7 Die allgemeine Gliederung der Klimaliste Deutschland
-(1) Die Klimaliste Deutschland versteht sich als dezentral, subsidiär und föderalistisch organisierte Bundespartei.
-(2) Die Struktur der Gebietsverbände erfolgt in föderalistischer Logik:
-a. Die Bundespartei besteht aus Landesverbänden, die je aus einem oder mehreren Ländern der Bundesrepublik Deutschland bestehen.
-b. Die Gebietsgliederungen eines Landesverbandes bestimmt der jeweilige Landesverband in seiner Satzung.
- 
-(3) Innerhalb der staatsrechtlichen Grenzen eines Bundeslandes gibt es nur einen Landesverband. Die Gründung eines Landesverbandes bedarf der Zustimmung der Bundesebene und einer Mindestanzahl von 7 Personen.
-(4) Eine Gebietsgliederung unterhalb der Landesebene kann nur mit einer Mindestanzahl von 7 Personen gegründet werden. Die Gründung bedarf der Zustimmung der Landesebene.
-(5) Alle Gebietsgliederungen haben Satzungsautonomie und können eigene Vorschriften verfassen, soweit sie nicht der Bundessatzung, den dazugehörigen erlassenen Ordnungen und Richtlinien der Bundespartei widersprechen.
- 
- 
+(1) Die Klimaliste Deutschland versteht sich als dezentral, subsidiär und föderalistisch organisierte Bundespartei. Die Bundespartei besteht aus Landesverbänden, die je ein oder mehrere Länder der Bundesrepublik Deutschland umfassen. Innerhalb der Grenzen eines Landes gibt es nur einen Landesverband.
+(2) Landesverbände müssen durch den Bundesparteitag mit 2/3-Mehrheit auf gemeinsamen Antrag des Bundesparteivorstandes und des Vorstandes des werdenden Landesverbandes anerkannt werden.
+(3) Die Gebietsgliederungen eines Landesverbandes sowie die Bedingungen und das zuständige Organ für die Anerkennung als Gebietsgliederung bestimmt der jeweilige Landesverband in seiner Satzung.
+(4) Alle Gebietsgliederungen haben Satzungsautonomie und können eigene Vorschriften verfassen, soweit sie nicht der Satzung und Ordnungen der übergeordneten Gliederungen widersprechen.
+Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufzulösen.
+
+
 *§ 8 Organe der Bundespartei
 (1) Organe der Bundespartei sind
        · der Bundesparteitag
