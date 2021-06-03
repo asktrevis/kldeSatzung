@@ -98,7 +98,7 @@ Der Bund-Länder-Kammer gehören an:
 (2) Der Bundesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt durch Beschluss des Bundesparteivorstandes oder wenn 5 % der Parteimitglieder dies in Textform beim Bundesparteivorstand beantragen. Der Parteivorstand lädt jedes Mitglied in Textform mindestens vier Wochen vorher ein. Die Einladung muss Angaben zum Tagungsort (ggf. virtuell), Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, enthalten. Spätestens zwei Wochen vor dem Bundesparteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 (3) Anträge können durch jedes Mitglied und jedes Organ der Bundespartei oder seiner Untergliederungen bis zum siebten Tag vor dem Zusammentreten des Bundesparteitages gestellt werden. Anträge von Mitgliedern müssen bis zum Zusammentreten des Bundesparteitages von mindestens zehn anderen Mitgliedern des Bundesparteitages unterstützt werden, um durch den Bundesparteitag behandelt zu werden.
 (4) Wenn die Mitgliederzahl der Bundespartei 600 übersteigt, muss statt einer Mitgliederversammlung eine Vertretendenversammlung (Delegiertenparteitag) abgehalten werden. 
-(5) Im Falle einer Vertreter:innenversammlung werden die Vertreter:innen der Länder in ihren Parteitagen jeweils für das nächste Kalenderjahr in geheimer Wahl gewählt. Insgesamt besteht der Bundesparteitag im Regelfall aus 299 Delegierten. Die Delegierten werden gemäß der Zahl der Mitglieder, die am 01. Juli beim Bundesvorstand gemeldet sind ermittelt und für das folgende Jahr nach dem Verfahren von Sainte-Laguë auf die Landesverbände verteilt. Sollte ein Landesverband gemäß diesem Verfahren über keine*n eigene*n Delegierte*n verfügen, wird diesem ein*e außerordentliche*r Delegierte*r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins. Darüber hinaus sind die Mitglieder des Bundesvorstandes berechtigt, am Landesparteitag mit Rede(- und Antrags)recht teilzunehmen. 
+(5) Im Falle einer Vertreter:innenversammlung werden die Vertreter:innen der Länder in ihren Parteitagen jeweils für das nächste Kalenderjahr in geheimer Wahl gewählt. Insgesamt besteht der Bundesparteitag im Regelfall aus 299 Delegierten. Die Delegierten werden gemäß der Zahl der Mitglieder, die am 01. Juli beim Bundesvorstand gemeldet sind ermittelt und für das folgende Jahr nach dem Verfahren von Sainte-Laguë auf die Landesverbände verteilt. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins. Darüber hinaus sind die Mitglieder des Bundesvorstandes berechtigt, am Landesparteitag mit Rede(- und Antrags)recht teilzunehmen. 
 3b Mitglieder des Bundesparteivorstandes dürfen nicht Delegierte sein.
 (6) Im Falle einer Mitgliederversammlung ist eine Stimmrechtsübertragung ausgeschlossen. 
 (7) Die Aufgaben des Bundesparteitages sind insbesondere
@@ -127,7 +127,7 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
 *§ 14 Bundesarbeitsgruppen
 (1) Alle Bundesparteiorgane können, bei begründetem Bedarf, Bundesarbeitsgruppen einsetzen. Näheres regelt die Geschäftordnung der Bundesarbeitsgruppen, die von der Bund-Länder-Kammer mit einfacher Mehrheit erlassen wird. Die Beauftragung erfolgt in Textform und definiert die Rahmenbeschreibung bezüglich Zielsetzung, Ergebnisse und durchzuführenden Aufgaben.
 (2) Beschlüsse der Parteiorgane binden Arbeitsgruppen.
-(3) Es soll mindestens eine Person und maximal zwei Personen als Koordination fungieren. Die Koordination der Bundesarbeitsgruppen agiert unabhängig von den Parteiorganen. Die Koordination ist den Parteiorganen gegenüber jederzeit auskunftspflichtig.
+(3) Es soll mindestens eine Person und maximal zwei Personen als Koordination fungieren. Die Koordination ist den Parteiorganen gegenüber jederzeit auskunftspflichtig.
 (4) Die Bundesarbeitsgruppen können vom Bundesparteivorstand ausgesetzt werden. Diese Entscheidung ist der Bund-Länder-Kammer beim nächsten Zusammentreten zur Bestätigung vorzulegen. Die endgültige Entscheidung obliegt dem Bundesparteitag.
  
  
@@ -145,7 +145,7 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
  
 *§ 19 Änderung der Satzung
-(1) Die Bundessatzung kann durch einfache Mehrheit der Mitglieder des Bundesparteitages der Klimaliste Deutschland geändert werden.
+(1) Die Bundessatzung kann durch 2/3-Mehrheit der Mitglieder des Bundesparteitages der Klimaliste Deutschland geändert werden.
 (2) Soweit diese Satzung nichts Anderes bestimmt, erhalten Änderungen der Satzung
 einschließlich ihrer Bestandteile ihre Gültigkeit mit der Verabschiedung auf dem Bundesparteitag.
 (3) Änderungen der Satzung einschließlich ihrer Bestandteile müssen spätestens einen Monate nach der beschlossenen Änderung in der aktualisierten Fassung vorliegen.
@@ -160,14 +160,5 @@ Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam oder 
  
 *§ 21 Inkrafttreten
 Die Satzung tritt mit Beschluss des Gründungsparteitages am XX.YY.2021 in Kraft.
- 
-Folgende Punkte sind offen geblieben:
-    · Die Ordnungsmaßnahmen gegen Gebietsverbände müssen dringend überarbeitet werden.
-    · Sitz der BundesparteI: Was ist damit formell gebunden? Können wir das stemmen?
-    · Aufgaben Bundesvorstand
-    · Terminologie vereinheitlichen
-    · Vertretung am Parteitag: Was ist mit Minderjährigen?
-    · Mehrheit: Bezug auf anwesende statt auf gültige Stimmen zulässig?
-    · Fristen/Anfang: Funktioniert mit so einer Partei eine Gründung/evtl. Antritt BTW?
  
 
