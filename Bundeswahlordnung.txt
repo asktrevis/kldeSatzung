@@ -76,8 +76,8 @@ c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt,
 (4) Im Falle einer Briefwahl entscheidet die Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine bestimmte Wahl die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
 
 § 10a Annahme der Wahl
-(1) Eine Wahl gilt als angenommen, wenn nicht binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses die Wahl in Textform beim Vorstand abgelehnt wird.
-(2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn nicht binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand abgelehnt wird.
+(1) Eine Wahl muss binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
+(2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand angenommen wird. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
 (3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert. Lehnen mehrere Personen eine Position ab, werden die Gewählten der entsprechenden Wahlen nach Reihenfolge des Einganges der Ablehnung beim Vorstand neu ermittelt.
 
 TEIL C: NACH DER WAHL/WIRKUNGEN
