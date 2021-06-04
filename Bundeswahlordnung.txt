@@ -1,10 +1,10 @@
 TEIL A: GRUNDSÄTZE
  
 § 1 Geltungsbereich
-(1) Diese Wahlordnung gilt für alle Wahlen innerhalb der Partei. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
+(1) Diese Wahlordnung gilt für alle Wahlen innerhalb der Klimaliste Deutschland. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
 (2) Sie gilt, vorbehaltlich besonderer Bestimmungen der Wahlgesetze, auch für die Aufstellung von Wahlbewerber:innen zu öffentliche Wahlen.
-(3) Für Wahlen, die nicht durch ein Organ der Bundesebene durchgeführt werden und die nicht direkt Vertreter:inn:en zu Bundesorganen wählt können die Gebietsverbände eigene Wahlordnungen erlassen.
-
+(3) Für Wahlen, die nicht durch ein Organ der Klimaliste Deutschland durchgeführt werden und die nicht direkt Vertreter:inn:en zu Organen der Klimaliste Deutschland wählt, können die Gebietsverbände eigene Wahlordnungen erlassen.
+(4) Vorstand im Sinne dieser Wahlordnung ist der Vorstand des Gebietsverbandes, der die Wahlen durchführt.
  
 § 2 Wahlgrundsätze
 (1) Es gilt allgemein der Grundsatz der freien, gleichen und geheimen Wahl.
@@ -27,7 +27,7 @@ TEIL B: DIE WAHL SELBST
  
 § 5 Wahlvorschläge
 (1) Jede für eine Wahl wählbare Person kann sich für diese bewerben.
-(2) Bewerbungen von nicht wahlberechtigten Wählbaren müssen mindestens 24 Stunden vorher in Textform beim Bundesvorstand eingegangen sein. Die Bewerbung kann bis Ende der Bewerber:innenliste zurückgezogen werden.
+(2) Bewerbungen von nicht wahlberechtigten Wählbaren müssen mindestens 24 Stunden vorher in Textform beim Vorstand eingegangen sein. Die Bewerbung kann bis Ende der Bewerber:innenliste zurückgezogen werden.
 (3) Wahlberechtigte Wählbare können sich gemäß Absatz 2 oder persönlich durch Zuruf bis zum Abschluss der Bewerber:inn:en-Liste für diese Wahl bewerben.
 (4) Jede bewerbende Person nach Absatz 2 muss eine Kopie eines amtlichen Ausweisdokumentes beifügen, jede nach Absatz 3 ein solches vorzeigen. Die Wahlkommission vermerkt im Protokoll den Vornamen, den Namen, das Geburtsdatum und den Geburtsort, die Staatsangehörigkeit, das Ausweisdokument sowie die Ausweisnummer der bewerbenden Person. Gleichzeitig muss erklärt werden, ob man als männliche, weibliche oder diverse Person kandidieren möchte. Diverse Personen müssen darüber hinaus erklären, ob sie auf Liste A oder Liste B gemäß § 8 kandidieren wollen.
 (5) Alle Bewerbenden erhalten eine angemessene Redezeit (10 Minuten bei Vorstandsämtern und Bewerber:innen für öffentliche Ämter, 5 Minuten bei sonstigen Positionen) zu ihrer Vorstellung. Über den Umfang von Fragen an und Stellungnahmen zu Bewerbenden entscheidet die Versammlungsleitung, wenn nicht durch Versammlungsbeschluss geregelt. Dabei sind die Bewerbenden für gleiche Parteiämter oder Mandate gleich zu behandeln. Die Versammlung kann auf Vorschlag der Wahlleitung andere, angemessene Redezeiten beschließen.
@@ -76,8 +76,8 @@ c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt,
 (4) Im Falle einer Briefwahl entscheidet die Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine bestimmte Wahl die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
 
 § 10a Annahme der Wahl
-(1) Eine Wahl gilt als angenommen, wenn nicht binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses die Wahl in Textform beim Vorstand abgelehnt wird.
-(2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn nicht binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand abgelehnt wird.
+(1) Eine Wahl muss binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
+(2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand angenommen wird. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
 (3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert. Lehnen mehrere Personen eine Position ab, werden die Gewählten der entsprechenden Wahlen nach Reihenfolge des Einganges der Ablehnung beim Vorstand neu ermittelt.
 
 TEIL C: NACH DER WAHL/WIRKUNGEN
