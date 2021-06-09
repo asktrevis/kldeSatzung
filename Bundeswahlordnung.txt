@@ -13,7 +13,7 @@ TEIL A: GRUNDSÄTZE
  
 § 3 Ankündigungen von Wahlen
 (1) Wahlen sind anzusetzen, wenn durch Satzung oder Gesetz vorgeschriebene Positionen vakant sind oder wenn ein zulässiger Ab-/Neuwahlantrag vorliegt.
-(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 7 Tage vor der Wahl eingeladen wurde. 
+(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 14 Tage vor der Wahl eingeladen wurde. Die Einladung erfolgt schriftlich oder per E-Mail.
 Bei Wahlen für lokale Positionen (z.B. Wahlkreisbewerber:in) ist es ausreichend, nur alle Mitglieder einzuladen, die wahlberechtigt sind oder in diesem lokalen Gebiet ihren Erstwohnsitz haben.
  
 TEIL B: DIE WAHL SELBST
@@ -25,7 +25,7 @@ TEIL B: DIE WAHL SELBST
 (4) Wer selbst bei einer der Wahlen kandidiert, kann nicht der Wahlkommission angehören. Erklärt ein Mitglied der Wahlkommission eine Kandidatur, scheidet es unmittelbar aus der Wahlkommission aus. Die vakante Stelle ist unmittelbar gemäß Absatz 1 nachzubesetzen.
 (5) Der Modus der Wahl (Stimmzettel, Briefwahl, Digitale Wahl, etc.) wird durch die Versammlung bestimmt. Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
  
-§ 5 Wahlvorschläge
+§ 5 Wahlvorschläge <§5: Wer sind „nicht wahlberechtigte Wählbare“?>
 (1) Jede für eine Wahl wählbare Person kann sich für diese bewerben.
 (2) Bewerbungen von nicht wahlberechtigten Wählbaren müssen mindestens 24 Stunden vorher in Textform beim Vorstand eingegangen sein. Die Bewerbung kann bis Ende der Bewerber:innenliste zurückgezogen werden.
 (3) Wahlberechtigte Wählbare können sich gemäß Absatz 2 oder persönlich durch Zuruf bis zum Abschluss der Bewerber:inn:en-Liste für diese Wahl bewerben.
@@ -41,7 +41,7 @@ TEIL B: DIE WAHL SELBST
 (1) Bei der Aufstellung von Listen für öffentliche Wahlen bestimmt die Versammlung, wie viele Plätze einzeln gewählt werden, alle weiteren Listenplätze werden dann in einer einzigen Wahl gewählt. Die Versammlung kann eine Höchstzahl zu besetzender Listenplätze bestimmen. 
 (2) Erfolgt kein Versammlungsbeschluss nach Absatz 1, werden alle Listenplätze gemeinsam gewählt.
  
-§ 8 Wahlverfahren
+§ 8 Wahlverfahren <Das Verfahren ist zu komplex.>
 (1) Es werden zwei getrennte Listen gebildet: Auf Liste A befinden sich alle weiblichen Bewerber:innen, auf Liste B alle männlichen Bewerber:innen. Diverse Bewerber:innen kandidieren auf der von ihnen selbst mit Einreichung der Kandidatur bestimmten Liste.
 (2) Jede:r Wähler:in bewertet sodann jede:n Kandidaten:Kandidatin mit genau einer der Optionen -2, -1, 0, 1, 2.
 (3) Sobald alle Stimmen eingegangen sind, wird von jeder/jedem Kandidatin:Kandidaten der Median und das arithmetische Mittel der für diese:n Kandidatin:Kandidaten abgegebenen Bewertungen gebildet. Jede Liste für sich wird sodann zuerst nach dem Median, und bei gleichem Median nach dem arithmetischen Mittel absteigend sortiert. Kann kein eindeutiger Median gebildet werden, gilt die Hälfte der Differenz aus maximalem und minimalem Median als Median. Haben zwei Personen gleichen Median und Mittel, entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
