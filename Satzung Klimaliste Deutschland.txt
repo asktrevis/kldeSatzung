@@ -6,7 +6,8 @@
 (4) Gebietsgliederungen tragen den Namen „Klimaliste“ mit dem Zusatz des jeweiligen Gebiets.
  
 *§ 2 Grundkonsens und Programm
-(1) Die Klimaliste Deutschland legt ihre grundsätzlichen Ziele, Werte und politischen Leitsätze in einem Grundkonsens nieder. Änderungen des Grundkonsenses bedürfen einer Mehrheit von 2/3 der abgegebenen Stimmen.
+(0) Die Klimaliste Deutschland bekennt sich zur freiheitlichen, demokratischen, rechtstaatlichen Grundordnung, der unantastbaren Menschenwürde, dem Sozialstaat und der Freiheit der Menschen.
+(1) Die Klimaliste Deutschland legt ihre grundsätzlichen Ziele, Werte und politischen Leitsätze in einem Grundkonsens nieder. Änderungen des Grundkonsenses bedürfen einer 2/3-Mehrheit.
 (2) Das Programm ist Ausdruck des gemeinsamen politischen Willens. Es bewegt sich im Rahmen des Grundkonsenses und wird mit einfacher Mehrheit vom Bundesparteitag verabschiedet. Es kann durch Beschluss des Bundesparteitag mit einfacher Mehrheit geändert werden.
 (3) Im Anhang zu Programmen können zusätzliche oder weiterführende Auffassungen der Mitglieder der Öffentlichkeit bekannt gemacht werden, wenn mindestens ein Drittel der Delegierten des Bundesparteitages dies beantragt. Auch der Anhang muss sich im Rahmen der im Grundkonsens niedergelegten Grundsätze bewegen. Er dient neben der Information der Anregung der Diskussion innerhalb der Klimaliste und der Öffentlichkeit.
  
@@ -70,7 +71,7 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
 (1b) Vertreter:innen, die von den Ländern in Organe zu entsenden sind, werden von den Landesverbänden für zwei Jahre gewählt. Die Anzahl Delegierte:r pro Landesverband werden nach dem Verfahren von Sainte-Lague auf die Landesverbände verteilt. Als Mitgliedszahl ist die Mitgliedszahl zum letzten 01.01, 01.04, 01.07 oder 01.10. zum Zeitpunkt der Einladung maßgeblich. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins.
 (1a) Um die Delegierten zu ermitteln, übersenden die Landesverbände das Wahlergebnis in einer eindeutigen Reihenfolge nach Wahlordnung an den Bundesparteivorstand. Bei Änderungen der Anzahl Delegierter, die auf ein Landesverband entfallen, rücken gemäß Wahlordnung weitere Personen nach oder verlieren ihren Platz. Die Wahlen zu den Delegierten in den Landesverbänden darf nicht mehr als 24 Monate vor dem Beginn der Bundesversammlung erfolgt sein. Die Quotierung wird innerhalb der Delegiertenplätze eines Landesverbandes durchgeführt. Wenn keine aktuelle Liste mit Delegierten vorliegt, oder die Wahlperiode ohne Nachwahl abgelaufen ist, bleiben die Sitze dieses Landes vakant.
 (2) Jedes Organ der Bundespartei gibt sich jeweils eine Geschäftsordnung. Bei Widersprüchen der Geschäftsordnung mit dem Gesetz oder der Satzung gelten Gesetz bzw. Satzung vorrangig. Die Wirksamkeit der übrigen Geschäftsordnung bleibt unberührt.
-(3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen durch einfache Mehrheit, d.h. ein Antrag ist angenommen, wenn mehr Ja- als Nein-Stimmen abgegeben werden.
+(3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen mit einfacher Mehrheit.
 (3a) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde.  Die jeweilige Geschäftsordnung kann ein Quorum und weitere Bedingungen bestimmen.
 (4) Die Beschlüsse der Organe der Bundespartei sind stets zu protokollieren und allen Mitgliedern zeitnah zugänglich zu machen. 
 (5) Die Klimaliste strebt ein ausgeglichenes Geschlechterverhältnis in den Organen der Bundesebene an. Das Nähere regelt die Wahlordnung.
@@ -132,7 +133,7 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
  
 *§ 15 Auflösung, Aufnahme anderer Parteien und Verschmelzung
-(1) Die Verschmelzung oder Auflösung der Bundespartei kann nur durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der anwesenden Stimmberechtigten beschlossen werden.
+(1) Die Verschmelzung oder Auflösung der Bundespartei kann nur durch einen Beschluss des Bundesparteitages mit einer 3/4-Mehrheit beschlossen werden.
 (2) Ein Bundesparteitagsbeschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter allen Parteimitgliedern der Klimaliste Deutschland mit einer 2/3-Mehrheit bestätigt werden.
 (3) Über einen Antrag auf Auflösung oder Verschmelzung kann der Bundesparteitag nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesparteivorstand in Textform eingegangen ist.
  
@@ -144,12 +145,17 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
 *§ 18a: Übergangsbestimmungen
 (1) Die Bund-Länder-Kammer konstituiert sich, sobald fünf Landesverbände der Bundespartei bestehen. 
-Die ersten Delegierten werden gemäß der Mitgliedzahlen zu dem Zeitpunkt verteilt, an dem der fünfte Landesverband der Bundespartei beitritt.
+Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verteilt, an dem der fünfte Landesverband der Bundespartei beitritt.
 In diesem Zeitraum übernimmt der Bundesparteitag die Aufgaben der Bund-Länder-Kammer.
 (2) Die Amtszeit des ersten Bundesvorstandes beträgt sechs Monate.
+
+§ 18b: Mehrheit
+(1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen exklusive Enthaltungen. 
+(2) Ein Antrag erreicht eine x-Mehrheit genau dann, wenn die Anzahl der Ja-Stimmen geteilt durch die Summe aus Ja- und Nein-Stimmen x übersteigt.
+(4) Eine einfache Mehrheit ist eine 1/2-Mehrheit.
  
 *§ 19 Änderung der Satzung
-(1) Die Bundessatzung kann durch 2/3-Mehrheit der Mitglieder des Bundesparteitages der Klimaliste Deutschland geändert werden.
+(1) Die Bundessatzung kann mit 2/3-Mehrheit durch den Bundesparteitag der Klimaliste Deutschland geändert werden.
 (2) Soweit diese Satzung nichts Anderes bestimmt, erhalten Änderungen der Satzung einschließlich ihrer Bestandteile ihre Gültigkeit mit Verabschiedung.
 (3) Die geänderte Satzung einschließlich ihrer Bestandteile muss der Bundesparteivorstand spätestens ein Monat nach der beschlossenen Änderung veröffentlichen.
  
