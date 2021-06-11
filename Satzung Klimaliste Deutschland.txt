@@ -147,8 +147,11 @@ Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verte
 In diesem Zeitraum übernimmt der Bundesparteitag die Aufgaben der Bund-Länder-Kammer.
 (2) Die Amtszeit des ersten Bundesvorstandes beträgt sechs Monate.
 
-§ 18b: Begriffe
-(1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen. Eine q-Mehrheit ist genau dann erreicht, wenn die Anzahl gültiger Ja-Stimmen geteilt durch die Summe aus gültigen Ja- und gültigen Nein-Stimmen q übersteigt. Eine einfache Mehrheit ist eine 1/2-Mehrheit.
+§ 18b: Mehrheit
+(1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen exklusive Enthaltungen. 
+(2) Ein Antrag erreicht eine q-Mehrheit genau dann, wenn die Anzahl der Ja-Stimmen geteilt durch die Summe aus Ja- und Nein-Stimmen q übersteigt.
+(3) Eine Option von mehreren erreicht eine q-Mehrheit genau dann, wenn die Anzahl gültiger Ja-Stimmen für diese Option geteilt durch die Summe der Ja-Stimmen aller Optionen q übersteigt. 
+(4) Eine einfache Mehrheit ist eine 1/2-Mehrheit.
  
 *§ 19 Änderung der Satzung
 (1) Die Bundessatzung kann mit 2/3-Mehrheit durch den Bundesparteitag der Klimaliste Deutschland geändert werden.
