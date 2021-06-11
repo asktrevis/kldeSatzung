@@ -72,7 +72,7 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
 (1b) Vertreter:innen, die von den Ländern in Organe zu entsenden sind, werden von den Landesverbänden für zwei Jahre gewählt. Die Anzahl Delegierte:r pro Landesverband werden nach dem Verfahren von Sainte-Lague auf die Landesverbände verteilt. Als Mitgliedszahl ist die Mitgliedszahl zum letzten 01.01, 01.04, 01.07 oder 01.10. zum Zeitpunkt der Einladung maßgeblich. Sollte ein Landesverband gemäß diesem Verfahren über keine:n eigene:n Delegierte:n verfügen, wird diesem ein:e außerordentliche:r Delegierte:r gewährt, die Gesamtzahl der Delegierten erhöht sich in diesem Fall um eins.
 (1a) Um die Delegierten zu ermitteln, übersenden die Landesverbände das Wahlergebnis nach Wahlordnung an den Bundesparteivorstand. Bei Änderungen der Anzahl Delegierter, die auf ein Land entfallen, rücken so gemäß Wahlordnung weitere Personen nach oder verlieren ihren Platz. Die Quotierung wird innerhalb der Delegiertenplätze eines Landesverbandes durchgeführt. Wenn keine aktuelle Liste mit Delegierten vorliegt, oder die Wahlperiode ohne Nachwahl abgelaufen ist, bleiben die Sitze dieses Landes vakant.
 (2) Jedes Organ der Bundespartei gibt sich jeweils eine Geschäftsordnung. Bei Widersprüchen der Geschäftsordnung mit dem Gesetz oder der Satzung gelten Gesetz bzw. Satzung vorrangig. Die Wirksamkeit der übrigen Geschäftsordnung bleibt unberührt.
-(3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen durch einfache Mehrheit, d.h. ein Antrag ist angenommen, wenn mehr Ja- als Nein-Stimmen abgegeben werden.
+(3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen durch Systemisches Konsensieren.
 (3a) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde.  Die jeweilige Geschäftsordnung kann ein Quorum und weitere Bedingungen bestimmen.
 (4) Die Beschlüsse der Organe der Bundespartei sind stets zu protokollieren und allen Mitgliedern zeitnah zugänglich zu machen. 
 (5) Die Klimaliste strebt ein ausgeglichenes Geschlechterverhältnis in den Organen der Bundesebene an. Das Nähere regelt die Wahlordnung.
@@ -94,6 +94,7 @@ Der Bund-Länder-Kammer gehören an:
 2. 51 weitere, stimmberechtigte Delegierte, die von den Ländern gewählt werden.
 (2) Die Bund-Länder-Kammer tagt mindestens einmal alle drei Monate. Er wird vom Bundesvorstand mit einer Ladungsfrist von mindestens sieben Tagen einberufen. Zu einer weiteren Sitzung tritt die Bund-Länder-Kammer zusammen, wenn ein Fünftel der Mitglieder der Bund-Länder-Kammer oder der Bundesvorstand dies verlangen. Antragsberechtigt sind der Bundesvorstand, die Landesvorstände und jede Arbeitsgemeinschaft auf Bundesebene.
 (3) Zur Förderung der Basisdemokratie erhalten bei jeder ordentlichen Sitzung zehn vom Bundesparteivorstand zufällig und mit gleicher Wahrscheinlichkeit ausgewählte Mitglieder der Klimaliste, die kein Parteiamt innehaben, die Möglichkeit, mit Rederecht an einer Sitzung der Bund-Länder-Kammer teilzunehmen. Mindestens zwei der zehn eingeladenen Mitglieder:innen sollen Ortsgruppen der neuen Bundesländer angehören. 
+(4) Die Bund-Länder-Kammer tagt für alle Mitglieder der Klimaliste öffentlich, allerdings besitzen nur Stimmberechtigte sowie die in (3) genannten Mitglieder Rederecht.
  
 *§ 11 Der Bundesparteitag
 (1) Der Bundesparteitag ist die Mitgliederversammlung der Bundespartei. Wenn die Mitgliederzahl der Bundespartei 600 übersteigt und mindestens zwei Landesverbände bestehen, wird statt einer Mitgliederversammlung eine Vertretendenversammlung (Delegiertenparteitag) abgehalten. 
@@ -124,7 +125,7 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
  
 *§ 14 Bundesarbeitsgruppen
-(1) Alle Bundesparteiorgane können, bei begründetem Bedarf, Bundesarbeitsgruppen einsetzen. Näheres regelt die Geschäftordnung der Bundesarbeitsgruppen, die von der Bund-Länder-Kammer mit einfacher Mehrheit erlassen wird. Die Beauftragung erfolgt in Textform und definiert die Rahmenbeschreibung bezüglich Zielsetzung, Ergebnisse und durchzuführenden Aufgaben.
+(1) Alle Bundesparteiorgane können, bei begründetem Bedarf, Bundesarbeitsgruppen einsetzen. Näheres regelt die Geschäftordnung der Bundesarbeitsgruppen, die von der Bund-Länder-Kammer durch Systemisches Konsensieren erlassen wird. Die Beauftragung erfolgt in Textform und definiert die Rahmenbeschreibung bezüglich Zielsetzung, Ergebnisse und durchzuführenden Aufgaben.
 (2) Beschlüsse der Parteiorgane binden Arbeitsgruppen.
 (3) Es soll mindestens eine Person und maximal zwei Personen als Koordination fungieren. Die Koordination ist den Parteiorganen gegenüber jederzeit auskunftspflichtig.
 (4) Die Bundesarbeitsgruppen können vom Bundesparteivorstand ausgesetzt werden. Diese Entscheidung ist der Bund-Länder-Kammer beim nächsten Zusammentreten zur Bestätigung vorzulegen. Die endgültige Entscheidung obliegt dem Bundesparteitag.
