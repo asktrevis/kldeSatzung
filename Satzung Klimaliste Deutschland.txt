@@ -6,7 +6,7 @@
 (4) Gebietsgliederungen tragen den Namen „Klimaliste“ mit dem Zusatz des jeweiligen Gebiets.
  
 *§ 2 Grundkonsens und Programm
-(0) Die Klimaliste Deutschland bekennt sich klar zur freiheitlichen, demokratischen, rechtstaatlichen Grundordnung auf Basis der unantastbaren Menschenwürde.
+(0) Die Klimaliste Deutschland bekennt sich zur freiheitlichen, demokratischen, rechtstaatlichen Grundordnung, der unantastbaren Menschenwürde, dem Sozialstaat und der Freiheit der Menschen.
 (1) Die Klimaliste Deutschland legt ihre grundsätzlichen Ziele, Werte und politischen Leitsätze in einem Grundkonsens nieder. Änderungen des Grundkonsenses bedürfen einer 2/3-Mehrheit.
 (2) Das Programm ist Ausdruck des gemeinsamen politischen Willens. Es bewegt sich im Rahmen des Grundkonsenses und wird mit einfacher Mehrheit vom Bundesparteitag verabschiedet. Es kann durch Beschluss des Bundesparteitag mit einfacher Mehrheit geändert werden.
 (3) Im Anhang zu Programmen können zusätzliche oder weiterführende Auffassungen der Mitglieder der Öffentlichkeit bekannt gemacht werden, wenn mindestens ein Drittel der Delegierten des Bundesparteitages dies beantragt. Auch der Anhang muss sich im Rahmen der im Grundkonsens niedergelegten Grundsätze bewegen. Er dient neben der Information der Anregung der Diskussion innerhalb der Klimaliste und der Öffentlichkeit.
@@ -149,8 +149,7 @@ In diesem Zeitraum übernimmt der Bundesparteitag die Aufgaben der Bund-Länder-
 
 § 18b: Mehrheit
 (1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen exklusive Enthaltungen. 
-(2) Ein Antrag erreicht eine q-Mehrheit genau dann, wenn die Anzahl der Ja-Stimmen geteilt durch die Summe aus Ja- und Nein-Stimmen q übersteigt.
-(3) Eine Option von mehreren erreicht eine q-Mehrheit genau dann, wenn die Anzahl gültiger Ja-Stimmen für diese Option geteilt durch die Summe der Ja-Stimmen aller Optionen q übersteigt. 
+(2) Ein Antrag erreicht eine x-Mehrheit genau dann, wenn die Anzahl der Ja-Stimmen geteilt durch die Summe aus Ja- und Nein-Stimmen x übersteigt.
 (4) Eine einfache Mehrheit ist eine 1/2-Mehrheit.
  
 *§ 19 Änderung der Satzung
