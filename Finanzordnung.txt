@@ -4,25 +4,26 @@ Finanzordnung
     (1) Der Person im Amt als Schatzmeister*in obliegt die Verwaltung der Finanzen und der Buchführung.
 § 2 Erhebung der Mitgliedsbeiträge
     (1) Die Klimaliste Deutschland erhebt Beiträge. Näheres regelt die Beitragsordnung.
-    (2) Die Mitgliedsbeiträge werden jährlich im Voraus gezahlt. Der Einzug soll per SEPA Lastschriftverfahren erfolgen. Bei Lastschrifteinzug ist eine quartalsweise Zahlung möglich.
+    (2) Die Mitgliedsbeiträge werden möglichst jährlich im Voraus gezahlt. Der Einzug soll per SEPA Lastschriftverfahren erfolgen. Bei Lastschrifteinzug ist eine quartalsweise Zahlung möglich.
     (3) Der freiwillige höhere Mitgliedsbeitrag kann mittels Mitteilung in Textform an den Parteivorstand mit einer Frist von 30 Tagen zum nächsten Zeitpunkt der Entrichtung angepasst werden.
     (4) Bei Eintritt im Laufe eines Jahres ist der anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt monatsgenau, beginnend mit dem Monat, in dem der Eintritt stattfindet. Der Mitgliedsbeitrag ist zum ersten Werktag des jeweiligen Abrechnungszeitraums zu entrichten.
     (5) Bereits gezahlte Beiträge werden im Falle eines Parteiaustritts nicht erstattet.
     (6) Der Mitgliedsbeitrag ist an die Bundespartei zu entrichten.
     (7) Der*die Schatzmeister*in erarbeitet Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
 § 4 Aufteilung des Mitgliedsbeitrages auf Landes- und Untergliederungsebene
-    (1) Bundespartei erhält alle Mitgliedsbeiträge.
-    (2) Soweit ein Landesverband besteht, erhält dieser 50% der Mitgliedsbeiträge seiner Mitglieder.
+    (1) Die Bundespartei erhält alle Mitgliedsbeiträge.
+    (2) Soweit ein Landesverband besteht, erhält dieser 100% der Mitgliedsbeiträge seiner Mitglieder bis zu einem jährlichen Freibetrag von 50.000 Euro. Ab einem jährlichen Gesamtbetrag der Mitgliederbeiträge von 50.001 Euro erhält der Landesverband 80% der Mitgliederbeiträge über dem jährlichen Freibetrag. Ab einem jährlichen Gesamtbetrag der Mitgliedsbeiträge von 75.000 Euro erhält der Landesverband 60% der Mitgliederbeiträge über dem jährlichen Freibetrag.
     (3) Die Aufteilung innerhalb eines Landesverbandes wird von diesem selbst geregelt.
-    (4)  Soweit kein Landesverband besteht, erhalten eventuelle Untergliederungen 50 % der Mitgliedsbeiträge ihrer Mitglieder.
-    (5) Der Sonderbeitrag für die mandatstragende Person ist an die Bundespartei zu entrichten. 50% gehen an die Gebietsuntergliederung, in der die mandatstragende Person geführt wird.
+    (4) Soweit kein Landesverband besteht, erhalten eventuelle Untergliederungen 70 % der Mitgliedsbeiträge ihrer Mitglieder.
+    (5) Der Sonderbeitrag für die mandatstragende Person im Bundestag und Europaparlament ist an die Bundespartei zu entrichten. Der Sonderbeitrag für die mandatstragende Person im Landesparlament und auf kommunaler Ebene ist an den Landesverband zu entrichten, in dem die mandatstragende Person geführt wird.
     (6) Die den Gebietsuntergliederungen zustehenden Beitragsanteile der eingehenden Mitglieds- und Sonderbeiträge sind mindestens quartalsweise abzuführen.
 § 5 Sonderbeitragsverpflichtung für Abgeordnete
-    (1) Mandatstragende Personen sind verpflichtet, über den Mitgliedsbeitrag hinaus einen Sonderbeitrag in Höhe von monatlich 15 % der Abgeordnetenentschädigung vor Abzug von Steuern und Abgaben an die Bundespartei zu leisten.
+    (1) Mandatstragende Personen des Bundestages und Europaparlamentes sind verpflichtet, über den Mitgliedsbeitrag hinaus einen Sonderbeitrag in Höhe von monatlich 15 % der Abgeordnetenentschädigung vor Abzug von Steuern und Abgaben an die Bundespartei zu leisten. 
+    (2) Über die Sonderbeiträge für mandatstragende Person im Landesparlament und auf der kommunalen Ebene entscheidet der Landesverband. 
 § 6 Vereinnahmen von Spenden
     (1) Die Bundespartei und die Gebietsuntergliederungen sind berechtigt, Spenden nach PartG anzunehmen. Die Annahme von Unternehmensspenden regelt § 7 dieser Finanzordnung. Ausgenommen sind Spenden, die nach § 25 Parteiengesetz unzulässig sind. Können unzulässige Spenden nicht abgelehnt oder zurückgegeben werden, sind diese über die Bundespartei unverzüglich an den Präsidenten des Deutschen Bundestages weiterzuleiten. Eine Spende kann auch durch den Verzicht auf Ersatz von Auslagen geleistet werden. Dies ist auf der Auslagenabrechnung zu vermerken
     (2) Erbschaften und Vermächtnisse werden ohne Begrenzung gemäß § 27 Abs. 2 Satz 3 PartG angenommen.
-    (3) (3)	Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern eine Zweckbindung nichts anderes vorsieht.
+    (3) Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern eine Zweckbindung nichts anderes vorsieht.
     (4) Spendenbescheinigungen für Spenden, die an die Bundespartei geleistet wurden, werden von der Bundespartei ausgestellt. Spendenbescheinigungen für Spenden, die an die Landesverbände oder Gebietsverbände geleistet wurden, werden von dem entsprechenden Landes- oder dem Gebietsverband ausgestellt.
 § 7 Annahme von Unternehmensspenden
     (1) Zur Beurteilung, ob Spendeneingänge von Unternehmen mit den Werten und Zielen der Klimaliste Deutschland vereinbar sind, wird in der Bund-Länder Kammer eine Abstimmung über die Annahme dieser Spende durchgeführt.
