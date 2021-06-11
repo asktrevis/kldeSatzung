@@ -7,7 +7,6 @@
  
 *§ 2 Grundkonsens und Programm
 (1) Die Klimaliste Deutschland legt ihre grundsätzlichen Ziele, Werte und politischen Leitsätze in einem Grundkonsens nieder. Änderungen des Grundkonsenses bedürfen einer Mehrheit von 2/3 der abgegebenen Stimmen.
-<Hier soll der Grundkonsens im Wortlaut stehen>
 (2) Das Programm ist Ausdruck des gemeinsamen politischen Willens. Es bewegt sich im Rahmen des Grundkonsenses und wird mit einfacher Mehrheit vom Bundesparteitag verabschiedet.
 (3) Im Anhang zu Programmen können zusätzliche oder weiterführende Auffassungen der Mitglieder der Öffentlichkeit bekannt gemacht werden, wenn mindestens ein Drittel der Delegierten des Bundesparteitages dies beantragt. Auch der Anhang muss sich im Rahmen der im Grundkonsens niedergelegten Grundsätze bewegen. Er dient neben der Information der Anregung der Diskussion innerhalb der Klimaliste.
  
@@ -19,11 +18,9 @@
 Es gilt die Unvereinbarkeitsrichtlinie der Klimaliste Deutschland, die Näheres regelt und eine Liste mit Organisationen enthält, die als unvereinbar gelten. Änderungen werden durch den Bundesparteitag vorgenommen. Die Unvereinbarkeitsrichtlinie der Klimaliste Deutschland gilt für alle Gebietsebenen.
 Gebietsgliederungen können ergänzende Unvereinbarkeitsrichtlinien beschließen; diese Änderungen werden durch den Parteitag auf Gebietsebene vorgenommen und müssen an die Bundesebene zeitnah gemeldet werden.
 (5) Einmal abgelehnte Personen können frühestens 6 Monate nach der Ablehnung bei der gleichen oder einer anderen Gebietsgliederung aufgenommen werden. Die Ablehnung ist im Rahmen der Mitgliederverwaltung entsprechend zu hinterlegen.
-(6) Die Mitgliedschaft wird beim Vorstand des betreffenden Landesverbandes beantragt. Der Aufnahmeantrag ist in Textform zu stellen. Über die Aufnahme entscheidet der Parteivorstand des Landesverbandes unter Anhörung der entsprechenden Gebietsuntergliederung sofern vorhanden innerhalb von sechs Wochen nach Eingang des Aufnahmeantrags. Im Falle möglicher Verzögerungen ist die bewerbende Person in Textform zu unterrichten. Eine Ablehnung kann begründet werden. Im Mitgliedsantrag muss neben den Mitgliedsdaten die Anerkennung und Beachtung des Grundkonsens, vollständige Auskunft über aktuelle und frühere Mitgliedschaften in Parteien und sonstigen politischen Gruppierungen gegeben werden. Eine Vorlage für den Aufnahmeantrag ist zu erstellen.
+(6) Die Mitgliedschaft wird beim Vorstand des betreffenden Landesverbandes beantragt. Der Aufnahmeantrag ist in Textform zu stellen. Über die Aufnahme entscheidet der Parteivorstand des Landesverbandes unter Anhörung der entsprechenden Gebietsuntergliederung sofern vorhanden innerhalb von sechs Wochen nach Eingang des Aufnahmeantrags. Im Falle möglicher Verzögerungen ist die bewerbende Person in Textform zu unterrichten. Eine Ablehnung kann begründet werden. Im Mitgliedsantrag muss neben den Mitgliedsdaten die Anerkennung und Beachtung des Grundkonsens, vollständige Auskunft über aktuelle und frühere Mitgliedschaften in Parteien und sonstigen politischen Gruppierungen gegeben werden.
 (7) Sofern kein Landeverband für den Wohnsitz des Antragstellenden besteht, tritt anstelle des Landesvorstand der Bundesparteivorstand. 
 (8) Jedes Mitglied, das einen Wohnsitz in Deutschland hat, gehört dem entsprechenden Landesverband an. Mitglieder, die keinen Wohnsitz oder mehrere Wohnsitze in Deutschland haben, haben Wahlrecht für einen Landesverband. Ein Wechsel zwischen den Landesverbänden in Folge eines Wechsels des Wohnsitzes oder in Folge des Wahlrechtes nach Satz 2 kann mit einem Monat Vorlaufzeit zum 1. Juli und 1. Januar beim Landesvorstand des Landesverband, in den das Mitglied wechseln möchte, beantragt werden.
-<welchem Landesverband gehört ein Mitglied aus einem Bundesland 
-an, wenn es dort noch keinen Landesverband gibt? – bitte regeln>
 (9) Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod. Bereits gezahlte Mitgliedsbeiträge werden nicht erstattet. Der Austritt ist dem Parteivorstand in Textform anzuzeigen.
  
  
@@ -31,13 +28,11 @@ an, wenn es dort noch keinen Landesverband gibt? – bitte regeln>
  
  
 *§ 4 Rechte und Pflichten der Mitglieder
-<Hier ist ein Passus zum Datenschutz aufzunehmen.>
 (1) Jedes Mitglied hat das Recht, nach Maßgabe der Gesetze und im Rahmen dieser Satzung die Zwecke der Klimaliste Deutschland zu fördern, sich an der politischen Arbeit zu beteiligen und an Veranstaltungen teilzunehmen. Die Mitglieder sind zur Mitarbeit in der Bundespartei auf allen Gebietsgliederungsebenen aufgerufen. Im Rahmen dieser Mitarbeit haben Mitglieder im Rahmen dieser Satzung das Recht, an der politischen Willensbildung der Partei durch Aussprachen, eigene Sach- und Verfahrensanträge, Abstimmungen und Wahlen mitzuwirken.
 (2) Jedes Mitglied hat das Recht, sich an der Erstellung des Bundesprogramms zu beteiligen und im Rahmen der Gesetze und der Wahlordnung der Klimaliste Deutschland an der Aufstellung von Wahlvorschlägen zu beteiligen und/oder selbst dafür zu kandidieren.
 (3) Jedes Mitglied hat das Recht, an Treffen von Bundesarbeitsgruppen teilzunehmen und auch Teil derer zu werden.
 (4) Jedes Mitglied hat die Pflicht, den Grundkonsens, die Programme der Bundespartei und die Beschlüsse der Organe anzuerkennen und die Beiträge und Abgaben pünktlich zu entrichten.
-(5) Parteiangelegenheiten, die per Satzung oder Gesetz einem Mitglied mitzuteilen sind, werden in Textform per E-Mail versandt. Jedes Mitglied hat die Pflicht, der zuständigen Mitgliederverwaltung eine gültige E-Mail-Adresse anzugeben und die dort eingehenden E-Mails regelmäßig zu überprüfen. <Dieser Passus ist im Hinblick auf die DSGVO rechtlich zu überprüfen> Für die ordnungsgemäße Mitteilung ist die Versendung an die vom Mitglied mitgeteilte Mail-Adresse ausreichend.
-
+(5) Parteiangelegenheiten, die per Satzung oder Gesetz einem Mitglied mitzuteilen sind, werden in Textform per E-Mail versandt. Jedes Mitglied hat die Pflicht, der zuständigen Mitgliederverwaltung eine gültige E-Mail-Adresse anzugeben und die dort eingehenden E-Mails regelmäßig zu überprüfen. Für die ordnungsgemäße Mitteilung ist die Versendung an die vom Mitglied mitgeteilte Mail-Adresse ausreichend.
  
 *§ 5 Zulässige Ordnungsmaßnahmen gegen Mitglieder und ihr Ausschluss
 (1) Wenn ein Mitglied gegen diese Satzung, den Grundkonsens oder gegen die Grundsätze der Klimaliste Deutschland verstößt, der inneren Struktur Schaden zufügen will oder dem Ansehen der Partei schadet, aber ein Ausschluss noch nicht in Betracht kommt, kann der Parteivorstand des Landesverbandes folgende Ordnungsmaßnahmen anordnen: Rüge, Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und das Ruhen der Mitgliedsrechte für einen begrenzten Zeitraum, der 2 Jahre nicht übersteigen darf.
@@ -62,9 +57,7 @@ an, wenn es dort noch keinen Landesverband gibt? – bitte regeln>
  
 *§ 7 Die allgemeine Gliederung der Klimaliste Deutschland
 (1) Die Klimaliste Deutschland versteht sich als dezentral, subsidiär und föderalistisch organisierte Bundespartei. Die Bundespartei besteht aus Landesverbänden, die je ein oder mehrere Länder der Bundesrepublik Deutschland umfassen. Innerhalb der Grenzen eines Landes gibt es nur einen Landesverband.
-Solange in einem Bundesland ein Verein oder eine Partei der Klimaliste existiert, kann bis Februar 2022 kein Landesverband in dem Bundesland gegründet werden.
 (2) Landesverbände müssen durch den Bundesparteitag mit 2/3-Mehrheit auf gemeinsamen Antrag des Bundesparteivorstandes und des Vorstandes des werdenden Landesverbandes anerkannt werden.
-<Das bedeutet, dass sich erst der Landesverband gründen muss und einen Vorstand wählen muss, bevor er anerkannt werden kann. Es ist auch nicht geregelt, wieviel Mitglieder mindestens erforderlich sind, um einen Landesverband zu gründen. Theoretisch kann das ein einzelner. Hier sollte eine Mindestanzahl, z.B. 5 vorgesehen werden.>
 (3) Die Gebietsgliederungen eines Landesverbandes sowie die Bedingungen und das zuständige Organ für die Anerkennung als Gebietsgliederung bestimmt der jeweilige Landesverband in seiner Satzung.
 (4) Alle Gebietsgliederungen haben Satzungsautonomie und können eigene Vorschriften verfassen, soweit sie nicht der Satzung und Ordnungen der übergeordneten Gliederungen widersprechen.
 Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufzulösen.
@@ -80,12 +73,11 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
 (1a) Um die Delegierten zu ermitteln, übersenden die Landesverbände das Wahlergebnis nach Wahlordnung an den Bundesparteivorstand. Bei Änderungen der Anzahl Delegierter, die auf ein Land entfallen, rücken so gemäß Wahlordnung weitere Personen nach oder verlieren ihren Platz. Die Quotierung wird innerhalb der Delegiertenplätze eines Landesverbandes durchgeführt. Wenn keine aktuelle Liste mit Delegierten vorliegt, oder die Wahlperiode ohne Nachwahl abgelaufen ist, bleiben die Sitze dieses Landes vakant.
 (2) Jedes Organ der Bundespartei gibt sich jeweils eine Geschäftsordnung. Bei Widersprüchen der Geschäftsordnung mit dem Gesetz oder der Satzung gelten Gesetz bzw. Satzung vorrangig. Die Wirksamkeit der übrigen Geschäftsordnung bleibt unberührt.
 (3) Wenn nichts Weiteres festgelegt ist, treffen Organe Entscheidungen durch einfache Mehrheit, d.h. ein Antrag ist angenommen, wenn mehr Ja- als Nein-Stimmen abgegeben werden.
-(3a) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde und mindestens 50% der Stimmberechtigten anwesend sind. Die jeweilige Geschäftsordnung kann weitere Bedingungen bestimmen.
+(3a) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde.  Die jeweilige Geschäftsordnung kann ein Quorum und weitere Bedingungen bestimmen.
 (4) Die Beschlüsse der Organe der Bundespartei sind stets zu protokollieren und allen Mitgliedern zeitnah zugänglich zu machen. 
 (5) Die Klimaliste strebt ein ausgeglichenes Geschlechterverhältnis in den Organen der Bundesebene an. Das Nähere regelt die Wahlordnung.
 (6) Verantwortlich für die Umsetzung der Beschlüsse eines Bundesparteiorganes ist, sofern das Organ nichts Anderes bestimmt, der Bundesparteivorstand.
 (7) Die Organe der Landesverbände und derer Untergliederungen werden durch die Satzungen der Landesverbände festgelegt.
-(8) Mitglieder der Organe der Partei dürfen keine Tätigkeiten bei Firmen oder Verbänden haben, die dem Grundkonsens der Partei entgegenstehen.
  
 *§ 9 Der Bundesparteivorstand
 (1) Der Bundesparteivorstand führt die Partei nach Maßgabe der Satzung und der Beschlüsse der übergeordneten Parteiorgane.
@@ -99,20 +91,15 @@ Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufz
 (1) Die Bund-Länder-Kammer ist nach dem Bundesparteitag das zweithöchste beschlussfassende Gremium. Sie beschließt bis zum nächsten Zusammentreten des Bundesparteitages die grundlegenden politischen und finanziellen Angelegenheiten. Sie organisiert und fördert auch die Prozesse der Meinungs- und Programmfindung innerhalb der Partei. Ferner befasst sie sich mit allen Angelegenheiten, die der Bundesparteitag an sie delegiert.
 Der Bund-Länder-Kammer gehören an:
 1. die Mitglieder des Bundesvorstandes, davon sind drei vom Bundesvorstande ausgewählte Mitglieder mit Stimmrecht versehen,
-2. 51 weitere, stimmberechtigte Delegierte, die von den Ländern gewählt werden. <wie kommt man auf 51 Delegierte?>
-(2) Die Bund-Länder-Kammer tagt mindestens einmal alle drei Monate. Er wird vom Bundesvorstand mit einer Ladungsfrist von mindestens 14 Tagen einberufen. Zu einer weiteren Sitzung tritt die Bund-Länder-Kammer zusammen, wenn ein Fünftel der Mitglieder der Bund-Länder-Kammer oder der Bundesvorstand dies verlangen. Antragsberechtigt sind der Bundesvorstand, die Landesvorstände und jede Arbeitsgemeinschaft auf Bundesebene.
-(3) Zur Förderung der Basisdemokratie erhalten bei jeder ordentlichen Sitzung zehn vom Bundesparteivorstand zufällig und mit gleicher Wahrscheinlichkeit ausgewählte Mitglieder der Klimaliste, die kein Parteiamt innehaben, die Möglichkeit, mit Rederecht an einer Sitzung der Bund-Länder-Kammer teilzunehmen. 
+2. 51 weitere, stimmberechtigte Delegierte, die von den Ländern gewählt werden.
+(2) Die Bund-Länder-Kammer tagt mindestens einmal alle drei Monate. Er wird vom Bundesvorstand mit einer Ladungsfrist von mindestens sieben Tagen einberufen. Zu einer weiteren Sitzung tritt die Bund-Länder-Kammer zusammen, wenn ein Fünftel der Mitglieder der Bund-Länder-Kammer oder der Bundesvorstand dies verlangen. Antragsberechtigt sind der Bundesvorstand, die Landesvorstände und jede Arbeitsgemeinschaft auf Bundesebene.
+(3) Zur Förderung der Basisdemokratie erhalten bei jeder ordentlichen Sitzung zehn vom Bundesparteivorstand zufällig und mit gleicher Wahrscheinlichkeit ausgewählte Mitglieder der Klimaliste, die kein Parteiamt innehaben, die Möglichkeit, mit Rederecht an einer Sitzung der Bund-Länder-Kammer teilzunehmen. Mindestens zwei der zehn eingeladenen Mitglieder:innen sollen Ortsgruppen der neuen Bundesländer angehören. 
  
 *§ 11 Der Bundesparteitag
 (1) Der Bundesparteitag ist die Mitgliederversammlung der Bundespartei. Wenn die Mitgliederzahl der Bundespartei 600 übersteigt und mindestens zwei Landesverbände bestehen, wird statt einer Mitgliederversammlung eine Vertretendenversammlung (Delegiertenparteitag) abgehalten. 
-(2) Im Falle einer Vertreter:innenversammlung werden 299 Vertreter:innen für ein Jahr von den Ländern gewählt. Außerdem sind die Mitglieder des Bundesvorstandes berechtigt, am Bundesparteitag mit Rede- und Antragsrecht teilzunehmen. Sie dürfen nicht Delegierte:r eines Landesverbandes sein.
-<299 Delegierte bei mind. 600 Mitgliedern ist zu hoch – das heißt jeder zweite; Alternative eine Staffelung in Abhängigkeit der Mitgliederzahl>
+(2) Im Falle einer Vertreter:innenversammlung werden 299 Vertreter:innen für zwei Jahre von den Ländern gewählt. Außerdem sind die Mitglieder des Bundesvorstandes berechtigt, am Bundesparteitag mit Rede- und Antragsrecht teilzunehmen. Sie dürfen nicht Delegierte:r eines Landesverbandes sein.
 (2) Der Bundesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt durch Beschluss des Bundesparteivorstandes oder wenn 5 % der Parteimitglieder dies in Textform beim Bundesparteivorstand beantragen. Der Parteivorstand lädt jedes Mitglied in Textform mindestens vier Wochen vorher ein. Die Einladung muss Angaben zum Tagungsort (ggf. virtuell), Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, enthalten. Spätestens zwei Wochen vor dem Bundesparteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
-<Ersatzdelegierte sollten ebenfalls gewählt werden>
-(3) Anträge können durch jedes Mitglied und jedes Organ der Bundespartei oder seiner Untergliederungen bis zum siebten Tag vor dem Zusammentreten des Bundesparteitages gestellt werden. Anträge, die nicht von einem Organ der Bundespartei gestellt werden, 
-müssen bis zum Zusammentreten des Bundesparteitages von mindestens 
-weiteren 20 Mitgliedern der Partei unterstützt werden, um durch den 
-Bundesparteitag behandelt zu werden.
+(3) Anträge können durch jedes Mitglied und jedes Organ der Bundespartei oder seiner Untergliederungen bis zum siebten Tag vor dem Zusammentreten des Bundesparteitages gestellt werden. Anträge, die nicht von einem Organ der Bundespartei gestellt werden, müssen bis zum Zusammentreten des Bundesparteitages von mindestens zehn (anderen) Mitgliedern des Bundesparteitages unterstützt werden, um durch den Bundesparteitag behandelt zu werden.
 (6) Im Falle einer Mitgliederversammlung ist eine Stimmrechtsübertragung ausgeschlossen. 
 (7) Die Aufgaben des Bundesparteitages sind insbesondere
   (a) Beschlüsse über die Grundlinien der Politik der Klimaliste Deutschland, über das Programm und die Ausrichtung der Bundespartei
@@ -125,7 +112,6 @@ Bundesparteitag behandelt zu werden.
  
 *§ 13 Urabstimmung
 (1) Über grundlegende Fragen des Programmes, der Satzung und des Grundkonsenses sowie über Antritte zu öffentlichen Wahlen kann eine Urabstimmung aller Mitglieder erfolgen.
-<Wie sind grundlegende Fragen definiert?>
 Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur Urabstimmung.
 (2) Die Urabstimmung findet statt
 	(a) auf Antrag von 5 % der Mitglieder,
@@ -138,7 +124,7 @@ Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur U
  
  
 *§ 14 Bundesarbeitsgruppen
-(1) Alle Bundesparteiorgane können, bei begründetem Bedarf, <Was ist ein begründeter Bedarf?> Bundesarbeitsgruppen einsetzen. Näheres regelt die Geschäftordnung der Bundesarbeitsgruppen, die von der Bund-Länder-Kammer mit einfacher Mehrheit erlassen wird. Die Beauftragung erfolgt in Textform und definiert die Rahmenbeschreibung bezüglich Zielsetzung, Ergebnisse und durchzuführenden Aufgaben.
+(1) Alle Bundesparteiorgane können, bei begründetem Bedarf, Bundesarbeitsgruppen einsetzen. Näheres regelt die Geschäftordnung der Bundesarbeitsgruppen, die von der Bund-Länder-Kammer mit einfacher Mehrheit erlassen wird. Die Beauftragung erfolgt in Textform und definiert die Rahmenbeschreibung bezüglich Zielsetzung, Ergebnisse und durchzuführenden Aufgaben.
 (2) Beschlüsse der Parteiorgane binden Arbeitsgruppen.
 (3) Es soll mindestens eine Person und maximal zwei Personen als Koordination fungieren. Die Koordination ist den Parteiorganen gegenüber jederzeit auskunftspflichtig.
 (4) Die Bundesarbeitsgruppen können vom Bundesparteivorstand ausgesetzt werden. Diese Entscheidung ist der Bund-Länder-Kammer beim nächsten Zusammentreten zur Bestätigung vorzulegen. Die endgültige Entscheidung obliegt dem Bundesparteitag.
