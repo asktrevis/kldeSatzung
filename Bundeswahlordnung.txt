@@ -1,8 +1,9 @@
 TEIL A: GRUNDSÄTZE
  
 § 1 Geltungsbereich
-(1) Diese Wahlordnung gilt für alle Wahlen innerhalb der Klimaliste Deutschland. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten der Bundesebene oder der Gebietgliederungen dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
-(2) Sie gilt, vorbehaltlich besonderer Bestimmungen der Wahlgesetze, auch für die Aufstellung von Wahlbewerber:innen zu öffentliche Wahlen.
+(1) Diese Wahlordnung gilt 
+a) für alle Wahlen innerhalb der Klimaliste Deutschland. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
+b) vorbehaltlich besonderer Bestimmungen der Wahlgesetze, auch für die Aufstellung von Wahlbewerber:innen zu öffentliche Wahlen.
 (3) Für Wahlen, die nicht durch ein Organ der Klimaliste Deutschland durchgeführt werden und die nicht direkt Vertreter:inn:en zu Organen der Klimaliste Deutschland wählt, können die Gebietsverbände eigene Wahlordnungen erlassen.
 (4) Vorstand im Sinne dieser Wahlordnung ist der Vorstand des Gebietsverbandes, der die Wahlen durchführt.
  
@@ -13,8 +14,7 @@ TEIL A: GRUNDSÄTZE
  
 § 3 Ankündigungen von Wahlen
 (1) Wahlen sind anzusetzen, wenn durch Satzung oder Gesetz vorgeschriebene Positionen vakant sind oder wenn ein zulässiger Ab-/Neuwahlantrag vorliegt.
-(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 7 Tage vor der Wahl eingeladen wurde. 
-Bei Wahlen für lokale Positionen (z.B. Wahlkreisbewerber:in) ist es ausreichend, nur alle Mitglieder einzuladen, die wahlberechtigt sind oder in diesem lokalen Gebiet ihren Erstwohnsitz haben.
+(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied im betreffenden Gebietsverband in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 7 Tage, vor der Wahl eingeladen wurde, sofern die Satzung keine längere Ladungsfrist vorsieht.
  
 TEIL B: DIE WAHL SELBST
  
@@ -23,7 +23,7 @@ TEIL B: DIE WAHL SELBST
 (2) Die Wahlkommission leitet die Wahlhandlung und stellt das Wahlergebnis fest.
 (3) Die Mitglieder der Wahlkommission müssen der Versammlung nicht angehören. Die Wahlkommission kann bei Bedarf weitere Wahlhelfende hinzuziehen.
 (4) Wer selbst bei einer der Wahlen kandidiert, kann nicht der Wahlkommission angehören. Erklärt ein Mitglied der Wahlkommission eine Kandidatur, scheidet es unmittelbar aus der Wahlkommission aus. Die vakante Stelle ist unmittelbar gemäß Absatz 1 nachzubesetzen.
-(5) Der Modus der Wahl (Stimmzettel, Briefwahl, Digitale Wahl, etc.) wird durch die Versammlung bestimmt. Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
+(5) Der Modus der Wahl (Stimmzettel, Briefwahl, Digitale Wahl, etc.) wird durch die wählende Versammlung bestimmt. Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
  
 § 5 Wahlvorschläge
 (1) Jede für eine Wahl wählbare Person kann sich für diese bewerben.
@@ -74,11 +74,12 @@ c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt,
 (1) Im Falle einer Briefwahl wird abweichend von § 6 Absatz 1 gleichzeitig gewählt. 
 (2) Im Falle einer Briefwahl ist die Kandidatur für mehrere Positionen auch dann erlaubt, wenn ein gleichzeitges Innehaben der Ämter ausgeschlossen ist. Falls eine Person für solche Positionen gewählt wird, muss sie binnen 72 Stunden nach Veröffentlichung des vorläufigen Wahlergebnisses eine dieser Positionen in Textform ablehnen. Unterbleibt eine Rückmeldung, gelten alle Positionen als abgelehnt.
 (4) Im Falle einer Briefwahl entscheidet die wählende Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine oder mehrere bestimmte Wahlen die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
+(5) Eine Wahl kann erst angenommen werden, wenn die Ergebnisse alle vorherigen Wahlen gemäß § 6 Abs. 2 und 3 feststehen.
 
 § 10a Annahme der Wahl
 (1) Eine Wahl muss bei Anwesenheit des/der Gewählten unmittelbar, bei einer Briefwahl spätestens binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden. Falls die Wahl in Textform abgelehnt wird oder die Frist verstreicht, gilt die Wahl als abgelehnt.
 (2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand angenommen wird. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
-(3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert. Lehnen mehrere Personen eine Position ab, werden die Gewählten der entsprechenden Wahlen nach Reihenfolge des Einganges der Ablehnung beim Vorstand neu ermittelt.
+(3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert.
 
 TEIL C: NACH DER WAHL/WIRKUNGEN
 § 11 Wahlprotokoll, Nachwahl
