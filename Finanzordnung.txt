@@ -47,6 +47,8 @@ Finanzordnung
 § 12 Überschreitung
     (1) Wird der genehmigte Haushalt nicht eingehalten, dann muss der Haushalt des Folgejahres durch Veranschlagung oder über eine sofortige Haushaltssperre im laufenden Haushaltsjahr um denselben Betrag bei den Ausgaben reduziert werden.
     (2) Dieser Paragraph gilt entsprechend für alle Gliederungen
+§ 12 a: Kredite und Darlehen
+ (1) Die Aufnahme von Krediten, Darlehen und anderer, derartiger Geld- oder Sachverbindlichkeiten durch den Bundesverband oder eine Gebietsgliederung bedürfen stets der Bestätigung der Bund-Länder-Kammer.
 § 13 Erstattungsordnung
     (1) Der Bundesparteitag kann eine Erstattungsordnung für die Abrechnung von Auslagen beschließen; diese ist als Anhang an die Finanzordnung zu formulieren und wird Teil der Finanzordnung. Die Erstattungsordnung muss dem Steuerrecht genügen.
 § 14 Salvatorische Klausel
