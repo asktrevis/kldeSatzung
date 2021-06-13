@@ -1,20 +1,21 @@
 TEIL A: GRUNDSÄTZE
  
 § 1 Geltungsbereich
-(1) Diese Wahlordnung gilt für alle Wahlen innerhalb der Klimaliste Deutschland. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
-(2) Sie gilt, vorbehaltlich besonderer Bestimmungen der Wahlgesetze, auch für die Aufstellung von Wahlbewerber:innen zu öffentliche Wahlen.
+(1) Diese Wahlordnung gilt 
+a) für alle Wahlen innerhalb der Klimaliste Deutschland. Für Wahlen, die nicht mittelbar oder unmittelbar der Besetzung von Organen oder Schiedsgerichten dienen, dürfen die wählenden Organe in ihren Geschäftsordnungen abweichende Verfahren festlegen, solange demokratische Wahlgrundsätze gewahrt bleiben.
+b) vorbehaltlich besonderer Bestimmungen der Wahlgesetze, auch für die Aufstellung von Wahlbewerber:innen zu öffentliche Wahlen.
 (3) Für Wahlen, die nicht durch ein Organ der Klimaliste Deutschland durchgeführt werden und die nicht direkt Vertreter:inn:en zu Organen der Klimaliste Deutschland wählt, können die Gebietsverbände eigene Wahlordnungen erlassen.
 (4) Vorstand im Sinne dieser Wahlordnung ist der Vorstand des Gebietsverbandes, der die Wahlen durchführt.
  
 § 2 Wahlgrundsätze
 (1) Es gilt allgemein der Grundsatz der freien, gleichen und geheimen Wahl.
-(2) Eine Versammlung kann im Rahmen des Grundsatzes nach Absatz 1 und im Rahmen der Satzung ergänzende oder abweichende Bestimmungen zu den §§ 4 bis 11 treffen. Ein entsprechender Versammlungsbeschluss kann niemals rückwirkend auf eine bereits stattgefundene Wahlhandlung angewendet werden.
+(2) Eine Versammlung kann im Rahmen des Grundsatzes nach Absatz 1 und im Rahmen der Gesetze und der Satzung ergänzende oder abweichende Bestimmungen zu den §§ 4 bis 11 treffen. Ein entsprechender Versammlungsbeschluss kann niemals rückwirkend auf eine bereits stattgefundene Wahlhandlung angewendet werden.
 (3) Eine Versammlung kann Wahlen durchführen, wenn fristgerecht eingeladen wurde oder alle stimmberechtigten Mitglieder anwesend sind.
  
 § 3 Ankündigungen von Wahlen
 (1) Wahlen sind anzusetzen, wenn durch Satzung oder Gesetz vorgeschriebene Positionen vakant sind oder wenn ein zulässiger Ab-/Neuwahlantrag vorliegt.
-(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 7 Tage vor der Wahl eingeladen wurde. 
-Bei Wahlen für lokale Positionen (z.B. Wahlkreisbewerber:in) ist es ausreichend, nur alle Mitglieder einzuladen, die wahlberechtigt sind oder in diesem lokalen Gebiet ihren Erstwohnsitz haben.
+(2) Sind Wahlen angesetzt, so lädt der Vorstand jedes wahlberechtigte oder wählbare Mitglied im betreffenden Gebietsverband in Textform zur Wahl ein. Die Einladung ist fristgerecht, wenn spätestens 13 Tage vor der Wahl eingeladen wurde, sofern die Satzung keine längere Ladungsfrist vorsieht.
+
  
 TEIL B: DIE WAHL SELBST
  
@@ -23,13 +24,13 @@ TEIL B: DIE WAHL SELBST
 (2) Die Wahlkommission leitet die Wahlhandlung und stellt das Wahlergebnis fest.
 (3) Die Mitglieder der Wahlkommission müssen der Versammlung nicht angehören. Die Wahlkommission kann bei Bedarf weitere Wahlhelfende hinzuziehen.
 (4) Wer selbst bei einer der Wahlen kandidiert, kann nicht der Wahlkommission angehören. Erklärt ein Mitglied der Wahlkommission eine Kandidatur, scheidet es unmittelbar aus der Wahlkommission aus. Die vakante Stelle ist unmittelbar gemäß Absatz 1 nachzubesetzen.
-(5) Der Modus der Wahl (Stimmzettel, Briefwahl, Digitale Wahl, etc.) wird durch die Versammlung bestimmt. Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
+(5) Der Modus der Wahl (Stimmzettel, Briefwahl, Digitale Wahl, etc.) wird durch die wählende Versammlung bestimmt. Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
  
 § 5 Wahlvorschläge
 (1) Jede für eine Wahl wählbare Person kann sich für diese bewerben.
 (2) Bewerbungen von nicht wahlberechtigten Wählbaren müssen mindestens 24 Stunden vorher in Textform beim Vorstand eingegangen sein. Die Bewerbung kann bis Ende der Bewerber:innenliste zurückgezogen werden.
 (3) Wahlberechtigte Wählbare können sich gemäß Absatz 2 oder persönlich durch Zuruf bis zum Abschluss der Bewerber:inn:en-Liste für diese Wahl bewerben.
-(4) Jede bewerbende Person nach Absatz 2 muss eine Kopie eines amtlichen Ausweisdokumentes beifügen, jede nach Absatz 3 ein solches vorzeigen. Die Wahlkommission vermerkt im Protokoll den Vornamen, den Namen, das Geburtsdatum und den Geburtsort, die Staatsangehörigkeit, das Ausweisdokument sowie die Ausweisnummer der bewerbenden Person. Gleichzeitig muss erklärt werden, ob man als männliche, weibliche oder diverse Person kandidieren möchte. Diverse Personen müssen darüber hinaus erklären, ob sie auf Liste A oder Liste B gemäß § 8 kandidieren wollen.
+(4) Jede bewerbende Person nach Absatz 2 muss eine Kopie eines amtlichen Ausweisdokumentes beifügen, jede nach Absatz 3 ein solches vorzeigen. Die Wahlkommission vermerkt im Protokoll den Vornamen, den Namen, das Geburtsdatum und den Geburtsort, die Staatsangehörigkeit, das Ausweisdokument sowie die Ausweisnummer der bewerbenden Person. Gleichzeitig muss erklärt werden, ob man als männliche, weibliche oder diverse Person kandidieren möchte. Diverse Personen müssen darüber hinaus erklären, ob sie auf Liste A oder Liste B gemäß § 8 kandidieren wollen. Im Rahmen derselben Versammlung muss eine diverse Person immer auf der gleichen Liste kandidieren.
 (5) Alle Bewerbenden erhalten eine angemessene Redezeit (10 Minuten bei Vorstandsämtern und Bewerber:innen für öffentliche Ämter, 5 Minuten bei sonstigen Positionen) zu ihrer Vorstellung. Über den Umfang von Fragen an und Stellungnahmen zu Bewerbenden entscheidet die Versammlungsleitung, wenn nicht durch Versammlungsbeschluss geregelt. Dabei sind die Bewerbenden für gleiche Parteiämter oder Mandate gleich zu behandeln. Die Versammlung kann auf Vorschlag der Wahlleitung andere, angemessene Redezeiten beschließen.
  
 § 6 Reihenfolge von Wahlen
@@ -38,8 +39,8 @@ TEIL B: DIE WAHL SELBST
 (3) Sofern diese Bestimmung oder die Versammlung keine eindeutige Reihenfolge der einzelnen Wahlen festlegt, entscheidet die Wahlkommission.
  
 § 7 Wahllisten
-(1) Bei der Aufstellung von Listen für öffentliche Wahlen bestimmt die Versammlung, wie viele Plätze einzeln gewählt werden, alle weiteren Listenplätze werden dann in einer einzigen Wahl gewählt. Die Versammlung kann eine Höchstzahl zu besetzender Listenplätze bestimmen. 
-(2) Erfolgt kein Versammlungsbeschluss nach Absatz 1, werden alle Listenplätze gemeinsam gewählt.
+(1) Bei der Aufstellung von Listen für öffentliche Wahlen bestimmt die Versammlung, wie viele Plätze einzeln gewählt werden, alle weiteren Listenplätze werden dann in einem Wahlgang als Listenwahl gewählt. Die Versammlung kann eine Höchstzahl zu besetzender Listenplätze bestimmen. 
+(2) Erfolgt kein Versammlungsbeschluss nach Absatz 1, werden alle Listenplätze gemeinsam in einem Wahlgang als Listenwahl gewählt.
  
 § 8 Wahlverfahren
 (1) Es werden zwei getrennte Listen gebildet: Auf Liste A befinden sich alle weiblichen Bewerber:innen, auf Liste B alle männlichen Bewerber:innen. Diverse Bewerber:innen kandidieren auf der von ihnen selbst mit Einreichung der Kandidatur bestimmten Liste.
@@ -58,14 +59,14 @@ TEIL B: DIE WAHL SELBST
 (8) Falls nur ein Platz zu besetzen ist, wird abweichend von Absatz 1 nur auf einer Liste gewählt, auf der alle Bewerbenden stehen. Dieser Absatz findet bei einer Nachwahl keine Anwendung.
 
 § 8a Wahlverfahren bei der Aufstellung zu öffentlichen Wahlen
-(1) Im Falle der Aufstellung von Bewerber:inn:en zu öffentlichen Wahlen, sei es als Direktkandidat:inn:en oder als Liste, findet statt dem Wahlverfahren in § 8 folgendes Wahlverfahren Anwendung: 
+(1) Im Falle der Aufstellung von Bewerber:inn:en zu öffentlichen Wahlen, sei es als Direktkandidat:inn:en oder als Liste, gelten die Regelungen der jeweiligen Wahlgesetze und Ordnungen unmittelbar mit der Maßgabe, dass statt dem Wahlverfahren in § 8 folgendes Wahlverfahren Anwendung findet: 
 a) Statt § 8 Absatz 2 gilt: Jede:r Wähler:in bewertet sodann jede:n Kandidaten:Kandidatin mit genau einer der Optionen Ja, Nein oder Enthaltung.
 b) Statt § 8 Absatz 3 gilt: Sobald alle Stimmen eingegangen sind, wird von jeder/jedem Kandidatin:Kandidaten die Summe der Ja-Stimmen und die Summe der Nein-Stimmen gebildet. Jede Liste für sich wird sodann nach der Summe der Ja-Stimmen absteigend sortiert. Haben zwei Personen die gleiche Anzahl an Ja-Stimmen, steht diese Person weiter oben auf der Liste, die weniger Nein-Stimmen auf sich vereint. Sind auch diese gleich entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
 c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt, die mehr Nein- als Ja-Stimmen auf sich vereinen. 
 
 
 § 9 Stimmzettel, Stimmenauszählung und ungültige Stimmen
-(1) Die Stimmzettel sind nach Möglichkeit so zu gestalten, dass vor/hinter jedem:jeder Bewerber:in die möglichen Wahloptionen aufgelistet werden, die dann durch den Wählenden angekreuzt werden können.
+(1) Die Stimmzettel sind so zu gestalten, dass vor/hinter jedem:jeder Bewerber:in die möglichen Wahloptionen aufgelistet werden, die dann durch den Wählenden angekreuzt werden können.
 (2) Falls Listen bestehen muss klar erkenntlich sein, welche Person auf welcher Liste kandidiert. 
 (3) Die Stimmenauszählung durch die Wahlkommission ist parteiöffentlich. Die ordnungsgemäße Auszählung darf durch die Öffentlichkeit nicht beeinträchtigt werden. Die Wahlkommission kann eine Maximalzahl an Beobachter:innen, die nicht geringer als zwei ist, beschließen. Bei der Stimmenauszählung ist zu gewährleisten,dass keine Rückschlüsse auf das Wahlverhalten möglich sind. Es ist sicherzustellen, dass Beobachter:innen keine Notizen anfertigen und keine Photographien angefertigt werden.
 (4) Die Wahlkommission hat Stimmzettel für ungültig zu erklären, wenn auf ihnen der Wille der Wählenden nicht erkennbar ist, wenn dieser unvollständig ausgefüllt ist oder geeignet ist, das Prinzip der geheimen Wahl zu verletzen.
@@ -73,23 +74,25 @@ c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt,
 § 10 Briefwahl
 (1) Im Falle einer Briefwahl wird abweichend von § 6 Absatz 1 gleichzeitig gewählt. 
 (2) Im Falle einer Briefwahl ist die Kandidatur für mehrere Positionen auch dann erlaubt, wenn ein gleichzeitges Innehaben der Ämter ausgeschlossen ist. Falls eine Person für solche Positionen gewählt wird, muss sie binnen 72 Stunden nach Veröffentlichung des vorläufigen Wahlergebnisses eine dieser Positionen in Textform ablehnen. Unterbleibt eine Rückmeldung, gelten alle Positionen als abgelehnt.
-(4) Im Falle einer Briefwahl entscheidet die Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine bestimmte Wahl die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
+(4) Im Falle einer Briefwahl entscheidet die wählende Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine oder mehrere bestimmte Wahlen die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
+(5) Eine Wahl kann erst angenommen werden, wenn die Ergebnisse alle vorherigen Wahlen gemäß § 6 Abs. 2 und 3 feststehen.
 
 § 10a Annahme der Wahl
-(1) Eine Wahl muss binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
+(1) Eine Wahl muss bei Anwesenheit des/der Gewählten unmittelbar, bei einer Briefwahl spätestens binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden. Falls die Wahl in Textform abgelehnt wird oder die Frist verstreicht, gilt die Wahl als abgelehnt.
 (2) Beim Nachrücken nach § 11 Absatz 2 gilt die Position als angenommen, wenn binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand angenommen wird. Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
-(3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert. Lehnen mehrere Personen eine Position ab, werden die Gewählten der entsprechenden Wahlen nach Reihenfolge des Einganges der Ablehnung beim Vorstand neu ermittelt.
+(3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert.
 
 TEIL C: NACH DER WAHL/WIRKUNGEN
 § 11 Wahlprotokoll, Nachwahl
 (1) Jede Wahl ist zu protokollieren. Das Protokoll muss alle ergänzenden Versammlungsbeschlüsse zu dieser Wahlordnung und alle Wahlergebnisse enthalten. Es ist durch die Wahlleitung und mindestens ein weiteres Mitglied der Wahlkommission zu unterzeichnen. Die Wahlunterlagen (Wahlprotokoll, Stimmzettel, Liste der Wahlberechtigten und der Wählenden, Dokumentation von Losentscheiden, evtl. weitere Dokumente) sind für die Dauer der Wahlperiode der Gewählten aufzubewahren.
-(2) Vakante Delegiertenmandate sind nur dann durch Nachwahl zu besetzen, wenn für die entsprechende Position auf der Listedes/der Zurückgetretenen keine gewählten Ersatzdelegierten (mehr)zur Verfügung stehen. Sonst gilt die gemäß § 8 Absatz 3 zuoberst stehende Person auf der Ersatzliste für die Position des Zurückgetretenen als gewählt, und wird entsprechend von der Liste entfernt. Die Geschäftsordnung der Delegiertenversammlung kann weitere Bestimmungen in diesem Zusammenhang erlassen.
+(2) Vakante Delegiertenmandate sind nur dann durch Nachwahl zu besetzen, wenn für die entsprechende Position auf der Liste des/der Zurückgetretenen keine gewählten Ersatzdelegierten (mehr)zur Verfügung stehen. Sonst gilt die gemäß § 8 Absatz 3 zuoberst stehende Person auf der Ersatzliste für die Position des Zurückgetretenen als gewählt, und wird entsprechend von der Liste entfernt. Die Geschäftsordnung der Delegiertenversammlung kann weitere Bestimmungen in diesem Zusammenhang erlassen.
 (3) Eine gewählte Person bekleidet ihre Position nach Ablauf ihrer Amtszeit bis zur ordnungsgemäßen Neuwahl kommissarisch weiter, sofern durch Satzung oder Geschäftsordnung nichts Anderes bestimmt ist. Diese Nachwahl soll zeitnah stattfinden.
  
 § 12 Wahlwiederholung
-(1) Wird während der Wahlhandlung, aber bevor die Hälfte der Stimmzettel ausgezählt ist, durch die Wahlkomission schwerwiegende Verstöße gegen Satzung oder Gesetz festgestellt, hat diese den Wahlvorgang sofort zu pausieren und die Versammlung zu unterrichten. Diese kann mit 4/5-Mehrheit dann eine Wiederholung dieses Wahlganges beschließen.
+(1) Wird während der Wahlhandlung, aber bevor die Hälfte der Stimmzettel ausgezählt ist, durch die Wahlkomission schwerwiegende Verstöße gegen Satzung oder Gesetz festgestellt, hat diese den Wahlvorgang sofort zu unterbrechen und die Versammlung zu unterrichten. Diese kann mit 4/5-Mehrheit dann eine Wiederholung dieses Wahlganges beschließen.
 (2) Im Übrigen kann eine Wahlwiederholung nur infolge einer erfolgreichen Wahlanfechtung stattfinden.
  
 
 § 13 Schlussbestimmungen
 (1) Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam oder nichtig sein, wird dadurch die Wirksamkeit der übrigen Satzung nicht berührt.
+
