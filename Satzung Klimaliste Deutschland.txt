@@ -200,7 +200,7 @@ Die endgültige Entscheidung obliegt dem Bundesparteitag.
 § 14 Auflösung, Aufnahme anderer Parteien und Verschmelzung
 (1) Die Verschmelzung oder Auflösung der Bundespartei kann nur durch einen Beschluss des Bundesparteitages mit einer 3/4-Mehrheit beschlossen werden.
 (2) Ein Bundesparteitagsbeschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter allen Parteimitgliedern der Klimaliste Deutschland mit einer 2/3-Mehrheit bestätigt werden.
-Jedem Mitglied ist dabei mindestens 10 Tage für die Abstimmung einzuräumen.
+Jedem Mitglied sind dabei mindestens 10 Tage für die Abstimmung einzuräumen.
 (3) Über einen Antrag auf Auflösung oder Verschmelzung kann der Bundesparteitag nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesparteivorstand in Textform eingegangen ist.
 Dieser informiert alle Mitglieder unverzüglich über diesen Antrag.
 
@@ -217,6 +217,7 @@ Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verteilt, an dem der fünfte Landesverband der Bundespartei beitritt.
 In diesem Zeitraum übernimmt der Bundesparteitag die Aufgaben der Bund-Länder-Kammer.
 (2) Die Amtszeit des ersten Bundesvorstandes beträgt sechs Monate.
+(3) Für den Gründungsparteitag gilt weder eine Antragsfrist noch § 32 Abs. 1 Satz 2 BGB.
 
 § 17 Mehrheit
 (1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen exklusive Enthaltungen.
