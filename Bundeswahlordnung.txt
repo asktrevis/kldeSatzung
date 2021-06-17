@@ -44,26 +44,21 @@ TEIL B: DIE WAHL SELBST
  
 § 8 Wahlverfahren
 (1) Es werden zwei getrennte Listen gebildet: Auf Liste A befinden sich alle weiblichen Bewerber:innen, auf Liste B alle männlichen Bewerber:innen. Diverse Bewerber:innen kandidieren auf der von ihnen selbst mit Einreichung der Kandidatur bestimmten Liste.
-(2) Jede:r Wähler:in bewertet sodann jede:n Kandidaten:Kandidatin mit genau einer der Optionen -2, -1, 0, 1, 2.
-(3) Sobald alle Stimmen eingegangen sind, wird von jeder/jedem Kandidatin:Kandidaten der Median und das arithmetische Mittel der für diese:n Kandidatin:Kandidaten abgegebenen Bewertungen gebildet. Jede Liste für sich wird sodann zuerst nach dem Median, und bei gleichem Median nach dem arithmetischen Mittel absteigend sortiert. Kann kein eindeutiger Median gebildet werden, gilt die Hälfte der Differenz aus maximalem und minimalem Median als Median. Haben zwei Personen gleichen Median und Mittel, entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
-(4) Aus den Listen werden dann alle Einträge entfernt, deren Median kleiner als 0 ist. 
+(2) Jede:r Wähler:in stimmt sodann für jede:n Kandidaten:Kandidatin mit genau einer der Optionen "Ja" oder "Enthaltung".
+(3) Sobald alle Stimmen eingegangen sind, wird jede Liste für sich absteigend nach der Anzahl Ja-Stimmen sortiert. 
+Aus den Listen werden alle Einträge entfernt, die nicht mehr Ja- als Enthaltungsstimmen auf sich vereint haben.
+Haben zwei verbleibende Personen die gleiche Anzahl Ja-Stimmen entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
+(4) <entfallen>
 (5) <entfallen>
 (6) So lange Plätze zu vergeben sind, wird folgendes Verfahren beginnend bei Liste A angewandt:
- a) Die Person, die auf der aktuellen Liste ganz oben steht, ist gewählt.
- b) Die gewählte Person wird von dieser Liste entfernt.
- c) Falls die Anzahl der weiblichen Gewählten kleiner oder gleich der Anzahl der männlichen Gewählten ist, wird auf Liste A gewechselt; sonst auf Liste B. Für die Anzahlen nach Satz 1 sind bei Nachwahlen die noch im Organ verbleibenden Personen hinzuzuzählen.
- d) Falls die aktuelle Liste nicht leer ist: Zurück zu a. 
- Falls alle Listen leer sind oder alle Plätze vergeben sind endet das Verfahren. 
- Sonst entscheidet die Versammlung mit einfacher Mehrheit, ob die verbleibenden Plätze allein durch die nicht-leere Liste gefüllt werden sollen, oder ob die Plätze vakant bleiben.
-(7) Bleiben nach einem Wahlgang gemäß Absatz 6 Plätze unbesetzt, kann die Versammlung einen zweiten Wahlgang beschließen. Wählbar ist, wer beim ersten Wahlgang wählbar war und nicht gewählt wurde. Es gibt dabei nur eine Liste, in der jede:r Kandidierende:r nur einmal vorhanden ist. Die Absätze 2, 3, 6 gelten für diese Wahl entsprechend, die Absätze 1, 4, 5 nicht.
-(8) Falls nur ein Platz zu besetzen ist, wird abweichend von Absatz 1 nur auf einer Liste gewählt, auf der alle Bewerbenden stehen. Dieser Absatz findet bei einer Nachwahl keine Anwendung.
+ 1. Die Person, die auf der aktuellen Liste ganz oben steht, ist gewählt und wird von dieser Liste entfernt.
+ 2. Falls die Anzahl der weiblichen Gewählten kleiner oder gleich der Anzahl der männlichen Gewählten ist, wird auf Liste A gewechselt; sonst auf Liste B. Für die Anzahlen nach Satz 1 sind bei Nachwahlen die noch im Organ verbleibenden Personen hinzuzuzählen.
+ 3. Falls die aktuelle Liste nicht leer ist, wird das Verfahren ab 1. wiederholt. Sonst endet das Verfahren (ggf. noch freie Positionen bleiben vakant), sofern dies nicht der Geschäftsfähigkeit des zu besetzenden Organes oder Position entgegensteht.
+(7) Bleiben nach einem Wahlgang gemäß Absatz 6 Plätze unbesetzt, entscheidet die Versammlung, ob ein weiterer Wahlgang stattfinden soll. Wählbar ist im nächsten Wahlgang, wer beim letzten Wahlgang wählbar war und nicht gewählt wurde oder wer sich für den nächsten Wahlgang durch Zuruf gemäß § 5 bewirbt. 
+(8) Falls nur ein Platz zu besetzen ist, wird abweichend von Absatz 1 nur auf einer Liste gewählt, auf der alle Bewerbenden stehen. Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählendende Position keine besondere Zuständigkeit (z.B. Schatzmeister:in) innerhat.
 
 § 8a Wahlverfahren bei der Aufstellung zu öffentlichen Wahlen
-(1) Im Falle der Aufstellung von Bewerber:inn:en zu öffentlichen Wahlen, sei es als Direktkandidat:inn:en oder als Liste, gelten die Regelungen der jeweiligen Wahlgesetze und Ordnungen unmittelbar mit der Maßgabe, dass statt dem Wahlverfahren in § 8 folgendes Wahlverfahren Anwendung findet: 
-a) Statt § 8 Absatz 2 gilt: Jede:r Wähler:in bewertet sodann jede:n Kandidaten:Kandidatin mit genau einer der Optionen Ja, Nein oder Enthaltung.
-b) Statt § 8 Absatz 3 gilt: Sobald alle Stimmen eingegangen sind, wird von jeder/jedem Kandidatin:Kandidaten die Summe der Ja-Stimmen und die Summe der Nein-Stimmen gebildet. Jede Liste für sich wird sodann nach der Summe der Ja-Stimmen absteigend sortiert. Haben zwei Personen die gleiche Anzahl an Ja-Stimmen, steht diese Person weiter oben auf der Liste, die weniger Nein-Stimmen auf sich vereint. Sind auch diese gleich entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
-c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt, die mehr Nein- als Ja-Stimmen auf sich vereinen. 
-
+<nicht mehr nötig>
 
 § 9 Stimmzettel, Stimmenauszählung und ungültige Stimmen
 (1) Die Stimmzettel sind so zu gestalten, dass vor/hinter jedem:jeder Bewerber:in die möglichen Wahloptionen aufgelistet werden, die dann durch den Wählenden angekreuzt werden können.
@@ -74,7 +69,7 @@ c) Statt § 8 Absatz 4 gilt: Aus den Listen werden dann alle Einträge entfernt,
 § 10 Briefwahl
 (1) Im Falle einer Briefwahl wird abweichend von § 6 Absatz 1 gleichzeitig gewählt. 
 (2) Im Falle einer Briefwahl ist die Kandidatur für mehrere Positionen auch dann erlaubt, wenn ein gleichzeitges Innehaben der Ämter ausgeschlossen ist. Falls eine Person für solche Positionen gewählt wird, muss sie binnen 72 Stunden nach Veröffentlichung des vorläufigen Wahlergebnisses eine dieser Positionen in Textform ablehnen. Unterbleibt eine Rückmeldung, gelten alle Positionen als abgelehnt.
-(4) Im Falle einer Briefwahl entscheidet die wählende Versammlung auf Antrag eines:einer Wahlberechtigten oder eines:einer Wählbaren darüber, ob für eine oder mehrere bestimmte Wahlen die verbleibenden Sitze nach § 8 Absatz 5 Buchstabe d Satz 3 entgegen der Quotierung besetzt werden sollen. Unterbleibt eine Entscheidung, bleiben verbleibende Sitze vakant. Ein zweiter Wahlgang nach § 8 Absatz 7 findet nicht statt.
+(4) Im Falle einer Briefwahl findet ein weiterer Wahlgang nach § 8 Absatz 7 nicht statt.
 (5) Eine Wahl kann erst angenommen werden, wenn die Ergebnisse alle vorherigen Wahlen gemäß § 6 Abs. 2 und 3 feststehen.
 
 § 10a Annahme der Wahl
