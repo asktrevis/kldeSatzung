@@ -1,190 +1,188 @@
-Schiedsgerichtsordnung der Klimaliste Deutschland
+Schiedsgerichtsordnung
 
-Erster Abschnitt: Gerichtsverfassung
+# Erster Abschnitt: Gerichtsverfassung
 
 § 1 Grundlagen
-
-(1) Die vorliegende Schiedsgerichtsordnung regelt das Verfahren vor dem Bundesschiedsgericht der Klimaliste Deutschland (nachfolgend "Bundesschiedsgericht"). 
-
-(2) Das Bundesschiedsgericht ist ein Parteischiedsgericht im Sinne des § 14 Absatz 1 des Gesetzes über die politischen Parteien (Parteiengesetz). 
-
+(1) Die vorliegende Schiedsgerichtsordnung regelt das Verfahren vor dem Bundesschiedsgericht der Klimaliste Deutschland (nachfolgend „Bundesschiedsgericht“).
+(2) Das Bundesschiedsgericht ist ein Parteischiedsgericht im Sinne des § 14 Absatz 1 des Gesetzes über die politischen Parteien (Parteiengesetz).
 (3) Aufgaben und Zuständigkeiten des Bundesschiedsgerichts ergeben sich aus dem Parteiengesetz, der Satzung der Klimaliste Deutschland, der Wahlordnung, der vorliegenden Schiedsgerichtsordnung und sonstiger Ordnungen der Klimaliste Deutschland.
 
 § 2 Mitglieder des Bundesschiedsgerichts
-
-(1) Die Mitglieder des Bundesschiedsgerichts (nachfolgend "Schiedsrichter*innen") sind unabhängig und an Weisungen nicht gebunden. Ordnungsmaßnahmen gegen Schiedsrichter*innen sind unzulässig. Schiedsrichter*innen können während der Amtszeit des Bundesschiedsgerichts nicht abgewählt werden.
-
-(2) Schiedsrichter*innen müssen Mitglieder der Klimaliste Deutschland sein.
-
-(3) Schiedsrichter*innen dürfen nicht Mitglied des Vorstandes der Klimaliste Deutschland oder des Vorstandes eines Gebietsverbandes sein, in einem Dienstverhältnis zu der Klimaliste Deutschland oder einem Gebietsverband stehen oder von ihnen regelmäßige Einkünfte beziehen.
-
-(4) Schiedsrichter*innen verpflichten sich mit der Annahme ihres Amtes, alle Vorgänge, die ihnen in dieser Eigenschaft bekannt werden, vertraulich zu behandeln. Über Ausnahmen entscheidet der/die Präsident*in des Bundesschiedsgerichts.
+(1) Die Mitglieder des Bundesschiedsgerichts (nachfolgend „Schiedsrichter:innen“) sind unabhängig und an Weisungen nicht gebunden.
+Ordnungsmaßnahmen gegen Schiedsrichter:innen sind unzulässig.
+Schiedsrichter:innen können während der Amtszeit des Bundesschiedsgerichts nicht abgewählt werden.
+(2) Schiedsrichter:innen müssen Mitglieder der Klimaliste Deutschland sein.
+(3) Schiedsrichter:innen dürfen nicht Mitglied des Vorstandes der Klimaliste Deutschland oder des Vorstandes eines Gebietsverbandes sein, in einem Dienstverhältnis zu der Klimaliste Deutschland oder einem Gebietsverband stehen oder von ihnen regelmäßige Einkünfte beziehen.
+(4) Schiedsrichter:innen verpflichten sich mit der Annahme ihres Amtes, alle Vorgänge, die ihnen in dieser Eigenschaft bekannt werden, vertraulich zu behandeln.
+Über Ausnahmen entscheidet der/die Präsident:in des Bundesschiedsgerichts.
 
 § 3 Wahl und Besetzung des Bundesschiedsgerichts
-
-(1) Das Bundesschiedsgericht besteht aus vier amtierenden Schiedsrichter*innen und vier stellvertretenden Schiedsrichter*innen, sofern zum Zeitpunkt der Wahl nicht mehr als acht Landesverbände bestehen. Das Bundesschiedsgericht besteht aus sechs amtierenden Schiedsrichter*innen und sechs stellvertretenden Schiedsrichter*innen, sofern zum Zeitpunkt der Wahl mindestens neun und nicht mehr als zwölf Landesverbände bestehen. Das Bundesschiedsgericht besteht aus acht amtierenden Schiedsrichter*innen und acht stellvertretenden Schiedsrichter*innen, sofern zum Zeitpunkt der Wahl mindestens dreizehn Landesverbände bestehen. 
-
-(2) Die amtierenden Schiedsrichter*innen und die stellvertretenden Schiedsrichter*innen werden jeweils für die Dauer von zwei Jahren („Amtszeit“) vom Bundesparteitag gewählt. Die Wahl und Nachwahl von amtierenden Schiedsrichter*innen erfolgt als Einzelwahl gemäß der Wahlordnung der Klimaliste Deutschland, sofern der Bundesparteitag nicht beschließt, die Wahl als Listenwahl durchzuführen. Die Wahl und Nachwahl von stellvertretenden Schiedsrichter*innen erfolgt als Listenwahl gemäß der Wahlordnung der Klimaliste Deutschland, sofern der Bundesparteitag nicht beschließt, die Wahl als Einzelwahl durchzuführen. Werden im Rahmen eines Bundesparteitages sowohl amtierende Schiedsrichter*innen als auch stellvertretende Schiedsrichter*innen gewählt, so muss die Wahl der amtierenden Schiedsrichter*innen zeitlich vor der Wahl der stellvertretenden Schiedsrichter*innen erfolgen. Wiederwahlen sind möglich.
-
-(3) Die amtierenden Schiedsrichter*innen wählen jeweils aus ihrer Mitte eine*n Präsidentin/Präsidenten, die/der das Bundesschiedsgericht leitet und die Geschäfte führt, eine*n Vizepräsidentin/Vizepräsidenten und eine*n Erste*n Beisitzer*in. Die anderen amtierenden Schiedsrichter*innen sind Beisitzer. Die/der Präsident*in und die/der Vizepräsident*in sollten eine Befähigung zum Richteramt haben. 
-
-(4) Innerhalb von einem Monat nach Beginn der Amtszeit des Bundesschiedsgerichts beschließen die/der Präsident*in, die/der Vizepräsident*in und die/der Erste*n Beisitzer*in. einen jeweils für einen Zeitraum von höchstens 12 Monaten gültigen Geschäftsverteilungsplan, der die Zuständigkeiten, die Vertretung im Verhinderungsfall, im Fall des Ausschlusses wegen Befangenheit oder Doppelbefassung regelt. Der Geschäftsverteilungsplan kann auch die Bildung und Zusammensetzung von Senaten und die Verteilung der Verfahren auf die jeweiligen Senate regeln. In jedem Senat sollte mindestens ein Senatsmitglied über die Befähigung zum Richteramt verfügen.
-
-(5) Werden keine Senate nach Abs. 4 gebildet, so trifft das Bundesschiedsgericht alle Entscheidungen in der vollständigen Besetzung mit allen amtierenden Schiedsrichter*innen ("Großer Senat"). Dies gilt auch in anderen in dieser Schiedsgerichtsordnung festgelegten Fällen, sofern nichts Abweichendes geregelt ist. Die/der Präsident*in des Bundesschiedsgerichts ist die/der Vorsitzende*r des Großen Senats, die anderen amtierenden Schiedsrichter*innen sind beisitzende Schiedsrichter*innen des Großen Senats. 
-
-(5) Werden Senate nach Abs. 4 gebildet, so besteht jeder Senat aus eine*r Vorsitzende*r und mindestens einer/einem beisitzenden Schiedsrichter*in. Die/der Vorsitzende*r und die beisitzenden Schiedsrichter*innen des Senats werden als Senatsmitglieder bezeichnet. Gemäß dem Geschäftsverteilungsplan werden die Verfahren an die zuständigen Senate verteilt. Das Bundesschiedsgericht trifft die Entscheidungen nach der im Geschäftsverteilungsplan festgelegten Besetzung des jeweiligen Senats. An jeder Entscheidung müssen mindestens zwei Senatsmitglieder eines Senats mitwirken. Bei Verfahren von besonderer Bedeutung kann ein Senat beschließen, die Verweisung des Verfahrens an den Großen Senat zu beantragen. In einem solchen Fall beschließt der Große Senat innerhalb von zwei Wochen mit der Mindestbesetzung der/des Vorsitzenden und drei weiteren besitzenden Schiedsrichter*innen, dem Verweisungsantrag stattzugeben, den Verweisungsantrag abzulehnen oder das Verfahren an einen anderen Senat zu verweisen. Der Beschluss des Großen Senats über den Verweisungsantrag ist unanfechtbar.
-
-(6) Scheidet die/der Präsident*in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Vizepräsident*in die Funktion der/des Präsident*in für die verbleibende Amtszeit des Bundesschiedsgerichts. Scheidet die/der Vizepräsident*in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Erste*n Beisitzer*in die Funktion der/des Vizepräsident*in für die verbleibende Amtszeit des Bundesschiedsgerichts. Scheidet die/der Erste Beisitzer*in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Beisitzer*in, die/der gemäß Geschäftsverteilungsplan die/den Ersten Besitzer*in im Verhinderungsfall vertreten würde, die Funktion der/des Ersten Beisitzerin/Beisitzers für die verbleibende Amtszeit des Bundesschiedsgerichts.
-
-(9) Scheidet ein*e amtierende*r Schiedsrichter*in während der Amtszeit des Bundesschiedsgerichts aus, so rückt innerhalb von spätestens vier Wochen der/die stellvertretende Schiedsrichter*in in der Rangfolge der in der Wahl erhaltenen Stimmenanzahl nach.
-
-(10) Führt das Ausscheiden eines/r oder mehrerer gemäß Abs. 2 gewählten Schiedsrichter*innen während der Amtszeit des Bundesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter*innen kleiner als drei Viertel der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so kann während der Amtszeit des Bundesschiedsgerichts mindestens ein*e weitere*r stellvertretender Schiedsrichter*in durch Nachwahl bestimmt werden. Führt das Ausscheiden eines/r oder mehrerer gemäß § 3 Abs. 2 gewählten Schiedsrichter*innen während der Amtszeit des Bundesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter*innen kleiner als die Hälfte der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so sind innerhalb von zwei Monaten mindestens so viele amtierende Schiedsrichter*innen durch Nachwahl zu bestimmen, bis die zu Beginn der Amtszeit vorgesehene Gesamtzahl von amtierenden Schiedsrichter*innen erreicht ist. Jede Nachwahl muss im Rahmen eines Bundesparteitags erfolgen. Bei jeder Nachwahl können so viele stellvertretende Schiedsrichter*innen nachgewählt werden, bis die zu Beginn der Amtszeit vorgesehene Anzahl von stellvertretenden Schiedsrichter*innen erreicht ist. In der Rangfolge der in der Nachwahl erhaltenen Stimmenanzahl schließen sich nachgewählte Schiedsrichter*innen an noch vorhandene Schiedsrichter*innen an. Nachwahlen gelten nur für den Rest der Amtszeit des Bundesschiedsgerichts.
+(1) Das Bundesschiedsgericht besteht aus vier amtierenden Schiedsrichter:innen und vier stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl nicht mehr als acht Landesverbände bestehen.
+Das Bundesschiedsgericht besteht aus sechs amtierenden Schiedsrichter:innen und sechs stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl mindestens neun und nicht mehr als zwölf Landesverbände bestehen.
+Das Bundesschiedsgericht besteht aus acht amtierenden Schiedsrichter:innen und acht stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl mindestens dreizehn Landesverbände bestehen.
+(2) Die amtierenden Schiedsrichter:innen und die stellvertretenden Schiedsrichter:innen werden jeweils für die Dauer von zwei Jahren („Amtszeit“) vom Bundesparteitag gewählt.
+Die Wahl und Nachwahl von amtierenden Schiedsrichter:innen erfolgt als Einzelwahl gemäß der Wahlordnung der Klimaliste Deutschland, sofern der Bundesparteitag nicht beschließt, die Wahl als Listenwahl durchzuführen.
+Die Wahl und Nachwahl von stellvertretenden Schiedsrichter:innen erfolgt als Listenwahl gemäß der Wahlordnung der Klimaliste Deutschland, sofern der Bundesparteitag nicht beschließt, die Wahl als Einzelwahl durchzuführen.
+Werden im Rahmen eines Bundesparteitages sowohl amtierende Schiedsrichter:innen als auch stellvertretende Schiedsrichter:innen gewählt, so muss die Wahl der amtierenden Schiedsrichter:innen zeitlich vor der Wahl der stellvertretenden Schiedsrichter:innen erfolgen.
+Wiederwahlen sind möglich.
+(3) Die amtierenden Schiedsrichter:innen wählen jeweils aus ihrer Mitte eine:n Präsidentin/Präsidenten, die/der das Bundesschiedsgericht leitet und die Geschäfte führt, eine:n Vizepräsidentin/Vizepräsidenten und eine:n Erste:n Beisitzer:in.
+Die anderen amtierenden Schiedsrichter:innen sind Beisitzer.
+Die/der Präsident:in und die/der Vizepräsident:in sollten eine Befähigung zum Richteramt haben.
+(4) Innerhalb von einem Monat nach Beginn der Amtszeit des Bundesschiedsgerichts beschließen die/der Präsident:in, die/der Vizepräsident:in und die/der Erste:n Beisitzer:in einen jeweils für einen Zeitraum von höchstens 12 Monaten gültigen Geschäftsverteilungsplan, der die Zuständigkeiten, die Vertretung im Verhinderungsfall, im Fall des Ausschlusses wegen Befangenheit oder Doppelbefassung regelt.
+Der Geschäftsverteilungsplan kann auch die Bildung und Zusammensetzung von Senaten und die Verteilung der Verfahren auf die jeweiligen Senate regeln. In jedem Senat sollte mindestens ein Senatsmitglied über die Befähigung zum Richteramt verfügen.
+(5) Werden keine Senate nach Abs. 4 gebildet, so trifft das Bundesschiedsgericht alle Entscheidungen in der vollständigen Besetzung mit allen amtierenden Schiedsrichter:innen („Großer Senat“).
+Dies gilt auch in anderen in dieser Schiedsgerichtsordnung festgelegten Fällen, sofern nichts Abweichendes geregelt ist.
+Die/der Präsident:in des Bundesschiedsgerichts ist die/der Vorsitzende:r des Großen Senats, die anderen amtierenden Schiedsrichter:innen sind beisitzende Schiedsrichter:innen des Großen Senats.
+(6) Werden Senate nach Abs. 4 gebildet, so besteht jeder Senat aus eine:r Vorsitzende:r und mindestens einer/einem beisitzenden Schiedsrichter:in.
+Die/der Vorsitzende:r und die beisitzenden Schiedsrichter:innen des Senats werden als Senatsmitglieder bezeichnet.
+Gemäß dem Geschäftsverteilungsplan werden die Verfahren an die zuständigen Senate verteilt.
+Das Bundesschiedsgericht trifft die Entscheidungen nach der im Geschäftsverteilungsplan festgelegten Besetzung des jeweiligen Senats.
+An jeder Entscheidung müssen mindestens zwei Senatsmitglieder eines Senats mitwirken.
+Bei Verfahren von besonderer Bedeutung kann ein Senat beschließen, die Verweisung des Verfahrens an den Großen Senat zu beantragen.
+In einem solchen Fall beschließt der Große Senat innerhalb von zwei Wochen mit der Mindestbesetzung der/des Vorsitzenden und drei weiteren besitzenden Schiedsrichter:innen, dem Verweisungsantrag stattzugeben, den Verweisungsantrag abzulehnen oder das Verfahren an einen anderen Senat zu verweisen.
+Der Beschluss des Großen Senats über den Verweisungsantrag ist unanfechtbar.
+(7) Scheidet die/der Präsident:in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Vizepräsident:in die Funktion der/des Präsident:in für die verbleibende Amtszeit des Bundesschiedsgerichts.
+Scheidet die/der Vizepräsident:in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Erste:n Beisitzer:in die Funktion der/des Vizepräsident:in für die verbleibende Amtszeit des Bundesschiedsgerichts.
+Scheidet die/der Erste Beisitzer:in während der Amtszeit des Bundesschiedsgerichts aus, so übernimmt die/der Beisitzer:in, die/der gemäß Geschäftsverteilungsplan die/den Ersten Besitzer:in im Verhinderungsfall vertreten würde, die Funktion der/des Ersten Beisitzerin/Beisitzers für die verbleibende Amtszeit des Bundesschiedsgerichts.
+(8) Scheidet ein:e amtierende:r Schiedsrichter:in während der Amtszeit des Bundesschiedsgerichts aus, so rückt innerhalb von spätestens vier Wochen der/die stellvertretende Schiedsrichter:in in der Rangfolge der in der Wahl erhaltenen Stimmenanzahl nach.
+(9) Führt das Ausscheiden eines/r oder mehrerer gemäß Abs. 2 gewählten Schiedsrichter:innen während der Amtszeit des Bundesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter:innen kleiner als drei Viertel der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so kann während der Amtszeit des Bundesschiedsgerichts mindestens ein:e weitere:r stellvertretender Schiedsrichter:in durch Nachwahl bestimmt werden.
+Führt das Ausscheiden eines/r oder mehrerer gemäß § 3 Abs. 2 gewählten Schiedsrichter:innen während der Amtszeit des Bundesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter:innen kleiner als die Hälfte der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so sind innerhalb von zwei Monaten mindestens so viele amtierende Schiedsrichter:innen durch Nachwahl zu bestimmen, bis die zu Beginn der Amtszeit vorgesehene Gesamtzahl von amtierenden Schiedsrichter:innen erreicht ist.
+Jede Nachwahl muss im Rahmen eines Bundesparteitags erfolgen.
+Bei jeder Nachwahl können so viele stellvertretende Schiedsrichter:innen nachgewählt werden, bis die zu Beginn der Amtszeit vorgesehene Anzahl von stellvertretenden Schiedsrichter:innen erreicht ist.
+In der Rangfolge der in der Nachwahl erhaltenen Stimmenanzahl schließen sich nachgewählte Schiedsrichter:innen an noch vorhandene Schiedsrichter:innen an.
+Nachwahlen gelten nur für den Rest der Amtszeit des Bundesschiedsgerichts.
 
 § 4 Geschäftsstelle und Aktenführung
-
 (1) Die Geschäftsstelle des Bundesschiedsgerichts befindet sich am Sitz der Klimaliste Deutschland, die insoweit den Weisungen der/des Präsidentin/Präsidenten des Bundesschiedsgerichts unterstellt ist.
-
 (2) Die Entscheidungen des Bundesschiedsgerichts sind an der Geschäftsstelle des Bundesschiedsgerichts für mindestens zehn Jahre aufzubewahren, die übrigen Akten für mindestens fünf Jahre.
 
-
 § 5 Befangenheit
-
-(1) Die Verfahrensbeteiligten können beantragen, einzelne Schiedsrichter*innen wegen der Besorgnis der Befangenheit vom Verfahren auszuschließen. Das Gesuch muss unmittelbar nach Bekanntwerden des Ablehnungsgrundes in Textform gestellt und begründet werden. Eine nachträgliche Geltendmachung des Ablehnungsgrundes ist nicht mehr möglich.
-
-(2) Die/der betroffene Schiedsrichter*in nimmt schriftlich zum Befangenheitsantrag Stellung.
-
-(3) Über das Ablehnungsgesuch beschließen die übrigen Schiedsrichter*innen unter Mitwirkung der/des Schiedsrichter*in ("planmäßige Ersatzperson"), die die/den betroffenen Schiedsrichter*in gemäß dem Geschäftsverteilungsplan vertritt. Wird die Befangenheit der/des Schiedsrichterin/Schiedsrichters festgestellt, scheidet er/sie beim weiteren Verfahren aus, und wird im weiteren Verfahren durch die planmäßige Ersatzperson ersetzt. Der Beschluss über das Ablehnungsgesuch ist unanfechtbar.
+(1) Die Verfahrensbeteiligten können beantragen, einzelne Schiedsrichter:innen wegen der Besorgnis der Befangenheit vom Verfahren auszuschließen.
+Das Gesuch muss unmittelbar nach Bekanntwerden des Ablehnungsgrundes in Textform gestellt und begründet werden.
+Eine nachträgliche Geltendmachung des Ablehnungsgrundes ist nicht mehr möglich.
+(2) Die/der betroffene Schiedsrichter:in nimmt schriftlich zum Befangenheitsantrag Stellung.
+(3) Über das Ablehnungsgesuch beschließen die übrigen Schiedsrichter:innen unter Mitwirkung der/des Schiedsrichter:in („planmäßige Ersatzperson“), die die/den betroffenen Schiedsrichter:in gemäß dem Geschäftsverteilungsplan vertritt.
+Wird die Befangenheit der/des Schiedsrichterin/Schiedsrichters festgestellt, scheidet er/sie beim weiteren Verfahren aus, und wird im weiteren Verfahren durch die planmäßige Ersatzperson ersetzt.
+Der Beschluss über das Ablehnungsgesuch ist unanfechtbar.
 (4) Im Übrigen gelten die §§ 41 bis 49 der Zivilprozessordnung entsprechend.
 
-
 § 6 Verbot der Doppelbefassung
-
-Ein*e Schiedsrichter*in, die/der bereits in einer Vorinstanz oder in einer anderen Eigenschaft mit der Angelegenheit befasst war, ist von der Mitwirkung ausgeschlossen, und wird durch die/den Schiedsrichter*in ("planmäßige Ersatzperson") ersetzt, die die/den ausgeschlossenen Schiedsrichter*in gemäß dem Geschäftsverteilungsplan vertritt. 
+(1) Ein:e Schiedsrichter:in, die/der bereits in einer Vorinstanz oder in einer anderen Eigenschaft mit der Angelegenheit befasst war, ist von der Mitwirkung ausgeschlossen, und wird durch die/den Schiedsrichter:in („planmäßige Ersatzperson“) ersetzt, die die/den ausgeschlossenen Schiedsrichter:in gemäß dem Geschäftsverteilungsplan vertritt.
 
 § 7 Zuständigkeit des Bundesschiedsgerichts
+(1) Das Bundesschiedsgericht entscheidet in den folgenden Fällen:
+	(a) Anfechtung der Wahlen innerhalb der Klimaliste Deutschland auf Bundesebene, insbesondere der Wahlen, die gemäß der Satzung der Klimaliste Deutschland und gemäß der vorliegenden Schiedsgerichtsordnung vorgesehen sind,
+	(b) Anfechtung der Beschlüsse der Organe der Klimaliste Deutschland,
+	(c) Auseinandersetzungen oder Streitigkeiten zwischen der Klimaliste Deutschland und einem oder mehreren ihrer Landesverbände,
+	(d) Auseinandersetzungen oder Streitigkeiten zwischen den Landesverbänden der Klimaliste Deutschland untereinander,
+	(e) Auseinandersetzungen oder Streitigkeiten zwischen den Organen der Klimaliste Deutschland untereinander,
+	(f) Zuständigkeitsstreit zwischen den Landesschiedsgerichten,
+	(g) Bestimmung eines anderen zuständigen Landesschiedsgerichts in den Fällen, in denen das an sich zuständige Landesschiedsgericht nicht besteht oder keine Entscheidung in ordnungsgemäßer Besetzung treffen kann,
+	(h) Beschwerden und Berufungen gegen die Entscheidungen der Landesschiedsgerichte,
+	(i) in allen sonstigen in der Satzung der Klimaliste Deutschland festgelegten Fällen, sofern die Klimaliste Deutschland oder eines ihrer Organe Antragsgegner ist.
 
-Das Bundesschiedsgericht entscheidet in den folgenden Fällen:
-    a) 	Anfechtung der Wahlen innerhalb der Klimaliste Deutschland auf Bundesebene, insbesondere der Wahlen, die gemäß der Satzung der Klimaliste Deutschland und gemäß der vorliegenden Schiedsgerichtsordnung vorgesehen sind, 
-    b) 	Anfechtung der Beschlüsse der Organe der Klimaliste Deutschland,
-    c) 	Auseinandersetzungen oder Streitigkeiten zwischen der Klimaliste Deutschland und einem oder mehreren ihrer Landesverbände,
-    d) 	Auseinandersetzungen oder Streitigkeiten zwischen den Landesverbänden der Klimaliste Deutschland untereinander,
-    e) 	Auseinandersetzungen oder Streitigkeiten zwischen den Organen der Klimaliste Deutschland untereinander,
-    f) 	Zuständigkeitsstreit zwischen den Landesschiedsgerichten,
-    g) 	Bestimmung eines anderen zuständigen Landesschiedsgerichts in den Fällen, in denen das an sich zuständige Landesschiedsgericht nicht besteht oder keine Entscheidung in ordnungsgemäßer Besetzung treffen kann,
-    h) 	Beschwerden und Berufungen gegen die Entscheidungen der Landesschiedsgerichte,
-    i) 	in allen sonstigen in der Satzung der Klimaliste Deutschland festgelegten Fällen, sofern die Klimaliste Deutschland oder eines ihrer Organe Antragsgegner ist.
-
-Zweiter Abschnitt: Das Verfahren
+# Zweiter Abschnitt: Das Verfahren
 
 § 8 Antragsberechtigung
-
- (1) Antragsberechtigt sind:
-a) der Bundesvorstand und die Bund-Länder-Kammer,
-b) der Vorstand jedes Gebietsverbands, der in der Sache rechtlich betroffen ist oder für das betroffene Parteimitglied zuständig ist,
-c) jedes Parteimitglied, soweit es ein rechtliches Interesse an der Entscheidung des Bundesschiedsgerichts darlegen kann.
-
+(1) Antragsberechtigt sind:
+	(a) der Bundesvorstand und die Bund-Länder-Kammer,
+	(b) der Vorstand jedes Gebietsverbands, der in der Sache rechtlich betroffen ist oder für das betroffene Parteimitglied zuständig ist,
+	(c) jedes Parteimitglied, soweit es ein rechtliches Interesse an der Entscheidung des Bundesschiedsgerichts darlegen kann.
 (2) In Verfahren gemäß § 7 Buchstabe a) und b) (Anfechtung von Wahlen und Beschlüssen) sind ferner antragsberechtigt: Ein Zehntel der stimmberechtigten Teilnehmer der Versammlung, die die angegriffene Wahl vollzogen oder den Beschluss gefasst hat.
-
 (3) Sieht die Satzung einer Klimaliste Deutschland für weitere Personen, Organe oder Vereinigung eine Antragsberechtigung in bestimmten Fällen vor, so sind auch diese antragsberechtigt.
-
-(4) Die Anfechtung einer Wahl oder eines Beschlusses ist nur innerhalb von zwei Wochen nach Ablauf desjenigen Tages zulässig, an dem die Wahl oder Beschlussfassung stattgefunden hat. Anfechtbar ist eine Wahl nur dann, wenn der behauptete Mangel geeignet war, sich auf das Ergebnis der Wahl auszuwirken.
+(4) Die Anfechtung einer Wahl oder eines Beschlusses ist nur innerhalb von zwei Wochen nach Ablauf desjenigen Tages zulässig, an dem die Wahl oder Beschlussfassung stattgefunden hat.
+Anfechtbar ist eine Wahl nur dann, wenn der behauptete Mangel geeignet war, sich auf das Ergebnis der Wahl auszuwirken.
 
 § 9 Verfahrensbeteiligte
-
 (1) Verfahrensbeteiligte („Beteiligte“) sind:
-a) die Antragstellerin / der Antragsteller,
-b) die Antragsgegnerin / der Antragsgegner
-c) Beigeladene. 
-
+	(a) die Antragstellerin / der Antragsteller,
+	(b) die Antragsgegnerin / der Antragsgegner
+	(c) Beigeladene.
 (2) Das Bundesschiedsgericht kann, solange das Verfahren noch nicht rechtskräftig abgeschlossen ist, von Amts wegen oder auf begründeten schriftlichen Antrag Dritte, deren rechtliches Interesse durch die Entscheidung berührt wird, beiladen.
-
 (3) Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt, dass die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann, so sind sie beizuladen (notwendige Beiladung).
-
-(4) Der Beiladungsbeschluss ist allen Beteiligten zuzustellen. Dabei sollen der Stand der Sache und der Grund der Beiladung angegeben werden. Die Beiladung ist unanfechtbar.
-
-(5) Die/der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen. Abweichende Sachanträge kann sie/er nur stellen, wenn eine notwendige Beiladung vorliegt.
-
-(6) Die Verfahrensbeteiligten können sich durch einen Beistand oder einen Verfahrensbevollmächtigten vertreten lassen. In einem solchen Fall müssen die Verfahrensbeteiligten dem Bundessschiedsgericht eine schriftliche Vollmacht vorlegen. Eine Person, die weder Mitglied der Klimaliste Deutschland ist noch als Rechtsanwältin oder Rechtanwalt zugelassen ist, kann nur dann als Beistand oder Verfahrensbevollmächtigte*r vom Bundesschiedsgericht zugelassen werden, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht.
+(4) Der Beiladungsbeschluss ist allen Beteiligten zuzustellen.
+Dabei sollen der Stand der Sache und der Grund der Beiladung angegeben werden.
+Die Beiladung ist unanfechtbar.
+(5) Die/der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen.
+Abweichende Sachanträge kann sie/er nur stellen, wenn eine notwendige Beiladung vorliegt.
+(6) Die Verfahrensbeteiligten können sich durch einen Beistand oder einen Verfahrensbevollmächtigten vertreten lassen.
+In einem solchen Fall müssen die Verfahrensbeteiligten dem Bundessschiedsgericht eine schriftliche Vollmacht vorlegen.
+Eine Person, die weder Mitglied der Klimaliste Deutschland ist noch als Rechtsanwältin oder Rechtanwalt zugelassen ist, kann nur dann als Beistand oder Verfahrensbevollmächtigte:r vom Bundesschiedsgericht zugelassen werden, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht.
 
 § 10 Schlichtung
-
-(1) Eine Anrufung des Bundesschiedsgerichts erfordert in der Regel einen vorhergehenden Schlichtungsversuch. Anderenfalls muss im Antrag die Eilbedürftigkeit des Verfahrens oder die Aussichtslosigkeit einer Schlichtung begründet werden.
-
-(2) Der Schlichtungsversuch wird von den Parteien des Rechtsstreits in eigener Verantwortung ohne Mitwirkung der Gerichte durchgeführt. Dazu sollen sich die Parteien auf eine Schlichtungsperson einigen. Ein Schlichtungsversuch gilt spätestens nach erfolglosem Ablauf von drei Monaten nach dessen Beginn als gescheitert. Bei Anrufung des Bundesschiedsgerichts vor Ablauf dieser Frist muss der Antrag das Scheitern der Schlichtung begründen.
-
+(1) Eine Anrufung des Bundesschiedsgerichts erfordert in der Regel einen vorhergehenden Schlichtungsversuch.
+Anderenfalls muss im Antrag die Eilbedürftigkeit des Verfahrens oder die Aussichtslosigkeit einer Schlichtung begründet werden.
+(2) Der Schlichtungsversuch wird von den Parteien des Rechtsstreits in eigener Verantwortung ohne Mitwirkung der Gerichte durchgeführt.
+Dazu sollen sich die Parteien auf eine Schlichtungsperson einigen.
+Ein Schlichtungsversuch gilt spätestens nach erfolglosem Ablauf von drei Monaten nach dessen Beginn als gescheitert.
+Bei Anrufung des Bundesschiedsgerichts vor Ablauf dieser Frist muss der Antrag das Scheitern der Schlichtung begründen.
 (3) Ein Schlichtungsversuch ist nicht erforderlich bei Eilbedürftigkeit des Verfahrens, der Aussichtslosigkeit einer Schlichtung, bei Parteiausschlussverfahren, bei Einsprüchen gegen Ordnungsmaßnahmen sowie bei einer Berufung.
 
 § 11 Eröffnung des Verfahrens
-
 (1) Das Verfahren wird durch die Einreichung eines Schriftsatzes (Antrag) beim Bundesschiedsgericht oder durch mündliche Antragstellung zu Protokoll der Geschäftsstelle des Bundesschiedsgerichts rechtshängig.
-
 (2) Nach Feststellung der Zulässigkeit des Antrags eröffnet das Bundesschiedsgericht das Verfahren mit einem Schreiben an die Verfahrensbeteiligten, in welchem die weitere Verfahrensweise und das zuständige Senat (einschließlich des Großen Senats) bekannt zu geben ist.
-
-(3) Der Antrag ist zulässig, wenn das Bundesschiedsgericht zuständig, die/der Antragsteller*in antragsbefugt ist und die Form und Frist gewahrt worden sind. Über die Eröffnung ist in der Regel spätestens zwei Wochen nach Eingang des Antrags beim Bundesschiedsgericht zu entscheiden. 
-
-(4) Erweist sich der Antrag als unzulässig, ist er abzuweisen. Die Gründe hierfür sind der/dem Antragsteller*in schriftlich mitzuteilen; die Entscheidung über die Unzulässigkeit ist unanfechtbar.
+(3) Der Antrag ist zulässig, wenn das Bundesschiedsgericht zuständig, die/der Antragsteller:in antragsbefugt ist und die Form und Frist gewahrt worden sind.
+Über die Eröffnung ist in der Regel spätestens zwei Wochen nach Eingang des Antrags beim Bundesschiedsgericht zu entscheiden.
+(4) Erweist sich der Antrag als unzulässig, ist er abzuweisen.
+Die Gründe hierfür sind der/dem Antragsteller:in schriftlich mitzuteilen; die Entscheidung über die Unzulässigkeit ist unanfechtbar.
 
 § 12 Hauptsacheverfahren mit und ohne mündliche Verhandlung
-
 (1) Das Bundesschiedsgericht entscheidet in Hauptsacheverfahren durch Schiedsspruch.
-
-(2) Grundsätzlich entscheidet das Bundesschiedsgericht im schriftlichen Verfahren. 
-
-(3) Auf entsprechenden Antrag mindestens einer*s Verfahrensbeteiligten muss das Bundesschiedsgericht eine mündliche Verhandlung anordnen. In diesem Antrag muss die/der Verfahrensbeteiligte auch angeben, ob sie/er der Durchführung einer mündlichen Verhandlung per Videokonferenz widerspricht. Sofern die Verfahrensbeteiligten, die die Anordnung einer mündlichen Verhandlung beantragt haben, in ihrem Antrag nicht der Durchführung einer mündlichen Verhandlung per Videokonferenz widersprochen haben, kann das Bundesschiedsgericht anordnen, dass die mündliche Verhandlung per Videokonferenz durchgeführt wird.
-
+(2) Grundsätzlich entscheidet das Bundesschiedsgericht im schriftlichen Verfahren.
+(3) Auf entsprechenden Antrag mindestens einer:s Verfahrensbeteiligten muss das Bundesschiedsgericht eine mündliche Verhandlung anordnen.
+In diesem Antrag muss die/der Verfahrensbeteiligte auch angeben, ob sie/er der Durchführung einer mündlichen Verhandlung per Videokonferenz widerspricht.
+Sofern die Verfahrensbeteiligten, die die Anordnung einer mündlichen Verhandlung beantragt haben, in ihrem Antrag nicht der Durchführung einer mündlichen Verhandlung per Videokonferenz widersprochen haben, kann das Bundesschiedsgericht anordnen, dass die mündliche Verhandlung per Videokonferenz durchgeführt wird.
 (4) Den Entscheidungen darf nur zugrunde gelegt werden, was allen Verfahrensbeteiligten bekannt ist und wozu sie Stellung nehmen konnten.
-
-(5) Bei mündlichen Verhandlungen bestimmt das Bundesschiedsgericht Ort und Zeitpunkt der Verhandlung. Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind die Verfahrensbeteiligten mit einer Ladungsfrist von mindestens zwei Wochen zu laden. In dringenden Fällen kann die/der Vorsitzende des Senats oder des Großen Senats die Frist abkürzen.
-
-(6) Über alle mündlichen Verhandlungen sind Niederschriften anzufertigen, die deren wesentlichen Inhalt wiedergeben müssen. Der/die Vorsitzende des Senats oder des Großen Senats benennt einen/eine geeignete*n Protokollführer*in. Die Niederschriften sind von dem/r Vorsitzenden und dem/r Protokollführer*in zu unterschreiben und den Verfahrensbeteiligten in Textform zu übermitteln.
-
-(7) Mündliche Verhandlungen sind parteiintern anzukündigen und sind öffentlich für Parteimitglieder. Das Bundesschiedsgericht kann die Öffentlichkeit ausschließen, wenn dies im Interesse der Klimaliste Deutschland oder eines Verfahrensbeteiligten geboten ist
+(5) Bei mündlichen Verhandlungen bestimmt das Bundesschiedsgericht Ort und Zeitpunkt der Verhandlung.
+Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind die Verfahrensbeteiligten mit einer Ladungsfrist von mindestens zwei Wochen zu laden.
+In dringenden Fällen kann die/der Vorsitzende des Senats oder des Großen Senats die Frist abkürzen.
+(6) Über alle mündlichen Verhandlungen sind Niederschriften anzufertigen, die deren wesentlichen Inhalt wiedergeben müssen.
+Der/die Vorsitzende des Senats oder des Großen Senats benennt einen/eine geeignete:n Protokollführer:in.
+Die Niederschriften sind von dem/r Vorsitzenden und dem/r Protokollführer:in zu unterschreiben und den Verfahrensbeteiligten in Textform zu übermitteln.
+(7) Mündliche Verhandlungen sind parteiintern anzukündigen und sind öffentlich für Parteimitglieder.
+Das Bundesschiedsgericht kann die Öffentlichkeit ausschließen, wenn dies im Interesse der Klimaliste Deutschland oder eines Verfahrensbeteiligten geboten ist
 
 § 13 Einstweilige Verfügung
-
 (1) Das Bundesschiedsgericht entscheidet in einstweiligen Verfügungsverfahren durch Verfügungsbeschluss.
-
-(2) Vor Einleitung des Hauptsacheverfahrens kann das Bundeschiedsgericht auf Antrag eine einstweilige Anordnung in Bezug auf den Verfahrensgegenstand erlassen; ausgenommen sind Parteiausschlussverfahren. Dieser Antrag hat keine aufschiebende Wirkung.
-
-(3) Der Verfügungsbeschluss ergeht nach einer Anhörung und in dringenden Fällen allein durch die/den Vorsitzende*n des zuständigen Senats oder des Großen Senats.
-
-(4) Gegen den Verfügungsbeschluss kann die betroffene Person binnen zwei Wochen nach Zustellung der Anordnung wahlweise Widerspruch oder Aufhebungsantrag vor dem Bundesschiedsgericht einlegen. Die betroffene Person ist in dem Verfügungsbeschluss über diese Möglichkeit zu belehren. Über den Widerspruch oder den Aufhebungsantrag entscheidet das Bundesschiedsgericht durch Beschluss. Im Übrigen gelten die §§ 924 bis 927 der Zivilprozessordnung entsprechend.
+(2) Vor Einleitung des Hauptsacheverfahrens kann das Bundeschiedsgericht auf Antrag eine einstweilige Anordnung in Bezug auf den Verfahrensgegenstand erlassen; ausgenommen sind Parteiausschlussverfahren.
+Dieser Antrag hat keine aufschiebende Wirkung.
+(3) Der Verfügungsbeschluss ergeht nach einer Anhörung und in dringenden Fällen allein durch die/den Vorsitzende:n des zuständigen Senats oder des Großen Senats.
+(4) Gegen den Verfügungsbeschluss kann die betroffene Person binnen zwei Wochen nach Zustellung der Anordnung wahlweise Widerspruch oder Aufhebungsantrag vor dem Bundesschiedsgericht einlegen.
+Die betroffene Person ist in dem Verfügungsbeschluss über diese Möglichkeit zu belehren.
+Über den Widerspruch oder den Aufhebungsantrag entscheidet das Bundesschiedsgericht durch Beschluss.
+Im Übrigen gelten die §§ 924 bis 927 der Zivilprozessordnung entsprechend.
 
 § 14 Entscheidungsbefugnis des Bundesschiedsgerichts
-
 (1) Das Bundesschiedsgericht darf über das Antragsbegehren nicht hinausgehen (ne ultra petita), ist aber an die Fassung der Anträge der Beteiligten nicht gebunden.
-
 (2) Das Bundesschiedsgericht kann Beschlüsse und Entscheidungen der Parteiorgane nur aufheben, soweit sie rechtswidrig sind.
-
 (3) In Parteiausschlussverfahren ist das Bundesschiedsgericht nicht an die Anträge der Beteiligten gebunden und kann nach seinem Ermessen anstelle des Ausschlusses eine Ordnungsmaßnahme oder eine andere Maßnahme festsetzen.
-
-(4) Das Bundesschiedsgericht erforscht den Sachverhalt von Amts wegen. An das Vorbringen und an die Beweisanträge der Beteiligten ist das Bundesschiedsgericht nicht gebunden.
+(4) Das Bundesschiedsgericht erforscht den Sachverhalt von Amts wegen.
+An das Vorbringen und an die Beweisanträge der Beteiligten ist das Bundesschiedsgericht nicht gebunden.
 
 § 15 Schiedssprüche und Beschlüsse
-
-(1) Die Schiedssprüche und Beschlüsse müssen eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage enthalten. Über die Schiedssprüche und Beschlüsse beschließt das Bundesschiedsgericht in nicht-öffentlicher Beratung mit einfacher Mehrheit. Das Abstimmungsverhalten der mitwirkenden Schiedsrichter*innen wird nicht festgehalten.
-
+(1) Die Schiedssprüche und Beschlüsse müssen eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage enthalten.
+Über die Schiedssprüche und Beschlüsse beschließt das Bundesschiedsgericht in nicht-öffentlicher Beratung mit einfacher Mehrheit.
+Das Abstimmungsverhalten der mitwirkenden Schiedsrichter:innen wird nicht festgehalten.
 (2) Die Verfahrensbeteiligten erhalten eine Ausfertigung des Schiedsspruchs oder des Beschlusses in Textform.
-
-(3) Das Bundesschiedsgericht bewahrt eine schriftliche, von allen beteiligten Schiedsrichter*innen unterschriebene, Ausfertigung der Schiedssprüche und Beschlüsse auf.
-
+(3) Das Bundesschiedsgericht bewahrt eine schriftliche, von allen beteiligten Schiedsrichter:innen unterschriebene, Ausfertigung der Schiedssprüche und Beschlüsse auf.
 (4) Alle Schiedssprüche und Beschlüsse des Bundesschiedsgerichts werden in anonymisierter Form parteiintern veröffentlicht.
-,
 
-Dritter Abschnitt: Schlussvorschriften
+# Dritter Abschnitt: Schlussvorschriften
 
-§ 17 Kosten
+§ 16 Kosten
+(1) Das Verfahren vor dem Bundesschiedsgericht ist kostenfrei.
+Jede am Verfahren beteiligte Person trägt ihre eigenen Auslagen für die Führung des Verfahrens selbst, dies gilt auch für die Kosten für die Hinzuziehung eines Beistands oder eines Verfahrensbevollmächtigten.
+(2) Die Kosten für die Beweisaufnahme trägt der Unterlegene des Verfahrens.
+Im Zweifelsfall entscheidet das Bundesschiedsgericht.
+Das Bundesschiedsgericht kann die Durchführung der Beweisaufnahme von der Entrichtung eines angemessenen Kostenvorschusses abhängig machen.
+(3) Die Schiedsrichter:innen erhalten für ihre Tätigkeit keine Entschädigung.
+Die notwendigen Auslagen, insbesondere Reisekosten, werden von der Klimaliste Deutschland getragen.
 
-(1) Das Verfahren vor dem Bundesschiedsgericht ist kostenfrei. Jede am Verfahren beteiligte Person trägt ihre eigenen Auslagen für die Führung des Verfahrens selbst, dies gilt auch für die Kosten für die Hinzuziehung eines Beistands oder eines Verfahrensbevollmächtigten.
-(2) Die Kosten für die Beweisaufnahme trägt der Unterlegene des Verfahrens. Im Zweifelsfall entscheidet das Bundesschiedsgericht. Das Bundesschiedsgericht kann die Durchführung der Beweisaufnahme von der Entrichtung eines angemessenen Kostenvorschusses abhängig machen.
-(3) Die Schiedsrichter*innen erhalten für ihre Tätigkeit keine Entschädigung. Die notwendigen Auslagen, insbesondere Reisekosten, werden von der Klimaliste Deutschland getragen.
-
-§ 18 Ergänzende Vorschriften
-
+§ 17 Ergänzende Vorschriften
 (1) Die Vorschriften der Verwaltungsgerichtsordnung (VwGO) und des Gerichtsverfassungsgesetzes (GVG) in ihren jeweils geltenden Fassungen sind zur Ergänzung der vorliegenden Schiedsgerichtsordnung entsprechend anzuwenden, sofern dem nicht die Besonderheiten des schiedsgerichtlichen Verfahrens oder gesetzliche Vorschriften entgegenstehen.
 (2) Die Berechnung der Fristen erfolgt nach den entsprechenden Vorschriften des Bürgerlichen Gesetzbuchs (BGB).
 
-§ 19 Inkrafttreten
-
-Diese Schiedsgerichtsordnung tritt mit ihrer Beschlussfassung in Kraft.
+§ 18 Schlussbestimmungen
+(1) Sollten einzelne Bestimmungen dieser Schiedsgerichtsordnung ganz oder teilweise unwirksam oder nichtig sein, wird dadurch die Wirksamkeit der übrigen Schiedsgerichtsordnung nicht berührt.
+(2) Diese Schiedsgerichtsordnung tritt mit Beschluss des Parteitages 2021-06-19 in Kraft.
 
