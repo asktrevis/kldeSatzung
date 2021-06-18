@@ -36,7 +36,7 @@ Die vakante Stelle ist unmittelbar gemäß Absatz 1 nachzubesetzen.
 Erfolgt kein gesonderter Beschluss, gilt das von der Wahlkommission gewählte Verfahren als beschlossen.
 
 § 5 Wahlvorschläge
-(1) Jede für eine Wahl wählbare Person kann sich für diese bewerben.
+(1) Jede für eine Position wählbare Person kann sich für diese bewerben.
 (2) Bewerbungen von nicht wahlberechtigten Wählbaren müssen mindestens 24 Stunden vorher in Textform beim Vorstand eingegangen sein.
 Die Bewerbung kann bis Ende der Bewerber:innenliste zurückgezogen werden.
 (3) Wahlberechtigte Wählbare können sich gemäß Absatz 2 oder persönlich durch Zuruf bis zum Abschluss der Bewerber:inn:en-Liste für diese Wahl bewerben.
@@ -70,15 +70,15 @@ Diverse Bewerber:innen kandidieren auf der von ihnen selbst mit Einreichung der 
 Aus den Listen werden alle Einträge entfernt, die nicht mehr Ja- als Enthaltungsstimmen auf sich vereint haben.
 Haben zwei verbleibende Personen die gleiche Anzahl Ja-Stimmen entscheidet das Los des Wahlleiters über die Reihenfolge der beiden.
 (4) So lange Plätze zu vergeben sind, wird folgendes Verfahren beginnend bei Liste A angewandt:
-	1. Die Person, die auf der aktuellen Liste ganz oben steht, ist gewählt und wird von dieser Liste entfernt.
-	2. Falls die Anzahl der weiblichen Gewählten kleiner oder gleich der Anzahl der männlichen Gewählten ist, wird auf Liste A gewechselt; sonst auf Liste B.
+	(1.) Die Person, die auf der aktuellen Liste ganz oben steht, ist gewählt und wird von dieser Liste entfernt.
+	(2.) Falls die Anzahl der weiblichen Gewählten kleiner oder gleich der Anzahl der männlichen Gewählten ist, wird auf Liste A gewechselt; sonst auf Liste B.
 Für die Anzahlen nach Satz 1 sind bei Nachwahlen die noch im Organ verbleibenden Personen hinzuzuzählen.
-	3. Falls die aktuelle Liste nicht leer ist, wird das Verfahren ab 1. wiederholt.
+	(3.) Falls die aktuelle Liste nicht leer ist, wird das Verfahren ab 1. wiederholt.
 Sonst endet das Verfahren (ggf. noch freie Positionen bleiben vakant), sofern dies nicht der Geschäftsfähigkeit des zu besetzenden Organes oder Position entgegensteht.
 (5) Bleiben nach einem Wahlgang gemäß Absatz 6 Plätze unbesetzt, entscheidet die Versammlung, ob ein weiterer Wahlgang stattfinden soll.
 Wählbar ist im nächsten Wahlgang, wer beim letzten Wahlgang wählbar war und nicht gewählt wurde oder wer sich für den nächsten Wahlgang durch Zuruf gemäß § 5 bewirbt.
 (6) Falls nur ein Platz zu besetzen ist, wird abweichend von Absatz 1 nur auf einer Liste gewählt, auf der alle Bewerbenden stehen.
-Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählendende Position keine besondere Zuständigkeit (z.B. Schatzmeister:in) innerhat.
+Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählendende Position keine besondere Zuständigkeit (z.B. Schatzmeister:in) innehat.
 
 § 9 Stimmzettel, Stimmenauszählung und ungültige Stimmen
 (1) Die Stimmzettel sind so zu gestalten, dass vor/hinter jedem:jeder Bewerber:in die möglichen Wahloptionen aufgelistet werden, die dann durch den Wählenden angekreuzt werden können.
@@ -86,7 +86,7 @@ Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählende
 (3) Die Stimmenauszählung durch die Wahlkommission ist parteiöffentlich.
 Die ordnungsgemäße Auszählung darf durch die Öffentlichkeit nicht beeinträchtigt werden.
 Die Wahlkommission kann eine Maximalzahl an Beobachter:innen, die nicht geringer als zwei ist, beschließen.
-Bei der Stimmenauszählung ist zu gewährleisten,dass keine Rückschlüsse auf das Wahlverhalten möglich sind.
+Bei der Stimmenauszählung ist zu gewährleisten, dass keine Rückschlüsse auf das Wahlverhalten möglich sind.
 Es ist sicherzustellen, dass Beobachter:innen keine Notizen anfertigen und keine Photographien angefertigt werden.
 (4) Die Wahlkommission hat Stimmzettel für ungültig zu erklären, wenn auf ihnen der Wille der Wählenden nicht erkennbar ist, wenn dieser unvollständig ausgefüllt ist oder geeignet ist, das Prinzip der geheimen Wahl zu verletzen.
 
@@ -113,8 +113,8 @@ Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wa
 Das Protokoll muss alle ergänzenden Versammlungsbeschlüsse zu dieser Wahlordnung und alle Wahlergebnisse enthalten.
 Es ist durch die Wahlleitung und mindestens ein weiteres Mitglied der Wahlkommission zu unterzeichnen.
 Die Wahlunterlagen (Wahlprotokoll, Stimmzettel, Liste der Wahlberechtigten und der Wählenden, Dokumentation von Losentscheiden, evtl. weitere Dokumente) sind für die Dauer der Wahlperiode der Gewählten aufzubewahren.
-(2) Vakante Delegiertenmandate sind nur dann durch Nachwahl zu besetzen, wenn für die entsprechende Position auf der Liste des/der Zurückgetretenen keine gewählten Ersatzdelegierten (mehr)zur Verfügung stehen.
-Sonst gilt die gemäß § 8 Absatz 3 zuoberst stehende Person auf der Ersatzliste für die Position des Zurückgetretenen als gewählt, und wird entsprechend von der Liste entfernt.
+(2) Vakante Delegiertenmandate sind nur dann durch Nachwahl zu besetzen, wenn für die entsprechende Position auf der Liste des/der Zurückgetretenen keine gewählten Ersatzdelegierten (mehr) zur Verfügung stehen.
+Sonst gilt die gemäß § 8 Absatz 3 zuoberst stehende Person auf der Ersatzliste für die Position des/der Zurückgetretenen als gewählt, und wird entsprechend von der Liste entfernt.
 Die Geschäftsordnung der Delegiertenversammlung kann weitere Bestimmungen in diesem Zusammenhang erlassen.
 (3) Eine gewählte Person bekleidet ihre Position nach Ablauf ihrer Amtszeit bis zur ordnungsgemäßen Neuwahl kommissarisch weiter, sofern durch Satzung oder Geschäftsordnung nichts Anderes bestimmt ist.
 Diese Nachwahl soll zeitnah stattfinden.

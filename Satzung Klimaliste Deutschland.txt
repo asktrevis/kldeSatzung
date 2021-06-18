@@ -38,7 +38,7 @@ Im Falle möglicher Verzögerungen ist die bewerbende Person in Textform zu unte
 Eine Ablehnung kann begründet werden.
 Im Mitgliedsantrag muss neben den Mitgliedsdaten die Anerkennung und Beachtung des Grundkonsens, vollständige Auskunft über aktuelle und frühere Mitgliedschaften in Parteien und sonstigen politischen Gruppierungen gegeben werden.
 Über die Aufnahme und die Ablehnung der Aufnahme eines Mitglied informiert der Landesverband unverzüglich den Bundesvorstand in von diesem vorgeschriebender Form.
-(7) Sofern kein Landeverband für den Erstwohnsitz des Antragstellenden besteht, tritt anstelle des Landesvorstand der Bundesparteivorstand.
+(7) Sofern kein Landesverband für den Erstwohnsitz des Antragstellenden besteht, tritt an Stelle des Landesvorstandes der Bundesparteivorstand.
 (8) Jedes Mitglied, das seinen Erstwohnsitz in Deutschland hat, gehört dem entsprechenden Landesverband an, sofern er besteht.
 Auf begründeten Antrag kann der Landesverband des Erstwohnsitzes den Wechsel in einen anderen Landesverband erlauben.
 Mitglieder, die keinen Erstwohnsitz in Deutschland haben, oder für deren Erstwohnsitz kein Landesverband existiert, haben Wahlrecht für einen Landesverband.
@@ -61,12 +61,12 @@ Für die ordnungsgemäße Mitteilung ist die Versendung an die vom Mitglied zule
 
 § 5 Zulässige Ordnungsmaßnahmen gegen Mitglieder und ihr Ausschluss
 (1) Wenn ein Mitglied gegen diese Satzung, den Grundkonsens oder gegen die Grundsätze der Klimaliste Deutschland verstößt, der inneren Struktur Schaden zufügen will oder dem Ansehen der Partei schadet, aber ein Ausschluss noch nicht in Betracht kommt, kann der Parteivorstand des Landesverbandes folgende Ordnungsmaßnahmen anordnen: Rüge, Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und das Ruhen der Mitgliedsrechte für einen begrenzten Zeitraum, der 2 Jahre nicht übersteigen darf.
-(2) Gegen eine Ordnungsmaßnahme kann das betroffene Mitglied, das nach der Schiedsgerichtsordnung zuständige Schiedsgericht ohne aufschiebende Wirkung anrufen.
+(2) Gegen eine Ordnungsmaßnahme kann das betroffene Mitglied das nach der Schiedsgerichtsordnung zuständige Schiedsgericht ohne aufschiebende Wirkung anrufen.
 (3) Ein Mitglied kann nur dann aus der Partei ausgeschlossen werden, wenn es vorsätzlich erheblich gegen die Grundsätze, die Satzung und Ordnungen der Gebietsgliederung oder der Bundespartei oder gegen den Grundkonsens verstößt und der Klimaliste damit schweren Schaden zufügt.
 Dies gilt insbesondere für ein Mitglied, das
 	(a) unvollständige oder unrichtige Auskünfte während des Aufnahmeverfahrens gemacht hat,
 	(b) die Aufnahmebedingungen, insbesondere die der § 3 Absätze 3 und 4, nicht mehr erfüllt,
-	(c) den eigenen Pflichten dadurch nicht nachkommt, dass über einen mehr als 12 Monate trotz Zahlungsfälligkeit und Mahnung die monatlichen Mitgliedsbeiträge oder etwaige weitere, satzungsrechtlich festgelegte monatliche Beiträge als amts- oder mandatstragende Person der Partei nicht oder nicht vollständig entrichtet,
+	(c) den eigenen Pflichten dadurch nicht nachkommt, dass es mehr als 12 Monate trotz Zahlungsfälligkeit und Mahnung die Mitgliedsbeiträge oder etwaige weitere, satzungsrechtlich festgelegte Beiträge als amts- oder mandatstragende Person der Partei nicht oder nicht vollständig entrichtet,
 	(d) vertrauliche Parteivorgänge veröffentlicht oder Dritten, insbesondere politischen Mitbewerbenden, offenbart,
 	(e) Vermögen, welches der Bundespartei oder ihren Gliederungen gehört oder zur Verfügung steht, veruntreut.
 (4) Über den Ausschluss entscheidet das zuständige Schiedsgericht auf Antrag des zuständigen Landesvorstandes oder des Bundesvorstandes.
@@ -77,7 +77,7 @@ Die Berufung zu einem Schiedsgericht höherer Ordnung ist zuzulassen.
 (2) Gegen Landesverbände der Klimaliste Deutschland, die Bestimmungen der Satzung missachten, Beschlüsse übergeordneter Parteiorgane nicht durchführen oder in wesentlichen Fragen gegen die politische Zielsetzung der Klimaliste handeln, können verhängt werden:
 	(a) ein Verweis, ggf. verbunden mit der Auflage, eine bestimmte Maßnahme innerhalb der gesetzten Frist zu treffen,
 	(b) das Ruhen (eines Teiles) der Delegiertenmandate für Parteiorgane, die sich aus Landesvertreter:innen zusammensetzen, bis eine konkrete Auflage umgesetzt wurde,
-	(c) die Amtsenthebung von Vorständen oder einzelner Mitglieder derselben; in diesem Fall kann das Schiedsgericht auf Vorschlag des Bundesvorstands ein oder mehrereParteimitglieder mit der kommissarischen Wahrnehmung der Vorstandsgeschäfte bis zur unverzüglichen satzungsgemäß einzuleitenden Neuwahl des Vorstands beauftragen,
+	(c) die Amtsenthebung von Vorständen oder einzelner Mitglieder derselben; in diesem Fall kann das Schiedsgericht auf Vorschlag des Bundesvorstands ein oder mehrere Parteimitglieder mit der kommissarischen Wahrnehmung der Vorstandsgeschäfte bis zur unverzüglichen satzungsgemäß einzuleitenden Neuwahl des Vorstands beauftragen,
 	(d) die Aberkennung des Status eines Landesverbandes der Klimaliste.
 (3) Ordnungsmaßnahmen gegen Gebietsgliederungen unterhalb eines Landesverbandes regelt dieser in Satzungsautonomie.
 
@@ -93,9 +93,9 @@ Im Zweifelsfall gelten die Regelungen der Bundesebene verbindlich.
 
 § 8 Organe der Bundespartei
 (1) Organe der Bundespartei sind
-· der Bundesparteitag
-· die Bund-Länder-Kammer
-· der Bundesvorstand
+	(a) der Bundesparteitag,
+	(b) die Bund-Länder-Kammer und
+	(c) der Bundesvorstand.
 (2) Mitglieder der Organe der Bundespartei müssen Mitglieder der Klimaliste sein.
 (3) Vertreter:innen, die von den Ländern in Organe zu entsenden sind, werden von den Landesverbänden für zwei Jahre gewählt.
 Die Anzahl Delegierte:r pro Landesverband werden nach dem Verfahren von Sainte-Lague auf die Landesverbände verteilt.
@@ -121,16 +121,16 @@ Das Nähere regelt die Wahlordnung.
 § 9 Der Bundesparteivorstand
 (1) Der Bundesparteivorstand führt die Partei nach Maßgabe der Satzung und der Beschlüsse der übergeordneten Parteiorgane.
 (2) Dem Bundesparteivorstand gehören acht Mitglieder an, darunter zwei Vorsitzende, ein Mitglied im Amt als Schatzmeister:in und fünf weitere Mitglieder.
-Aus einem Landesverband können maximal zwei Personen im Bundesvorstand vertreten sein.
+Aus einem Land können maximal zwei Personen im Bundesvorstand vertreten sein.
 Die Mitglieder werden für die Dauer von zwei Jahren gewählt.
 (3) Das Bundesparteivorstand wird durch mindestens zwei Mitglieder, darunter der/die Vorsitzende oder dessen/deren Stellvertreter:in, gemeinsam gerichtlich und außergerichtlich vertreten.
 (4) Mitglieder der Partei, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zur Bundespartei, ihren Gliederungen oder einer Landtags- oder Bundestagsfraktion stehen, oder ein Landtags- oder Bundestagsmandat innehaben, können kein Parteivorstandsamt bekleiden; Regelungen zur finanziellen Entschädigung des Bundesvorstandes bleiben davon unberührt.
-(5) Mitglieder des Bundesvorstandes müssen von ihnen ausgeübte bezahlte und unbezahlte Tätigkeiten, auchin Aufsichtsräten, Verbänden und Vereinen, gegenüber dem Bundesparteitag offenlegen.
+(5) Mitglieder des Bundesvorstandes müssen von ihnen ausgeübte bezahlte und unbezahlte Tätigkeiten, auch in Aufsichtsräten, Verbänden und Vereinen, gegenüber dem Bundesparteitag offenlegen.
 (6) Der Bundesvorstand tagt mindestens einmal monatlich.
 Er wird von einem/einer der beiden Vorsitzenden mit einer Ladungsfrist von mindestens 96 Stunden einberufen.
 Zu einer weiteren Sitzung tritt der Bundesvorstand zusammen, wenn drei Mitglieder des Bundesvorstandes oder einer/eine der Vorsitzenden dies verlangen.
 (7) Der Vorstand arbeitet ehrenamtlich.
-Aufwandsentschädigungen können gezahlt werden, notwenige Auslagen werden ersetzt.
+Aufwandsentschädigungen können gezahlt werden, notwendige Auslagen werden ersetzt.
 Der Bundesparteitag entscheidet über Grund und Höhe von Aufwandsentschädigungen.
 
 § 10 Bund-Länder-Kammer
@@ -165,20 +165,21 @@ Spätestens zwei Wochen vor dem Bundesparteitag sind die Tagesordnung in aktuell
 Anträge, die nicht von einem Organ der Bundespartei gestellt werden, müssen bis zum Zusammentreten des Bundesparteitages von mindestens zehn (anderen) Mitgliedern des Bundesparteitages unterstützt werden, um durch den Bundesparteitag behandelt zu werden.
 (5) Im Falle einer Mitgliederversammlung ist eine Stimmrechtsübertragung ausgeschlossen.
 (6) Die Aufgaben des Bundesparteitages sind insbesondere
-	(a) Beschlüsse über die Grundlinien der Politik der Klimaliste Deutschland, über das Programm und die Ausrichtung der Bundespartei
-	(b) Beschlüsse über diese Satzung und ihre dazugehörigen Ordnungen
-	(c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Parteien
-	(d) die Wahl des Bundesparteivorstandes
-	(e) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Bundesparteivorstandes und der Bund-Länder-Kammer.
-	(f) Entscheidung ob die Teilnahme an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt
-	(g) Wahl des Parteischiedsgerichtes und der beiden Rechnungsprüfer:innen
+	(a) Beschlüsse über die Grundlinien der Politik der Klimaliste Deutschland, über das Programm und die Ausrichtung der Bundespartei,
+	(b) Beschlüsse über diese Satzung und ihre dazugehörigen Ordnungen,
+	(c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Parteien,
+	(d) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Bundesparteivorstandes und der Bund-Länder-Kammer,
+	(e) Entscheidung ob die Teilnahme an der Wahl zum Deutschen Bundestag und/oder Europäischen Parlament erfolgt,
+	(f) die Wahl des Bundesparteivorstandes,
+	(g) Wahl des Parteischiedsgerichtes,
+	(h) die Wahl der beiden Rechnungsprüfer:innen.
 
 § 12 Urabstimmung
 (1) Über grundlegende Fragen des Programmes, der Satzung und des Grundkonsenses sowie über Antritte zu öffentlichen Wahlen kann eine Urabstimmung aller Mitglieder erfolgen.
 Die antragsstellende Person ist verantwortlich für den Inhalt des Antrags zur Urabstimmung.
 (2) Die Urabstimmung findet statt
 	(a) auf Antrag von 5 % der Mitglieder,
-	(b) von 60 Gebietsgliederungen,
+	(b) auf Antrag von 60 Gebietsgliederungen,
 	(c) auf Antrag von 4 Landesverbänden,
 	(d) nach Beschluss eines Organs der Bundespartei.
 (3) Der Bundesparteivorstand führt die Urabstimmung durch.
@@ -201,16 +202,16 @@ Die endgültige Entscheidung obliegt dem Bundesparteitag.
 (1) Die Verschmelzung oder Auflösung der Bundespartei kann nur durch einen Beschluss des Bundesparteitages mit einer 3/4-Mehrheit beschlossen werden.
 (2) Ein Bundesparteitagsbeschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter allen Parteimitgliedern der Klimaliste Deutschland mit einer 2/3-Mehrheit bestätigt werden.
 Jedem Mitglied sind dabei mindestens 10 Tage für die Abstimmung einzuräumen.
-(3) Über einen Antrag auf Auflösung oder Verschmelzung kann der Bundesparteitag nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesparteivorstand in Textform eingegangen ist.
+(3) Über einen Antrag auf Auflösung oder Verschmelzung kann der Bundesparteitag nur abstimmen, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesparteivorstand in Textform eingegangen ist.
 Dieser informiert alle Mitglieder unverzüglich über diesen Antrag.
 
-§ 15 Schiedsgerichtsordnung, Finanzordnung und Weitere Satzungsdokumente
+§ 15 Schiedsgerichtsordnung, Finanzordnung und weitere Satzungsdokumente
 (1) Auf Bundes- und Landeseben sind Schiedsgerichte einzurichten.
 Zusammensetzung, Zuständigkeit und Verfahren regeln die Schiedsgerichtsordnungen der Bundes- und Landesebene.
 Eine Schiedsgerichtsordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 (2) Die Bundesebene und jede Gebietsgliederungsebene der Klimaliste Deutschland ist bezüglich der Aufbringung, Verwendung und Verwaltung von finanziellen Mitteln an die jeweils eigene Finanzordnung gebunden.
 Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
-(3) Neben dieser Satzung sind auch die Wahlordnung (WO), die Schiedsgerichtsordnung der Klimaliste Deutschland (SchODE) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Deutschland und haben daher Satzungsrang.
+(3) Neben dieser Satzung sind auch die Wahlordnung (WahlO), die Schiedsgerichtsordnung der Klimaliste Deutschland (SchODE) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Deutschland und haben daher Satzungsrang.
 
 § 16 Übergangsbestimmungen
 (1) Die Bund-Länder-Kammer konstituiert sich, sobald fünf Landesverbände der Bundespartei bestehen.

@@ -22,11 +22,11 @@ Dieses Recht darf der Vorstand auch auf andere Mitglieder der Partei delegieren.
 Diese Rechte erlöschen mit Genehmigung der Tagesordnung.
 (4) Außerhalb von laufenden Abstimmungen und Redebeiträgen sind Geschäftsordnungsanträge jederzeit zulässig und unabhängig von den Redelisten sofort zu behandeln.
 Als Anträge zum Verfahren sind insbesondere, aber nicht ausschließlich, zulässig:
-• Anträge zur Beendigung einer Aussprache
-• Anträge zur Begrenzung der Redezeit oder der Anzahl Redebeiträge
-• Anträge zur Änderung der Geschäftsordnung
-• Anträge zur Pausierung des Parteitages für eine bestimmte, endliche Zeitspanne.
-• Anträge zur einmalige Richtigstellung eines vorherigen Redebeitrags
+	(a) Anträge zur Beendigung einer Aussprache
+	(b) Anträge zur Begrenzung der Redezeit oder der Anzahl Redebeiträge
+	(c) Anträge zur Änderung der Geschäftsordnung
+	(d) Anträge zur Pausierung des Parteitages für eine bestimmte, endliche Zeitspanne.
+	(e) Anträge zur einmalige Richtigstellung eines vorherigen Redebeitrags
 
 § 3 Abstimmungen
 (1) Die Abstimmungen des Bundesparteitages erfolgen offen, bei einer physischen Versammlung per Handzeichen und bei einer digitalen Versammlung mittels eines digitalen Konferenztools.
