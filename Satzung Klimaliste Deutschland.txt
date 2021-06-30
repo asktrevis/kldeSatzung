@@ -219,6 +219,7 @@ Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verte
 In diesem Zeitraum übernimmt der Bundesparteitag die Aufgaben der Bund-Länder-Kammer.
 (2) Die Amtszeit des ersten Bundesvorstandes beträgt sechs Monate.
 (3) Für den Gründungsparteitag gilt weder eine Antragsfrist noch § 32 Abs. 1 Satz 2 BGB.
+(4) Der Gründungsparteitag beschließt mit einfacher Mehrheit, dass das Schiedsgericht nur mit drei Schiedsrichter:innen bis zur nächsten Versammlung des Parteitages zu besetzen ist.
 
 § 17 Mehrheit
 (1) Mehrheit im Sinne dieser Satzung bezieht sich, soweit nichts Anderes bestimmt, stets auf die abgegebenen, gültigen Stimmen exklusive Enthaltungen.
