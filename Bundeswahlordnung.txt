@@ -101,7 +101,7 @@ Unterbleibt eine Rückmeldung, gelten alle Positionen als abgelehnt.
 (1) Eine Wahl muss bei Anwesenheit des/der Gewählten unmittelbar, bei einer Briefwahl spätestens binnen 72 Stunden nach Veröffentlichung des Wahlergebnisses in Textform beim Vorstand angenommen werden.
 Falls die Wahl in Textform abgelehnt wird oder die Frist verstreicht, gilt die Wahl als abgelehnt.
 (2) Beim Nachrücken nach § 12 Absatz 2 gilt die Position als angenommen, wenn binnen einer Woche nach Information über das Nachrücken die Wahl in Textform beim Vorstand angenommen wird.
-Falls die Wahl in Textform abgelehnt wird oder die Frist vertreicht, gilt die Wahl als abgelehnt.
+Falls die Wahl in Textform abgelehnt wird oder die Frist verstreicht, gilt die Wahl als abgelehnt.
 (3) Lehnt ein:e Bewerber:in eine Wahl ab, werden die gewählten Personen in dieser Wahl so neu ermittelt als hätte die ablehnende Person nicht kandidiert.
 
 # Dritter Abschnitt: Nach der Wahl
