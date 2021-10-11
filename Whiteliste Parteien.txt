@@ -1,7 +1,0 @@
-Whitelist der Parteien
-
-Mitglieder der Klimaliste Deutschland dürfen auch Mitglieder der folgenden Parteien sein:
-	(a) Klimaliste Baden-Württemberg
-	(b) Klimaliste Berlin
-	(c) Klimaliste Sachsen-Anhalt
-

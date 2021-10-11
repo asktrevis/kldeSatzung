@@ -1,11 +1,11 @@
-Geschäftsordnung des Bundesparteitages
+Geschäftsordnung des Landesparteitages
 
 § 1 Grundsätzliches
-(1) Der Bundesparteitag wird von einem vom Vorstand bestimmten Vorstandsmitglied eröffnet.
+(1) Der Landesparteitag wird von einem vom Vorstand bestimmten Vorstandsmitglied eröffnet.
 Dieses leitet den Parteitag bis zur Wahl der Versammlungsleitung und der Wahlkommission.
-(2) Vor Eintritt in die Tagesordnung ist diese vom Bundesparteitag zu genehmigen.
+(2) Vor Eintritt in die Tagesordnung ist diese vom Landesparteitag zu genehmigen.
 Die Reihenfolge der Anträge wird durch die Tagesordnung festgelegt.
-(3) Die Versammlungsleitung kann bei Störungen des Bundesparteitags Verwarnungen aussprechen.
+(3) Die Versammlungsleitung kann bei Störungen des Landesparteitags Verwarnungen aussprechen.
 Mit der Aussprache der zweiten Verwarnung an dasselbe Mitglied kann dieses nach Ermessen der Versammlungsleitung ihr Rederecht oder ihr Recht auf Anträge (auch zur Geschäftsordnung) verlieren.
 Das Abstimmungsrecht bleibt unangetastet.
 (4) Grundsätzlich tagt der Parteitag öffentlich.
@@ -26,10 +26,10 @@ Als Anträge zum Verfahren sind insbesondere, aber nicht ausschließlich, zuläs
 	(b) Anträge zur Begrenzung der Redezeit oder der Anzahl Redebeiträge
 	(c) Anträge zur Änderung der Geschäftsordnung
 	(d) Anträge zur Pausierung des Parteitages für eine bestimmte, endliche Zeitspanne.
-	(e) Anträge zur einmalige Richtigstellung eines vorherigen Redebeitrags
+	(e) Anträge zur einmaligen Richtigstellung eines vorherigen Redebeitrags
 
 § 3 Abstimmungen
-(1) Die Abstimmungen des Bundesparteitages erfolgen offen, bei einer physischen Versammlung per Handzeichen und bei einer digitalen Versammlung mittels eines digitalen Konferenztools.
+(1) Die Abstimmungen des Landesparteitages erfolgen offen, bei einer physischen Versammlung per Handzeichen und bei einer digitalen Versammlung mittels eines digitalen Konferenztools.
 Alle Teilnehmer:innen sind mit ihren personalisierten Zugangsdaten zu diesem Tool angemeldet.
 (2) Die Durchführung der Abstimmungen und Wahlen sowie die Feststellung des Ergebnisses geschieht durch eine Wahlkommission bestehend aus mindestens zwei Mitgliedern der Partei, die am Parteitag gewählt werden.
 Die Wahlkommission hat ihr Amt neutral zu erledigen.
@@ -68,7 +68,7 @@ Weitere Redebeiträge sind unzulässig.
 (6) Die Versammlungsleitung hat das Recht, Redner:innen, die vom Beratungsgegenstand abschweifen, zur Sache zu verweisen.
 
 § 5 Vertretung
-(1) Der Bundesparteitag wird zwischen den Versammlungen, insbesondere bei schiedsgerichtlichen Verfahren, durch den Vorstand vertreten, sofern der Bundesparteitag nicht mindestens drei besondere Vertreter:innen für diesen Zweck bestimmt.
+(1) Der Landesparteitag wird zwischen den Versammlungen, insbesondere bei schiedsgerichtlichen Verfahren, durch den Vorstand vertreten, sofern der Landesparteitag nicht mindestens drei besondere Vertreter:innen für diesen Zweck bestimmt.
 Besondere Vertreter:innen können höchstens für zwei Jahre bestimmt werden.
 
 § 6 Gültigkeit und Änderungen
