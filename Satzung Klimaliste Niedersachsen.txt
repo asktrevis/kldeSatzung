@@ -91,7 +91,7 @@ Innerhalb der Grenzen eines Landkreises gibt es nur einen Kreisverband.
 Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufzulösen.
 Im Zweifelsfall gelten die Regelungen der Landesebene verbindlich.
 
-§ 8 Organe der Landesverbands
+§ 8 Organe des Landesverbands
 (1) Organe der Landesverbands sind
 	(a) der Landesparteitag,
 	(b) die Land-Kreise-Kammer,
@@ -112,11 +112,11 @@ Die Wirksamkeit der übrigen Geschäftsordnung bleibt unberührt.
 (7) Ein Organ ist beschlussfähig, wenn ordentlich eingeladen wurde.
 Die jeweilige Geschäftsordnung kann ein Quorum und weitere Bedingungen bestimmen.
 (8) Die Beschlüsse der Organe des Landesverbands sind stets zu protokollieren und allen Mitgliedern zeitnah zugänglich zu machen.
-(9) Die Klimaliste strebt ein ausgeglichenes Geschlechterverhältnis in den Organen der Bundesebene an.
+(9) Die Klimaliste strebt ein ausgeglichenes Geschlechterverhältnis in den Organen der Landesebene an.
 Außerdem wird ein besonderes Augenmerk auf Diversität gelegt.
 Das Nähere regelt die Wahlordnung.
-(10) Verantwortlich für die Umsetzung der Beschlüsse eines Bundesparteiorganes ist, sofern das Organ nichts Anderes bestimmt, der Landesvorstand.
-(11) Die Organe der Landesverbände und derer Untergliederungen werden durch die Satzungen der Landesverbände festgelegt.
+(10) Verantwortlich für die Umsetzung der Beschlüsse eines Landesparteiorganes ist, sofern das Organ nichts Anderes bestimmt, der Landesvorstand.
+(11) Die Organe der Kreisverbände und derer Untergliederungen werden durch die Satzungen der Kreisverbände festgelegt.
 
 § 9 Der Landesvorstand
 (1) Der Landesvorstand führt den Landesverband nach Maßgabe dieser Satzung und der Beschlüsse der übergeordneten Parteiorgane.
@@ -211,7 +211,7 @@ Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 (3) Neben dieser Satzung sind auch die Wahlordnung (WahlO), die Schiedsgerichtsordnung der Klimaliste Niedersachsen (SchONI) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Niedersachsen und haben daher Satzungsrang.
 
 § 16 Übergangsbestimmungen
-(1) Die Land-Kreise-Kammer konstituiert sich, sobald fünf Landesverbände der Bundespartei bestehen.
+(1) Die Land-Kreise-Kammer konstituiert sich, sobald fünf Kreisverbände der Bundespartei bestehen.
 Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verteilt, an dem der fünfte Kreisverband dem Landesverband beitritt.
 In diesem Zeitraum übernimmt der Landesparteitag die Aufgaben der Land-Kreise-Kammer.
 (2) Die Amtszeit des ersten Landesvorstandes beträgt sechs Monate.
