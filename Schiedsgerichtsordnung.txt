@@ -20,10 +20,10 @@ Schiedsrichter:innen können während der Amtszeit des Landesschiedsgerichts nic
 (1) Das Landesschiedsgericht besteht aus vier amtierenden Schiedsrichter:innen und vier stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl nicht mehr als acht Landesverbände bestehen.
 Das Landesschiedsgericht besteht aus sechs amtierenden Schiedsrichter:innen und sechs stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl mindestens neun und nicht mehr als zwölf Landesverbände bestehen.
 Das Landesschiedsgericht besteht aus acht amtierenden Schiedsrichter:innen und acht stellvertretenden Schiedsrichter:innen, sofern zum Zeitpunkt der Wahl mindestens dreizehn Landesverbände bestehen.
-(2) Die amtierenden Schiedsrichter:innen und die stellvertretenden Schiedsrichter:innen werden jeweils für die Dauer von zwei Jahren („Amtszeit“) vom Bundesparteitag gewählt.
-Die Wahl und Nachwahl von amtierenden Schiedsrichter:innen erfolgt als Einzelwahl gemäß der Wahlordnung der Klimaliste Niedersachsen, sofern der Bundesparteitag nicht beschließt, die Wahl als Listenwahl durchzuführen.
-Die Wahl und Nachwahl von stellvertretenden Schiedsrichter:innen erfolgt als Listenwahl gemäß der Wahlordnung der Klimaliste Niedersachsen, sofern der Bundesparteitag nicht beschließt, die Wahl als Einzelwahl durchzuführen.
-Werden im Rahmen eines Bundesparteitages sowohl amtierende Schiedsrichter:innen als auch stellvertretende Schiedsrichter:innen gewählt, so muss die Wahl der amtierenden Schiedsrichter:innen zeitlich vor der Wahl der stellvertretenden Schiedsrichter:innen erfolgen.
+(2) Die amtierenden Schiedsrichter:innen und die stellvertretenden Schiedsrichter:innen werden jeweils für die Dauer von zwei Jahren („Amtszeit“) vom Landesparteitag gewählt.
+Die Wahl und Nachwahl von amtierenden Schiedsrichter:innen erfolgt als Einzelwahl gemäß der Wahlordnung der Klimaliste Niedersachsen, sofern der Landesparteitag nicht beschließt, die Wahl als Listenwahl durchzuführen.
+Die Wahl und Nachwahl von stellvertretenden Schiedsrichter:innen erfolgt als Listenwahl gemäß der Wahlordnung der Klimaliste Niedersachsen, sofern der Landesparteitag nicht beschließt, die Wahl als Einzelwahl durchzuführen.
+Werden im Rahmen eines Landesparteitages sowohl amtierende Schiedsrichter:innen als auch stellvertretende Schiedsrichter:innen gewählt, so muss die Wahl der amtierenden Schiedsrichter:innen zeitlich vor der Wahl der stellvertretenden Schiedsrichter:innen erfolgen.
 Wiederwahlen sind möglich.
 (3) Die amtierenden Schiedsrichter:innen wählen jeweils aus ihrer Mitte eine:n Präsidentin/Präsidenten, die/der das Landesschiedsgericht leitet und die Geschäfte führt, eine:n Vizepräsidentin/Vizepräsidenten und eine:n Erste:n Beisitzer:in.
 Die anderen amtierenden Schiedsrichter:innen sind Beisitzer.
@@ -47,7 +47,7 @@ Scheidet die/der Erste Beisitzer:in während der Amtszeit des Landesschiedsgeric
 (8) Scheidet ein:e amtierende:r Schiedsrichter:in während der Amtszeit des Landesschiedsgerichts aus, so rückt innerhalb von spätestens vier Wochen der/die stellvertretende Schiedsrichter:in in der Rangfolge der in der Wahl erhaltenen Stimmenanzahl nach.
 (9) Führt das Ausscheiden eines/r oder mehrerer gemäß Abs. 2 gewählten Schiedsrichter:innen während der Amtszeit des Landesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter:innen kleiner als drei Viertel der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so kann während der Amtszeit des Landesschiedsgerichts mindestens ein:e weitere:r stellvertretender Schiedsrichter:in durch Nachwahl bestimmt werden.
 Führt das Ausscheiden eines/r oder mehrerer gemäß § 3 Abs. 2 gewählten Schiedsrichter:innen während der Amtszeit des Landesschiedsgerichts dazu, dass die Gesamtzahl der Schiedsrichter:innen kleiner als die Hälfte der zu Beginn der Amtszeit vorgesehenen Gesamtzahl ist, so sind innerhalb von zwei Monaten mindestens so viele amtierende Schiedsrichter:innen durch Nachwahl zu bestimmen, bis die zu Beginn der Amtszeit vorgesehene Gesamtzahl von amtierenden Schiedsrichter:innen erreicht ist.
-Jede Nachwahl muss im Rahmen eines Bundesparteitags erfolgen.
+Jede Nachwahl muss im Rahmen eines Landesparteitags erfolgen.
 Bei jeder Nachwahl können so viele stellvertretende Schiedsrichter:innen nachgewählt werden, bis die zu Beginn der Amtszeit vorgesehene Anzahl von stellvertretenden Schiedsrichter:innen erreicht ist.
 In der Rangfolge der in der Nachwahl erhaltenen Stimmenanzahl schließen sich nachgewählte Schiedsrichter:innen an noch vorhandene Schiedsrichter:innen an.
 Nachwahlen gelten nur für den Rest der Amtszeit des Landesschiedsgerichts.
@@ -85,7 +85,7 @@ Der Beschluss über das Ablehnungsgesuch ist unanfechtbar.
 
 § 8 Antragsberechtigung
 (1) Antragsberechtigt sind:
-	(a) der Bundesvorstand und die Bund-Länder-Kammer,
+	(a) der Landesvorstand und die Land-Kreise-Kammer,
 	(b) der Vorstand jedes Gebietsverbands, der in der Sache rechtlich betroffen ist oder für das betroffene Parteimitglied zuständig ist,
 	(c) jedes Parteimitglied, soweit es ein rechtliches Interesse an der Entscheidung des Landesschiedsgerichts darlegen kann.
 (2) In Verfahren gemäß § 7 Buchstabe a) und b) (Anfechtung von Wahlen und Beschlüssen) sind ferner antragsberechtigt: Ein Zehntel der stimmberechtigten Teilnehmer der Versammlung, die die angegriffene Wahl vollzogen oder den Beschluss gefasst hat.
@@ -106,7 +106,7 @@ Die Beiladung ist unanfechtbar.
 (5) Die/der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen.
 Abweichende Sachanträge kann sie/er nur stellen, wenn eine notwendige Beiladung vorliegt.
 (6) Die Verfahrensbeteiligten können sich durch einen Beistand oder einen Verfahrensbevollmächtigten vertreten lassen.
-In einem solchen Fall müssen die Verfahrensbeteiligten dem Bundessschiedsgericht eine schriftliche Vollmacht vorlegen.
+In einem solchen Fall müssen die Verfahrensbeteiligten dem Landessschiedsgericht eine schriftliche Vollmacht vorlegen.
 Eine Person, die weder Mitglied der Klimaliste Niedersachsen ist noch als Rechtsanwältin oder Rechtanwalt zugelassen ist, kann nur dann als Beistand oder Verfahrensbevollmächtigte:r vom Landesschiedsgericht zugelassen werden, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht.
 
 § 10 Schlichtung
@@ -144,7 +144,7 @@ Das Landesschiedsgericht kann die Öffentlichkeit ausschließen, wenn dies im In
 
 § 13 Einstweilige Verfügung
 (1) Das Landesschiedsgericht entscheidet in einstweiligen Verfügungsverfahren durch Verfügungsbeschluss.
-(2) Vor Einleitung des Hauptsacheverfahrens kann das Bundeschiedsgericht auf Antrag eine einstweilige Anordnung in Bezug auf den Verfahrensgegenstand erlassen; ausgenommen sind Parteiausschlussverfahren.
+(2) Vor Einleitung des Hauptsacheverfahrens kann das Landeschiedsgericht auf Antrag eine einstweilige Anordnung in Bezug auf den Verfahrensgegenstand erlassen; ausgenommen sind Parteiausschlussverfahren.
 Dieser Antrag hat keine aufschiebende Wirkung.
 (3) Der Verfügungsbeschluss ergeht nach einer Anhörung und in dringenden Fällen allein durch die/den Vorsitzende:n des zuständigen Senats oder des Großen Senats.
 (4) Gegen den Verfügungsbeschluss kann die betroffene Person binnen zwei Wochen nach Zustellung der Anordnung wahlweise Widerspruch oder Aufhebungsantrag vor dem Landesschiedsgericht einlegen.
