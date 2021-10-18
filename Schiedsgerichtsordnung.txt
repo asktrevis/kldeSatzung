@@ -71,15 +71,15 @@ Der Beschluss über das Ablehnungsgesuch ist unanfechtbar.
 
 § 7 Zuständigkeit des Landesschiedsgerichts
 (1) Das Landesschiedsgericht entscheidet in den folgenden Fällen:
-	(a) Anfechtung der Wahlen innerhalb der Klimaliste Niedersachsen auf Bundesebene, insbesondere der Wahlen, die gemäß der Satzung der Klimaliste Niedersachsen und gemäß der vorliegenden Schiedsgerichtsordnung vorgesehen sind,
-	(b) Anfechtung der Beschlüsse der Organe der Klimaliste Niedersachsen,
-	(c) Auseinandersetzungen oder Streitigkeiten zwischen der Klimaliste Niedersachsen und einem oder mehreren ihrer Landesverbände,
-	(d) Auseinandersetzungen oder Streitigkeiten zwischen den Landesverbänden der Klimaliste Niedersachsen untereinander,
-	(e) Auseinandersetzungen oder Streitigkeiten zwischen den Organen der Klimaliste Niedersachsen untereinander,
-	(f) Zuständigkeitsstreit zwischen den Landesschiedsgerichten,
-	(g) Bestimmung eines anderen zuständigen Landesschiedsgerichts in den Fällen, in denen das an sich zuständige Landesschiedsgericht nicht besteht oder keine Entscheidung in ordnungsgemäßer Besetzung treffen kann,
-	(h) Beschwerden und Berufungen gegen die Entscheidungen der Landesschiedsgerichte,
-	(i) in allen sonstigen in der Satzung der Klimaliste Niedersachsen festgelegten Fällen, sofern die Klimaliste Niedersachsen oder eines ihrer Organe Antragsgegner ist.
+(a) Anfechtung der Wahlen innerhalb der Klimaliste Niedersachsen auf Landesebene, insbesondere der Wahlen, die gemäß der Satzung der Klimaliste Niedersachsen und gemäß der vorliegenden Schiedsgerichtsordnung vorgesehen sind,
+(b) Anfechtung der Beschlüsse der Organe der Klimaliste Niedersachsen,
+(c) Auseinandersetzungen oder Streitigkeiten zwischen der Klimaliste Niedersachsen und einem oder mehreren ihrer Kreisverbände,
+(d) Auseinandersetzungen oder Streitigkeiten zwischen den Kreisverbänden der Klimaliste Niedersachsen untereinander,
+(e) Auseinandersetzungen oder Streitigkeiten zwischen den Organen der Klimaliste Niedersachsen untereinander,
+(f) Zuständigkeitsstreit zwischen den Kreisschiedsgerichten,
+(g) Bestimmung eines anderen zuständigen Kreisschiedsgerichts oder des Landesschiedsgerichtes in den Fällen, in denen das an sich zuständige Kreisschiedsgericht nicht besteht oder keine Entscheidung in ordnungsgemäßer Besetzung treffen kann,
+(h) Beschwerden und Berufungen gegen die Entscheidungen der Kreisschiedsgerichte,
+(i) in allen sonstigen in der Satzung der Klimaliste Niedersachsen festgelegten Fällen, sofern die Klimaliste Niedersachsen oder eines ihrer Organe Antragsgegner ist.
 
 # Zweiter Abschnitt: Das Verfahren
 
