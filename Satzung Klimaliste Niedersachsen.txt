@@ -57,7 +57,7 @@ Für die ordnungsgemäße Mitteilung ist die Versendung an die vom Mitglied zule
 
 § 5 Zulässige Ordnungsmaßnahmen gegen Mitglieder
 (1) Wenn ein Mitglied gegen den Grundkonsens der Klimaliste Deutschland, die Satzung der Klimaliste Deutschland oder diese Satzung der Klimaliste Niedersachsen verstößt, der inneren Struktur der Partei Schaden zufügen will oder dem Ansehen der Partei schadet, aber ein Ausschluss noch nicht in Betracht kommt, kann der Landesvorstand der Klimaliste Niedersachsen folgende Ordnungsmaßnahmen anordnen: Rüge, Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und das Ruhen der Mitgliedsrechte für einen begrenzten Zeitraum, der 2 Jahre nicht übersteigen darf.
-(2) Gegen eine Ordnungsmaßnahme kann das betroffene Mitglied das nach der Schiedsgerichtsordnung zuständige Schiedsgericht ohne aufschiebende Wirkung anrufen.
+(2) Gegen eine Ordnungsmaßnahme kann das betroffene Mitglied das Landesschiedsgericht ohne aufschiebende Wirkung anrufen.
 (3) Ein Mitglied kann nur dann aus der Partei ausgeschlossen werden, wenn es vorsätzlich erheblich gegen die Grundsätze, die Satzung und Ordnungen des Landesverbandes oder Bundespartei oder gegen den Grundkonsens der Klimaliste Deutschland verstößt und damit der Klimaliste Deutschland - respektive der Klimaliste Niedersachsen -  schweren Schaden zufügt.
 Dies gilt insbesondere für ein Mitglied, das
 	(a) unvollständige oder unrichtige Auskünfte während des Aufnahmeverfahrens gemacht hat,
@@ -68,7 +68,7 @@ Dies gilt insbesondere für ein Mitglied, das
 	(f) durch eigene Handlungen oder Aussagen zu einem Vermögensschaden der Partei beiträgt oder diesen herbeiführt,
 	(g) das Ansehen oder die Glaubwürdigkeit der Partei beschädigt,
     (h) für die Partei spricht ohne hierzu vom jeweiligen Vorstand der Partei (ggf. Parteigebietsuntergliederung) als sprechende Person benannt worden zu sein.
-(4) Über den Ausschluss entscheidet das zuständige Schiedsgericht auf Antrag des zuständigen Landesvorstandes oder des Bundesvorstandes.
+(4) Über den Ausschluss entscheidet das Landesschiedsgericht auf Antrag des zuständigen Landesvorstandes oder des Bundesvorstandes.
 Die Berufung zu einem Schiedsgericht höherer Ordnung ist zuzulassen.
 (5) In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Landesvorstand ein Mitglied von der Ausübung seiner Rechte bis zur rechtskräftigen Entscheidung des Schiedsgerichts ausschließen. Ein solcher Vorstandsbeschluss gilt gleichzeitig als Antrag auf Einleitung eines Ausschlussverfahrens. Das Schiedsgericht hat in jeder Lage des Verfahrens zu prüfen, ob die Maßnahme nach Umfang und Fortdauer noch erforderlich ist. Soll die Maßnahme über die abschließende Entscheidung des Schiedsgerichts hinaus wirksam bleiben, so ist sie in dieser Entscheidung erneut anzuordnen; sonst tritt sie mit deren Bekanntmachung außer Kraft.
 
@@ -83,9 +83,9 @@ Die Berufung zu einem Schiedsgericht höherer Ordnung ist zuzulassen.
 
 § 7 Die allgemeine Gliederung der Klimaliste Niedersachsen
 (1) Die Klimaliste Niedersachsen versteht sich als dezentral, subsidiär und föderalistisch organisierter Landesverband der Klimaliste Deutschland.
-Der Landesverband besteht aus Kreisverbänden, die je ein oder mehrere Landkreise Niedersachsens umfassen.
+Der Landesverband besteht aus Kreisverbänden, die je einen oder mehrere Landkreise Niedersachsens umfassen.
 Innerhalb der Grenzen eines Landkreises gibt es nur einen Kreisverband.
-(2) Kreisverbände müssen durch den Landesparteitag mit 2/3-Mehrheit auf gemeinsamen Antrag des Kreisvorstandes und des Vorstandes des werdenden Kreisverbandes anerkannt werden.
+(2) Kreisverbände müssen durch den Landesparteitag mit 2/3-Mehrheit auf gemeinsamen Antrag des Landesvorstandes und des Vorstandes des werdenden Kreisverbandes anerkannt werden.
 (3) Die Gebietsgliederungen eines Kreisverbandes sowie die Bedingungen und das zuständige Organ für die Anerkennung als Gebietsgliederung bestimmt der jeweilige Kreisverband in seiner Satzung.
 (4) Alle Gebietsgliederungen haben Satzungsautonomie und können eigene Vorschriften verfassen, soweit sie nicht der Satzung und Ordnungen der übergeordneten Gliederungen widersprechen.
 Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufzulösen.
@@ -169,7 +169,7 @@ Anträge, die nicht von einem Organ des Landesverbands gestellt werden, müssen 
 	(b) Beschlüsse über diese Satzung und ihre dazugehörigen Ordnungen,
 	(c) Beschlüsse über die Auflösung sowie die Verschmelzung mit anderen Landesverbänden,
 	(d) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Landesvorstandes,
-	(e) Entscheidung über die Teilnahme an der Wahl zum Niedersächsischen Landtag,Landtag und zu Organen der kommunalen Selbstverwaltung. Die Mitglieder entscheiden über die Kandidaten zur Landtagswahl.
+	(e) Entscheidung über die Teilnahme an der Wahl zum Niedersächsischen Landtag, und zu Organen der kommunalen Selbstverwaltung. Die Mitglieder entscheiden über die Kandidaten zur Landtagswahl.
 	(f) die Wahl des Landesvorstandes,
 	(g) Wahl des Landesparteischiedsgerichtes,
 	(h) die Wahl der beiden Rechnungsprüfer:innen.
@@ -239,6 +239,6 @@ Bei der Aufstellung von Wahlbewerbenden für Parlamente und kommunale Vertretung
 (1) Die politische Meinungsbildung junger Menschen in der Partei ist aktiv zu fördern. Als junger Mensch gilt, wer gemäß § 7 (4) SGB VIII noch nicht 27 Jahre alt ist.
 
 § 21 Schlussbestimmungen
-(1) Sollten einzelne Bestimmungen dieser Satzung der Bundespartei widersprechen, so hat die Satzung der Bundespartei Vorrang.
+(1) Sollten einzelne Bestimmungen dieser Satzung der Satzung oder Ordnungen der Bundespartei widersprechen, so hat die Satzung der Bundespartei Vorrang.
 (2) Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam oder nichtig sein, wird dadurch die Wirksamkeit der übrigen Satzung nicht berührt.
-(2) Diese Satzung tritt mit Beschluss des Gründungsparteitages vom 30. Oktober 2021 in Kraft.
+(3) Diese Satzung tritt mit Beschluss des Gründungsparteitages vom 30. Oktober 2021 in Kraft.
