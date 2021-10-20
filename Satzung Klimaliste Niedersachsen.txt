@@ -42,14 +42,13 @@ Mitglieder, die keinen Erstwohnsitz in Niedersachsen haben, oder für deren Erst
 (10) Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 Bereits gezahlte Mitgliedsbeiträge werden nicht erstattet.
 Der Austritt ist dem Vorstand der Bundespartei in Textform anzuzeigen.
-(11) Personen, die infolge Richterspruchs die Amtsfähigkeit, die Wählbarkeit oder das Wahlrecht nicht besitzen, können nicht Mitglied von Klimaliste Niedersachsen  sein bzw. bleiben.
 
 § 4 Rechte und Pflichten der Mitglieder
 (1) Jedes Mitglied hat das Recht, nach Maßgabe der Gesetze, der Satzung der Bundespartei und dieser Satzung die Ziele der Klimaliste Niedersachsen zu fördern, sich an der politischen Arbeit zu beteiligen und an Veranstaltungen teilzunehmen.
 Die Mitglieder sind zur Mitarbeit in der Bundespartei, sowie dem Landesverband auf allen Gebietsgliederungsebenen aufgerufen.
 Im Rahmen dieser Mitarbeit haben Mitglieder im Rahmen dieser Satzung das Recht, an der politischen Willensbildung der Partei durch Aussprachen, eigene Sach- und Verfahrensanträge, Abstimmungen und Wahlen mitzuwirken.
 (2) Jedes Mitglied hat das Recht, sich an der Erstellung des Landesprogramms zu beteiligen und im Rahmen der Gesetze, der Wahlordnung der Klimaliste Deutschland und -sofern vorhanden- der Wahlordnung der Klimaliste Niedersachsen an der Aufstellung von Wahlvorschlägen zu beteiligen und/oder selbst dafür zu kandidieren.
-(3) Jedes Mitglied hat das Recht, an Treffen von Landesarbeitsgruppen teilzunehmen und auch Teil derer zu werden. Die Arbeitsgruppen geben sich eine gemeinsame Geschäftsordnung, die den Rahmen der Zusammenarbeit bestimmt.
+(3) Jedes Mitglied hat das Recht, an Treffen von Landesarbeitsgruppen teilzunehmen und auch Teil derer zu werden.
 (4) Jedes Mitglied hat die Pflicht, den Grundkonsens der Klimaliste Deutschland, die Programme der Bundespartei und des Landesverbandes und die Beschlüsse der Organe anzuerkennen und die Beiträge und Abgaben pünktlich zu entrichten.
 (5) Parteiangelegenheiten, die per Satzung oder Gesetz einem Mitglied mitzuteilen sind, werden in Textform per E-Mail versandt.
 Jedes Mitglied hat die Pflicht, der zuständigen Mitgliederverwaltung eine gültige E-Mail-Adresse anzugeben und die dort eingehenden E-Mails regelmäßig zu überprüfen.
@@ -85,17 +84,17 @@ Die Berufung zu einem Schiedsgericht höherer Ordnung ist zuzulassen.
 (1) Die Klimaliste Niedersachsen versteht sich als dezentral, subsidiär und föderalistisch organisierter Landesverband der Klimaliste Deutschland.
 Der Landesverband besteht aus Kreisverbänden, die je einen oder mehrere Landkreise Niedersachsens umfassen.
 Innerhalb der Grenzen eines Landkreises gibt es nur einen Kreisverband.
-(2) Kreisverbände müssen durch den Landesparteitag mit 2/3-Mehrheit auf gemeinsamen Antrag des Landesvorstandes und des Vorstandes des werdenden Kreisverbandes anerkannt werden.
+(2) Kreisverbände zeigen ihre Gründung dem Landesvorstand einmalig schriftlich und und gelten somit als anerkannt.
 (3) Die Gebietsgliederungen eines Kreisverbandes sowie die Bedingungen und das zuständige Organ für die Anerkennung als Gebietsgliederung bestimmt der jeweilige Kreisverband in seiner Satzung.
 (4) Alle Gebietsgliederungen haben Satzungsautonomie und können eigene Vorschriften verfassen, soweit sie nicht der Satzung und Ordnungen der übergeordneten Gliederungen widersprechen.
 Widersprüche mit der Satzung übergeordneter Gebietsverbände sind zeitnah aufzulösen.
 Im Zweifelsfall gelten die Regelungen der Landesebene verbindlich.
 
 § 8 Organe des Landesverbands
-(1) Organe der Landesverbands sind
+(1) Organe des Landesverbands sind
 	(a) der Landesparteitag,
 	(b) die Land-Kreise-Kammer,
-	(b) der Landesvorstand.
+	(c) der Landesvorstand.
 (2) Mitglieder der Organe der Landespartei müssen Mitglieder der Klimaliste Niedersachsen sein.
 (3) Vertreter:innen, die von den Kreisverbänden in Organe zu entsenden sind, werden von den Kreisverbänden für zwei Jahre gewählt.
 Die Anzahl Delegierte:r pro Kreisverband werden nach dem Verfahren von Sainte-Lague auf die Kreisverbände verteilt.
@@ -121,7 +120,7 @@ Das Nähere regelt die Wahlordnung.
 § 9 Der Landesvorstand
 (1) Der Landesvorstand führt den Landesverband nach Maßgabe dieser Satzung und der Beschlüsse der übergeordneten Parteiorgane.
 Die Geschäftsführungsbefugnis kann vom Landesvorstand delegiert werden.
-(2) Dem Landesvorstand gehören mindestens vier Mitglieder an: Zwei Vorsitzende, ein Mitglied im Amt als Schatzmeister:in und mindestens ein weiteres Mitglied als Beisitzer. Die Anzahl der Beisitzer kann bis zu vier betragen. Die Anzahl der Personen im Landesvorstand ist auf 7 Personen begrenzt.
+(2) Dem Landesvorstand gehören mindestens vier Mitglieder an: Zwei Vorsitzende, ein Mitglied im Amt als Schatzmeister:in und mindestens zwei weitere Mitglieder als Beisitzer. Die Anzahl der Beisitzer kann bis zu vier betragen. Die Anzahl der Personen im Landesvorstand ist auf 7 Personen begrenzt.
 Aus einem Landkreis können maximal zwei Personen im Landesvorstand vertreten sein.
 Die Mitglieder werden für die Dauer von zwei Jahren gewählt.
 (3) Das Landesvorstand wird durch mindestens zwei Mitglieder, darunter der/die Vorsitzende oder dessen/deren Stellvertreter:in, gemeinsam gerichtlich und außergerichtlich vertreten.
@@ -171,7 +170,7 @@ Anträge, die nicht von einem Organ des Landesverbands gestellt werden, müssen 
 	(d) Entgegennahme des Rechenschaftsberichts und Haushaltsplans des Landesvorstandes,
 	(e) Entscheidung über die Teilnahme an der Wahl zum Niedersächsischen Landtag, und zu Organen der kommunalen Selbstverwaltung. Die Mitglieder entscheiden über die Kandidaten zur Landtagswahl.
 	(f) die Wahl des Landesvorstandes,
-	(g) Wahl des Landesparteischiedsgerichtes,
+	(g) Wahl des Landesschiedsgerichtes,
 	(h) die Wahl der beiden Rechnungsprüfer:innen.
 
 § 12 Urabstimmung
@@ -211,9 +210,9 @@ Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 (3) Neben dieser Satzung sind auch die Wahlordnung (WahlO), die Schiedsgerichtsordnung der Klimaliste Niedersachsen (SchONI) und die Finanzordnung (FinO) Teile der Satzung der Klimaliste Niedersachsen und haben daher Satzungsrang.
 
 § 16 Übergangsbestimmungen
-(1) Die Land-Kreise-Kammer konstituiert sich, sobald fünf Kreisverbände der Bundespartei bestehen.
+(1) Die Land-Kreise-Kammer konstituiert sich, sobald fünf Kreisverbände der Landesverbandes bestehen.
 Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verteilt, an dem der fünfte Kreisverband dem Landesverband beitritt.
-In diesem Zeitraum übernimmt der Landesparteitag die Aufgaben der Land-Kreise-Kammer.
+Bis zur Konstitution der Land-Kreise-Kammer übernimmt der Landesparteitag die Aufgaben der Land-Kreise-Kammer.
 (2) Die Amtszeit des ersten Landesvorstandes beträgt sechs Monate.
 (3) Für den Gründungsparteitag gilt weder eine Antragsfrist noch § 32 Abs. 1 Satz 2 BGB.
 (4) Der Gründungsparteitag beschließt mit einfacher Mehrheit, dass das Schiedsgericht nur mit zwei Schiedsrichter:innen bis zur nächsten Versammlung des Parteitages zu besetzen ist.
