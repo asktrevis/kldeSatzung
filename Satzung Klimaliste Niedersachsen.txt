@@ -3,17 +3,17 @@ Satzung Klimaliste Niedersachsen
 
 § 1 Name, Sitz und Tätigkeit des Landesverbandes
 (1) Der Landesverband trägt den Namen „Klimaliste Niedersachsen“ und die Kurzbezeichnung „Klimaliste NI“.
-(2) Der Sitz des Landesverbandes ist XXX(Schessel,Rotenburg(Wümme)).
+(2) Der Sitz des Landesverbandes ist Scheeßel.
 (3) Das Tätigkeitsgebiet des Landesverbandes ist das Land Niedersachsen.
 (4) Gebietsgliederungen und -untergliederungen tragen den Namen „Klimaliste“ mit dem Zusatz des jeweiligen Gebietsnamen.
 
-§ 2 Anerkennung des Grundkonsens Programm und Geltung der Satzung der Bundespartei
+§ 2 Grundkonsens, Programm und Geltung der Satzung der Bundespartei
 (1) Die Klimaliste Niedersachsen bekennt sich zur freiheitlichen, demokratischen, rechtsstaatlichen Grundordnung, der unantastbaren Menschenwürde, dem Sozialstaat und der Freiheit der Menschen.
 (2) Die Klimaliste Niedersachsen bekennt sich zum Grundkonsens der Klimaliste Deutschland.
 (3) Die Klimaliste gibt sich ein Landesparteiprogramm. Das Programm ist Ausdruck des gemeinsamen politischen Willens.
     Es bewegt sich im Rahmen des Grundkonsenses und wird mit einfacher Mehrheit vom Landesparteitag verabschiedet.
 Es kann durch Beschluss des Landesparteitags mit einfacher Mehrheit geändert werden.
-(4) Es gilt die Satzung der Klimaliste Deutschland.
+(4) Es gilt die Satzung der Klimaliste Deutschland, es sei denn, diese Landessatzung sieht eine eigene Regelung vor.
 (5) Fehlt eine Regelung in der Landessatzung, gilt die Satzung der Bundespartei analog für die Landesebene. Dabei tritt die Landesebene an die Stelle der Bundesebene und die Kreisebene an die Stelle der Landesebene.
 
 § 3 Aufnahme und Austritt der Mitglieder
@@ -121,7 +121,7 @@ Das Nähere regelt die Wahlordnung.
 (1) Der Landesvorstand führt den Landesverband nach Maßgabe dieser Satzung und der Beschlüsse der übergeordneten Parteiorgane.
 Die Geschäftsführungsbefugnis kann vom Landesvorstand delegiert werden.
 (2) Dem Landesvorstand gehören mindestens vier Mitglieder an: Zwei Vorsitzende, ein Mitglied im Amt als Schatzmeister:in und mindestens zwei weitere Mitglieder als Beisitzer. Die Anzahl der Beisitzer kann bis zu vier betragen. Die Anzahl der Personen im Landesvorstand ist auf 7 Personen begrenzt.
-Aus einem Landkreis können maximal zwei Personen im Landesvorstand vertreten sein.
+Aus einem Landkreis sollten - sofern möglich - maximal zwei Personen im Landesvorstand vertreten sein.
 Die Mitglieder werden für die Dauer von zwei Jahren gewählt.
 (3) Das Landesvorstand wird durch mindestens zwei Mitglieder, darunter der/die Vorsitzende oder dessen/deren Stellvertreter:in, gemeinsam gerichtlich und außergerichtlich vertreten.
 (4) Mitglieder der Partei, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zur Bundespartei, ihren Gliederungen oder einer Landtags- oder Bundestagsfraktion stehen, oder ein Landtags- oder Bundestagsmandat innehaben, können kein Parteivorstandsamt bekleiden; Regelungen zur finanziellen Entschädigung des Landessvorstandes bleiben davon unberührt.
@@ -211,9 +211,9 @@ Eine Finanzordnung ist Bestandteil der jeweiligen Satzung und hat Satzungsrang.
 
 § 16 Übergangsbestimmungen
 (1) Die Land-Kreise-Kammer konstituiert sich, sobald fünf Kreisverbände der Landesverbandes bestehen.
-Die ersten Delegierten werden gemäß der Mitgliedzahlen am Ende des Tages verteilt, an dem der fünfte Kreisverband dem Landesverband beitritt.
+Die ersten Delegierten werden gemäß der Mitgliederzahlen am Ende des Tages verteilt, an dem der fünfte Kreisverband dem Landesverband beitritt.
 Bis zur Konstitution der Land-Kreise-Kammer übernimmt der Landesparteitag die Aufgaben der Land-Kreise-Kammer.
-(2) Die Amtszeit des ersten Landesvorstandes beträgt sechs Monate.
+(2) Die Amtszeit des ersten Landesvorstandes beträgt zwölf Monate.
 (3) Für den Gründungsparteitag gilt weder eine Antragsfrist noch § 32 Abs. 1 Satz 2 BGB.
 
 § 17 Mehrheit
@@ -229,7 +229,7 @@ Bis zur Konstitution der Land-Kreise-Kammer übernimmt der Landesparteitag die A
 § 19 Förderung von FINTA*-Personen
 (1) Die politische Willensbildung von FINTA*-Menschen (Frauen, inter, nicht-binäre, trans und agender Menschen, Queer) in der Partei ist aktiv zu fördern. Es ist Ziel der Klimaliste Niedersachsen, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden.
 (2) In allen Versammlungen und Gremien der Partei ab 10 Personen wird eine quotierte Redeliste für FINTA*-Menschen geführt. Unter der Voraussetzung entsprechender Wortmeldungen wird mindestens jeder zweite Redebeitrag von einem FINTA*-Menschen aufgerufen. Sind weniger als 10 Personen anwesend, kann eine quotierte Redeliste für FINTA*-Menschen beantragt werden.
-(4) Vorstände, Kommissionen, Arbeitsgremien und Delegierte sollen wenn möglich mindestens zur Hälfte mit FINTA*-Menschen besetzt werden. Im Vorstand von 6 Personen sollen wenn möglich mindestens 3 FINTA*-Personenvertreten sein. Das genaue Wahlverfahren regelt die Wahlordnung.
+(4) Vorstände, Kommissionen, Arbeitsgremien und Delegierte sollen wenn möglich mindestens zur Hälfte mit FINTA*-Menschen besetzt werden. Im Vorstand von 6 Personen sollen wenn möglich mindestens 3 FINTA*-Personen vertreten sein. Das genaue Wahlverfahren regelt die Wahlordnung.
 Bei der Aufstellung von Wahlbewerbenden für Parlamente und kommunale Vertretungskörperschaften ist wenn möglich auf einen Anteil von möglichst 50% FINTA*-Personen in der Fraktion bzw. in der Abgeordnetengruppe hinzuwirken. Das genaue Wahlverfahren regelt die Wahlordnung. Hiervon unberührt bleibt die Möglichkeit der Versammlung, einzelne Bewerber*innen abzulehnen.
 (5) Wann immer alle Geschlechter / Gender angesprochen sind, wird die Schreibweise mit * oder eine neutrale Bezeichnung genutzt.
 

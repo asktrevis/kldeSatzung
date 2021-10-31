@@ -77,7 +77,7 @@ Sonst endet das Verfahren (ggf. noch freie Positionen bleiben vakant), sofern di
 (5) Bleiben nach einem Wahlgang gemäß Absatz 6 Plätze unbesetzt, entscheidet die Versammlung, ob ein weiterer Wahlgang stattfinden soll.
 Wählbar ist im nächsten Wahlgang, wer beim letzten Wahlgang wählbar war und nicht gewählt wurde oder wer sich für den nächsten Wahlgang durch Zuruf gemäß § 5 bewirbt.
 (6) Falls nur ein Platz zu besetzen ist, wird abweichend von Absatz 1 nur auf einer Liste gewählt, auf der alle Bewerbenden stehen.
-Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählendende Position keine besondere Zuständigkeit (z.B. Schatzmeister:in) innehat.
+Dieser Absatz findet bei einer Nachwahl keine Anwendung, sofern die zu wählende Position keine besondere Zuständigkeit (z.B. Schatzmeister:in) innehat.
 
 § 9 Stimmzettel, Stimmenauszählung und ungültige Stimmen
 (1) Die Stimmzettel sind so zu gestalten, dass vor/hinter jedem:jeder Bewerber:in die möglichen Wahloptionen aufgelistet werden, die dann durch den Wählenden angekreuzt werden können.
@@ -91,7 +91,7 @@ Es ist sicherzustellen, dass Beobachter:innen keine Notizen anfertigen und keine
 
 § 10 Briefwahl
 (1) Im Falle einer Briefwahl wird abweichend von § 6 Absatz 1 gleichzeitig gewählt.
-(2) Im Falle einer Briefwahl ist die Kandidatur für mehrere Positionen auch dann erlaubt, wenn ein gleichzeitges Innehaben der Ämter ausgeschlossen ist.
+(2) Im Falle einer Briefwahl ist die Kandidatur für mehrere Positionen auch dann erlaubt, wenn ein gleichzeitiges Innehaben der Ämter ausgeschlossen ist.
 Falls eine Person für solche Positionen gewählt wird, muss sie binnen 72 Stunden nach Veröffentlichung des vorläufigen Wahlergebnisses eine dieser Positionen in Textform ablehnen.
 Unterbleibt eine Rückmeldung, gelten alle Positionen als abgelehnt.
 (3) Im Falle einer Briefwahl findet ein weiterer Wahlgang nach § 8 Absatz 5 nicht statt.
